@@ -1,20 +1,51 @@
-<!-- index.html -->
-
 <!DOCTYPE html>
-<html>
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/r-2.2.6/datatables.min.css"/>
 </head>
+
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      //...
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <b>PlayStation 5 Backwards Compatibility Status</b><br>
+    This compatibility data has been extracted from APIs accessed by https://library.playstation.com/ as at 30/10/2020
+    <br><br>
+
+    <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Title Id</th>
+                <th>Title Name</th>
+                <th>Title Category</th>
+                <th>PS VR</th>
+                <th>PS4 Pro</th>
+                <th>PS5 BC</th>
+            </tr>
+        </thead>
+    </table>
+
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/r-2.2.6/datatables.min.js"></script>
+
+    <script>
+        $(document).ready( function () {
+            
+        $('#example').DataTable( {
+            processing: true,
+            orderCellsTop: true,
+            fixedHeader: true,
+            ajax: {
+                url: 'PS5-BC-Status.json',
+                dataSrc: ''
+            },
+            columns: [
+            { data: 'npTitleIdshort' },
+            { data: 'name' },
+            { data: 'category' },
+            { data: 'psVr' },
+            { data: 'neoEnable' },
+            { data: 'ps5bc' }
+            ]
+        } );
+    } );
+    </script>
 </body>
-</html>
