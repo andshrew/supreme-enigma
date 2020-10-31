@@ -8,7 +8,7 @@
 
 <body>
     <b>PlayStation 5 Backwards Compatibility Status</b><br>
-    This compatibility data has been extracted from APIs accessed by https://library.playstation.com/ as at 30/10/2020
+    This compatibility data has been extracted from APIs accessed by https://library.playstation.com/ as at 31/10/2020
     <br>
     <ul>
         <li>COMPATIBLE - "To play this game on PS5, your system may need to be updated to the latest system software. Although this game is playable on PS5, some features available on PS4 may be absent"</li>
@@ -26,6 +26,7 @@
                 <th>Title Id</th>
                 <th>Title Name</th>
                 <th>Title Category</th>
+                <th>Title Region</th>
                 <th>PS VR</th>
                 <th>PS4 Pro</th>
                 <th>PS5 BC</th>
@@ -51,12 +52,13 @@
                 { data: 'npTitleIdshort' },
                 { data: 'name' },
                 { data: 'category' },
+                { data: 'region'},
                 { data: 'psVr' },
                 { data: 'neoEnable' },
                 { data: 'ps5bc' }
                 ],
                 initComplete: function () {
-                    this.api().columns([2, 3, 4, 5]).every( function () {
+                    this.api().columns([2, 3, 4, 5, 6]).every( function () {
                         var column = this;
                         var select = $('<br><select><option value=""></option></select>')
                             .appendTo( $(column.header()) )
