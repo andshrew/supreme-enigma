@@ -37,25 +37,49 @@
 
     <script>
         $(document).ready( function () {
-            
-        $('#example').DataTable( {
-            processing: true,
-            orderCellsTop: true,
-            fixedHeader: true,
-            lengthMenu: [[10, 25, 50, -1], [10, 25, 50, "All"]],
-            ajax: {
-                url: 'PS5-BC-Status.json',
-                dataSrc: ''
-            },
-            columns: [
-            { data: 'npTitleIdshort' },
-            { data: 'name' },
-            { data: 'category' },
-            { data: 'psVr' },
-            { data: 'neoEnable' },
-            { data: 'ps5bc' }
-            ]
+           
+            var table = $('#example').DataTable( {
+                processing: true,
+                orderCellsTop: true,
+                fixedHeader: true,
+                lengthMenu: [[10, 25, 50, -1], [10, 25, 50, "All"]],
+                ajax: {
+                    url: 'PS5-BC-Status.json',
+                    dataSrc: ''
+                },
+                columns: [
+                { data: 'npTitleIdshort' },
+                { data: 'name' },
+                { data: 'category' },
+                { data: 'psVr' },
+                { data: 'neoEnable' },
+                { data: 'ps5bc' }
+                ],
+                initComplete: function () {
+                    this.api().columns([2, 3, 4, 5]).every( function () {
+                        var column = this;
+                        var select = $('<br><select><option value=""></option></select>')
+                            .appendTo( $(column.header()) )
+                            .on( 'change', function () {
+                                var val = $.fn.dataTable.util.escapeRegex(
+                                    $(this).val()
+                                );
+        
+                                column
+                                    .search( val ? '^'+val+'$' : '', true, false )
+                                    .draw();
+                            } );
+
+                        $( select ).click( function(e) {
+                            e.stopPropagation();
+                    });
+ 
+                    column.data().unique().sort().each( function ( d, j ) {
+                        select.append( '<option value="'+d+'">'+d+'</option>' )
+                        } );
+                    } );
+                } 
+            } );
         } );
-    } );
     </script>
 </body>
