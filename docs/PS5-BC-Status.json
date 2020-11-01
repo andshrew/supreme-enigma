@@ -168826,5 +168826,115 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-01T14:29:48.2972197Z"
+  },
+  {
+    "npTitleId": "CUSA20421_00",
+    "npTitleIdshort": "CUSA20421",
+    "name": "Sackboy: A Big Adventure - The Gathering Storm",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.1482353Z"
+  },
+  {
+    "npTitleId": "CUSA20428_00",
+    "npTitleIdshort": "CUSA20428",
+    "name": "Sackboy: A Big Adventure - The Gathering Storm",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.164298Z"
+  },
+  {
+    "npTitleId": "CUSA20429_00",
+    "npTitleIdshort": "CUSA20429",
+    "name": "Sackboy: A Big Adventure Bonus Content",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.174716Z"
+  },
+  {
+    "npTitleId": "CUSA20434_00",
+    "npTitleIdshort": "CUSA20434",
+    "name": "Sackboy: A Big Adventure Bonus Content",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.1891044Z"
+  },
+  {
+    "npTitleId": "CUSA20436_00",
+    "npTitleIdshort": "CUSA20436",
+    "name": "リビッツ！ビッグ・アドベンチャー 嵐の予感",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.199522Z"
+  },
+  {
+    "npTitleId": "CUSA20438_00",
+    "npTitleIdshort": "CUSA20438",
+    "name": "リビッツ！ビッグ・アドベンチャー ボーナスコンテンツ",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.2122827Z"
+  },
+  {
+    "npTitleId": "CUSA20440_00",
+    "npTitleIdshort": "CUSA20440",
+    "name": "Sackboy: A Big Adventure - The Gathering Storm",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.2223885Z"
+  },
+  {
+    "npTitleId": "CUSA20441_00",
+    "npTitleIdshort": "CUSA20441",
+    "name": "Sackboy: A Big Adventure Bonus Content",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.2345284Z"
+  },
+  {
+    "npTitleId": "CUSA20443_00",
+    "npTitleIdshort": "CUSA20443",
+    "name": "麻布仔大冒险风暴前夕",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.2451358Z"
+  },
+  {
+    "npTitleId": "CUSA20444_00",
+    "npTitleIdshort": "CUSA20444",
+    "name": "麻布仔大冒险奖励内容",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-01T22:05:54.2572352Z"
   }
 ]
