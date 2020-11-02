@@ -168936,5 +168936,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-01T22:05:54.2572352Z"
+  },
+  {
+    "npTitleId": "CUSA20307_00",
+    "npTitleIdshort": "CUSA20307",
+    "name": "No Thing",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-02T21:39:19.5960374Z"
+  },
+  {
+    "npTitleId": "CUSA20336_00",
+    "npTitleIdshort": "CUSA20336",
+    "name": "No Thing",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-02T21:39:19.6086344Z"
+  },
+  {
+    "npTitleId": "CUSA24395_00",
+    "npTitleIdshort": "CUSA24395",
+    "name": "Pachi Pachi",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-02T21:39:19.621984Z"
+  },
+  {
+    "npTitleId": "CUSA18549_00",
+    "npTitleIdshort": "CUSA18549",
+    "name": "M.A.C.E. Space Shooter",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-02T21:39:19.6334407Z"
   }
 ]
