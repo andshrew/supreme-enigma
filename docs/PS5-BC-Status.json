@@ -2625,8 +2625,8 @@
     "category": "gde",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "COMPATIBLE",
-    "date": "2020-11-01T14:25:43.4366084Z"
+    "ps5bc": "NOT_COMPATIBLE",
+    "date": "2020-11-03T16:45:39.1099203Z"
   },
   {
     "npTitleId": "CUSA00279_00",
@@ -19708,8 +19708,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:09.5717681Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-03T16:46:27.3546264Z"
   },
   {
     "npTitleId": "CUSA02329_00",
@@ -38001,8 +38001,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:32.8823708Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-03T16:47:09.9270182Z"
   },
   {
     "npTitleId": "CUSA04586_00",
@@ -168980,5 +168980,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-02T21:39:19.6334407Z"
+  },
+  {
+    "npTitleId": "CUSA23788_00",
+    "npTitleIdshort": "CUSA23788",
+    "name": "My Universe - Cooking Star Restaurant",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-03T16:52:50.4126157Z"
+  },
+  {
+    "npTitleId": "CUSA23789_00",
+    "npTitleIdshort": "CUSA23789",
+    "name": "My Universe - Cooking Star Restaurant",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-03T16:52:50.4270716Z"
+  },
+  {
+    "npTitleId": "CUSA20169_00",
+    "npTitleIdshort": "CUSA20169",
+    "name": "ライザのアトリエ２ ～失われた伝承と秘密の妖精～",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-03T16:52:50.4385322Z"
+  },
+  {
+    "npTitleId": "CUSA20331_00",
+    "npTitleIdshort": "CUSA20331",
+    "name": "萊莎的鍊金工房２ ～失落傳說與秘密妖精～",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-03T16:52:50.4521965Z"
+  },
+  {
+    "npTitleId": "CUSA19201_00",
+    "npTitleIdshort": "CUSA19201",
+    "name": "CAN ANDROIDS PRAY: BLUE",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-03T16:52:50.4639046Z"
   }
 ]
