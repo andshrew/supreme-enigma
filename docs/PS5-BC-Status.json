@@ -169112,5 +169112,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-04T15:53:36.8069646Z"
+  },
+  {
+    "npTitleId": "CUSA23757_00",
+    "npTitleIdshort": "CUSA23757",
+    "name": "Bridge Constructor: The Walking Dead",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T21:39:05.1488275Z"
+  },
+  {
+    "npTitleId": "CUSA23758_00",
+    "npTitleIdshort": "CUSA23758",
+    "name": "Bridge Constructor: The Walking Dead",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T21:39:05.1610734Z"
   }
 ]
