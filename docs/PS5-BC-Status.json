@@ -169035,5 +169035,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-03T16:52:50.4639046Z"
+  },
+  {
+    "npTitleId": "CUSA25098_00",
+    "npTitleIdshort": "CUSA25098",
+    "name": "Arcade Archives Pettan Pyuu",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T15:53:36.7309235Z"
+  },
+  {
+    "npTitleId": "CUSA25099_00",
+    "npTitleIdshort": "CUSA25099",
+    "name": "Arcade Archives Pettan Pyuu",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T15:53:36.7431917Z"
+  },
+  {
+    "npTitleId": "CUSA24682_00",
+    "npTitleIdshort": "CUSA24682",
+    "name": "Jade's Ascension",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T15:53:36.7562533Z"
+  },
+  {
+    "npTitleId": "CUSA24683_00",
+    "npTitleIdshort": "CUSA24683",
+    "name": "Jade's Ascension",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T15:53:36.767438Z"
+  },
+  {
+    "npTitleId": "CUSA23465_00",
+    "npTitleIdshort": "CUSA23465",
+    "name": "Worms Rumble",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T15:53:36.7811846Z"
+  },
+  {
+    "npTitleId": "CUSA23467_00",
+    "npTitleIdshort": "CUSA23467",
+    "name": "Worms Rumble",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T15:53:36.793179Z"
+  },
+  {
+    "npTitleId": "CUSA25498_00",
+    "npTitleIdshort": "CUSA25498",
+    "name": "Chickens On The Road",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-04T15:53:36.8069646Z"
   }
 ]
