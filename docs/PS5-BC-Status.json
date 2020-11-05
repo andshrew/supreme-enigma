@@ -2416,8 +2416,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:43.352551Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T12:59:48.3434604Z"
   },
   {
     "npTitleId": "CUSA00256_00",
@@ -9555,8 +9555,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:53.8709347Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:00:04.8542154Z"
   },
   {
     "npTitleId": "CUSA01082_00",
@@ -169134,5 +169134,104 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-04T21:39:05.1610734Z"
+  },
+  {
+    "npTitleId": "CUSA23431_00",
+    "npTitleIdshort": "CUSA23431",
+    "name": "Ord.",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.7541265Z"
+  },
+  {
+    "npTitleId": "CUSA24963_00",
+    "npTitleIdshort": "CUSA24963",
+    "name": "二角取りゲーム NIKAKUdori",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.7684638Z"
+  },
+  {
+    "npTitleId": "CUSA25027_00",
+    "npTitleIdshort": "CUSA25027",
+    "name": "Shisen-sho NIKAKUdori",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.7796909Z"
+  },
+  {
+    "npTitleId": "CUSA25046_00",
+    "npTitleIdshort": "CUSA25046",
+    "name": "Shisen-sho NIKAKUdori",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.7927829Z"
+  },
+  {
+    "npTitleId": "CUSA25047_00",
+    "npTitleIdshort": "CUSA25047",
+    "name": "四川麻將 NIKAKUdori",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.8067263Z"
+  },
+  {
+    "npTitleId": "CUSA15010_00",
+    "npTitleIdshort": "CUSA15010",
+    "name": "Call of Duty®: Black Ops Cold War",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.8181528Z"
+  },
+  {
+    "npTitleId": "CUSA24267_00",
+    "npTitleIdshort": "CUSA24267",
+    "name": "Call of Duty®: Black Ops Cold War",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.8322709Z"
+  },
+  {
+    "npTitleId": "CUSA24268_00",
+    "npTitleIdshort": "CUSA24268",
+    "name": "Call of Duty®: Black Ops Cold War",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.843633Z"
+  },
+  {
+    "npTitleId": "CUSA24269_00",
+    "npTitleIdshort": "CUSA24269",
+    "name": "Call of Duty®: Black Ops Cold War",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-05T13:05:45.8573292Z"
   }
 ]
