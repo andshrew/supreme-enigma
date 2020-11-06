@@ -4880,8 +4880,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:48.0232861Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T14:55:00.2308617Z"
   },
   {
     "npTitleId": "CUSA00523_00",
@@ -16276,8 +16276,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:04.4080981Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T14:55:23.2273427Z"
   },
   {
     "npTitleId": "CUSA01896_00",
@@ -17530,8 +17530,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:04.951108Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T14:55:24.4002248Z"
   },
   {
     "npTitleId": "CUSA02033_00",
@@ -17541,8 +17541,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:04.9563002Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T14:55:24.4113483Z"
   },
   {
     "npTitleId": "CUSA02034_00",
