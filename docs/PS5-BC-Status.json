@@ -169233,5 +169233,93 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-05T13:05:45.8573292Z"
+  },
+  {
+    "npTitleId": "CUSA25542_00",
+    "npTitleIdshort": "CUSA25542",
+    "name": "Elliot",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.4351084Z"
+  },
+  {
+    "npTitleId": "CUSA25543_00",
+    "npTitleIdshort": "CUSA25543",
+    "name": "Elliot",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.448074Z"
+  },
+  {
+    "npTitleId": "CUSA18697_00",
+    "npTitleIdshort": "CUSA18697",
+    "name": "KINGDOM HEARTS Melody of Memory",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.4586601Z"
+  },
+  {
+    "npTitleId": "CUSA18879_00",
+    "npTitleIdshort": "CUSA18879",
+    "name": "KINGDOM HEARTS Melody of Memory",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.4702202Z"
+  },
+  {
+    "npTitleId": "CUSA18900_00",
+    "npTitleIdshort": "CUSA18900",
+    "name": "KINGDOM HEARTS Melody of Memory",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.4805602Z"
+  },
+  {
+    "npTitleId": "CUSA20136_00",
+    "npTitleIdshort": "CUSA20136",
+    "name": "KINGDOM HEARTS Melody of Memory",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.4924428Z"
+  },
+  {
+    "npTitleId": "CUSA23966_00",
+    "npTitleIdshort": "CUSA23966",
+    "name": "Steampunk Tower 2",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.5016871Z"
+  },
+  {
+    "npTitleId": "CUSA23967_00",
+    "npTitleIdshort": "CUSA23967",
+    "name": "Steampunk Tower 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T09:53:16.5138541Z"
   }
 ]
