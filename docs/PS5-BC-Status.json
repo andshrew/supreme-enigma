@@ -169321,5 +169321,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-06T09:53:16.5138541Z"
+  },
+  {
+    "npTitleId": "CUSA25255_00",
+    "npTitleIdshort": "CUSA25255",
+    "name": "Rusty Spout Rescue Adventure",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T19:55:44.9647961Z"
+  },
+  {
+    "npTitleId": "CUSA25257_00",
+    "npTitleIdshort": "CUSA25257",
+    "name": "Rusty Spout Rescue Adventure",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T19:55:44.974582Z"
+  },
+  {
+    "npTitleId": "CUSA18531_00",
+    "npTitleIdshort": "CUSA18531",
+    "name": "Summer in Mara",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T19:55:44.9860278Z"
+  },
+  {
+    "npTitleId": "CUSA20104_00",
+    "npTitleIdshort": "CUSA20104",
+    "name": "チルドレン・オブ・モルタ　～家族の絆の物語～",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-06T19:55:44.9955035Z"
   }
 ]
