@@ -148683,8 +148683,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:19.9464123Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:26:25.2805798Z"
   },
   {
     "npTitleId": "CUSA17792_00",
@@ -151378,8 +151378,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:24.8571841Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:26:32.6635702Z"
   },
   {
     "npTitleId": "CUSA18187_00",
@@ -151829,8 +151829,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:25.0738721Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:26:33.191802Z"
   },
   {
     "npTitleId": "CUSA18247_00",
@@ -151873,8 +151873,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:25.0944944Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:26:33.2463668Z"
   },
   {
     "npTitleId": "CUSA18255_00",
@@ -169365,5 +169365,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-06T19:55:44.9955035Z"
+  },
+  {
+    "npTitleId": "CUSA18522_00",
+    "npTitleIdshort": "CUSA18522",
+    "name": "Assassin's Creed® Valhalla",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:43:31.9809532Z"
+  },
+  {
+    "npTitleId": "CUSA18524_00",
+    "npTitleIdshort": "CUSA18524",
+    "name": "Assassin's Creed® Valhalla",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:43:31.9920569Z"
+  },
+  {
+    "npTitleId": "CUSA18534_00",
+    "npTitleIdshort": "CUSA18534",
+    "name": "Assassin's Creed® Valhalla",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:43:32.0160128Z"
+  },
+  {
+    "npTitleId": "CUSA18535_00",
+    "npTitleIdshort": "CUSA18535",
+    "name": "Assassin's Creed® Valhalla",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:43:32.0345803Z"
+  },
+  {
+    "npTitleId": "CUSA18536_00",
+    "npTitleIdshort": "CUSA18536",
+    "name": "Assassin's Creed® Valhalla",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-08T10:43:32.060242Z"
   }
 ]
