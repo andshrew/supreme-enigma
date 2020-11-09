@@ -169420,5 +169420,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-08T10:43:32.060242Z"
+  },
+  {
+    "npTitleId": "CUSA17703_00",
+    "npTitleIdshort": "CUSA17703",
+    "name": "Liftoff: Drone Racing",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-09T19:46:31.0744763Z"
+  },
+  {
+    "npTitleId": "CUSA25181_00",
+    "npTitleIdshort": "CUSA25181",
+    "name": "Buster's Quest: Trials of Hamsterdam",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-09T19:46:31.0894514Z"
+  },
+  {
+    "npTitleId": "CUSA25042_00",
+    "npTitleIdshort": "CUSA25042",
+    "name": "Fantasy Friends",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-09T19:46:31.1054984Z"
+  },
+  {
+    "npTitleId": "CUSA25320_00",
+    "npTitleIdshort": "CUSA25320",
+    "name": "Speaking Simulator",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-09T19:46:31.1327968Z"
+  },
+  {
+    "npTitleId": "CUSA25330_00",
+    "npTitleIdshort": "CUSA25330",
+    "name": "Gravity Heroes Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-09T19:46:31.1474117Z"
+  },
+  {
+    "npTitleId": "CUSA25467_00",
+    "npTitleIdshort": "CUSA25467",
+    "name": "Speaking Simulator",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-09T19:46:31.1646412Z"
   }
 ]
