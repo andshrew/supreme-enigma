@@ -169728,5 +169728,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-10T16:26:52.0398277Z"
+  },
+  {
+    "npTitleId": "CUSA24509_00",
+    "npTitleIdshort": "CUSA24509",
+    "name": "Demon's Souls Original Soundtrack",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T22:38:12.9478028Z"
+  },
+  {
+    "npTitleId": "CUSA24510_00",
+    "npTitleIdshort": "CUSA24510",
+    "name": "Demon's Souls Original Soundtrack",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T22:38:12.9785356Z"
+  },
+  {
+    "npTitleId": "CUSA24511_00",
+    "npTitleIdshort": "CUSA24511",
+    "name": "Demon's Souls Original Soundtrack",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T22:38:12.9971504Z"
+  },
+  {
+    "npTitleId": "CUSA24512_00",
+    "npTitleIdshort": "CUSA24512",
+    "name": "Demon's Souls Original Soundtrack",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T22:38:13.0102064Z"
   }
 ]
