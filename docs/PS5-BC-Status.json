@@ -81990,8 +81990,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:39.6906155Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:23:54.6454397Z"
   },
   {
     "npTitleId": "CUSA09649_00",
@@ -169486,5 +169486,247 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-09T19:46:31.1646412Z"
+  },
+  {
+    "npTitleId": "CUSA25329_00",
+    "npTitleIdshort": "CUSA25329",
+    "name": "Gravity Heroes Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.6466398Z"
+  },
+  {
+    "npTitleId": "CUSA25906_00",
+    "npTitleIdshort": "CUSA25906",
+    "name": "Christmas Break Head to Head",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.6898278Z"
+  },
+  {
+    "npTitleId": "CUSA25907_00",
+    "npTitleIdshort": "CUSA25907",
+    "name": "Christmas Break Head to Head",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.7215986Z"
+  },
+  {
+    "npTitleId": "CUSA16241_00",
+    "npTitleIdshort": "CUSA16241",
+    "name": "FUSER™",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.7346089Z"
+  },
+  {
+    "npTitleId": "CUSA17700_00",
+    "npTitleIdshort": "CUSA17700",
+    "name": "Liftoff: Drone Racing",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.748337Z"
+  },
+  {
+    "npTitleId": "CUSA19596_00",
+    "npTitleIdshort": "CUSA19596",
+    "name": "Just Dance® 2021",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.7612938Z"
+  },
+  {
+    "npTitleId": "CUSA23976_00",
+    "npTitleIdshort": "CUSA23976",
+    "name": "Just Dance® 2021",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.7756902Z"
+  },
+  {
+    "npTitleId": "CUSA24009_00",
+    "npTitleIdshort": "CUSA24009",
+    "name": "FUSER™",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.7901089Z"
+  },
+  {
+    "npTitleId": "CUSA24166_00",
+    "npTitleIdshort": "CUSA24166",
+    "name": "Just Dance® 2021 DEMO",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.8066589Z"
+  },
+  {
+    "npTitleId": "CUSA24167_00",
+    "npTitleIdshort": "CUSA24167",
+    "name": "Just Dance® 2021 DEMO",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.83624Z"
+  },
+  {
+    "npTitleId": "CUSA25768_00",
+    "npTitleIdshort": "CUSA25768",
+    "name": "Tyd wag vir Niemand - Soundtrack",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.8625434Z"
+  },
+  {
+    "npTitleId": "CUSA25769_00",
+    "npTitleIdshort": "CUSA25769",
+    "name": "Tyd wag vir Niemand - Soundtrack",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.8795883Z"
+  },
+  {
+    "npTitleId": "CUSA17722_00",
+    "npTitleIdshort": "CUSA17722",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.8947161Z"
+  },
+  {
+    "npTitleId": "CUSA17776_00",
+    "npTitleIdshort": "CUSA17776",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.9089919Z"
+  },
+  {
+    "npTitleId": "CUSA17839_00",
+    "npTitleIdshort": "CUSA17839",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.9219197Z"
+  },
+  {
+    "npTitleId": "CUSA18748_00",
+    "npTitleIdshort": "CUSA18748",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.9389107Z"
+  },
+  {
+    "npTitleId": "CUSA20176_00",
+    "npTitleIdshort": "CUSA20176",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.9537809Z"
+  },
+  {
+    "npTitleId": "CUSA20177_00",
+    "npTitleIdshort": "CUSA20177",
+    "name": "Marvel's Spider-Man: Miles Morales",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.9726225Z"
+  },
+  {
+    "npTitleId": "CUSA17602_00",
+    "npTitleIdshort": "CUSA17602",
+    "name": "Planet Coaster",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:51.9889321Z"
+  },
+  {
+    "npTitleId": "CUSA17609_00",
+    "npTitleIdshort": "CUSA17609",
+    "name": "Planet Coaster",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:52.0063022Z"
+  },
+  {
+    "npTitleId": "CUSA25670_00",
+    "npTitleIdshort": "CUSA25670",
+    "name": "Sword of the Necromancer",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:52.0216156Z"
+  },
+  {
+    "npTitleId": "CUSA25671_00",
+    "npTitleIdshort": "CUSA25671",
+    "name": "Sword of the Necromancer",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-10T16:26:52.0398277Z"
   }
 ]
