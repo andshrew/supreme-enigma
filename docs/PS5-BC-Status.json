@@ -9258,8 +9258,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:53.7461174Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:54:06.119948Z"
   },
   {
     "npTitleId": "CUSA01049_00",
@@ -18619,8 +18619,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:05.4324847Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:54:23.5673945Z"
   },
   {
     "npTitleId": "CUSA02172_00",
@@ -38804,8 +38804,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:36.8876274Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:55:08.9616063Z"
   },
   {
     "npTitleId": "CUSA04688_00",
@@ -61695,8 +61695,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:07.9397153Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:55:52.4432838Z"
   },
   {
     "npTitleId": "CUSA07373_00",
@@ -61706,8 +61706,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:07.9438128Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:55:52.4684041Z"
   },
   {
     "npTitleId": "CUSA07374_00",
@@ -169772,5 +169772,258 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-10T22:38:13.0102064Z"
+  },
+  {
+    "npTitleId": "CUSA19225_00",
+    "npTitleIdshort": "CUSA19225",
+    "name": "The Pyraplex",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.4427307Z"
+  },
+  {
+    "npTitleId": "CUSA20322_00",
+    "npTitleIdshort": "CUSA20322",
+    "name": "Vampire: The Masquerade - Coteries of New York",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.4586587Z"
+  },
+  {
+    "npTitleId": "CUSA23519_00",
+    "npTitleIdshort": "CUSA23519",
+    "name": "Pocket Stables",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.4714269Z"
+  },
+  {
+    "npTitleId": "CUSA23521_00",
+    "npTitleIdshort": "CUSA23521",
+    "name": "Pocket Stables",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.4974958Z"
+  },
+  {
+    "npTitleId": "CUSA23522_00",
+    "npTitleIdshort": "CUSA23522",
+    "name": "Pocket Stables",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.510656Z"
+  },
+  {
+    "npTitleId": "CUSA23779_00",
+    "npTitleIdshort": "CUSA23779",
+    "name": "Ninja Village",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.526199Z"
+  },
+  {
+    "npTitleId": "CUSA23809_00",
+    "npTitleIdshort": "CUSA23809",
+    "name": "Epic Astro Story",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.5414893Z"
+  },
+  {
+    "npTitleId": "CUSA23810_00",
+    "npTitleIdshort": "CUSA23810",
+    "name": "Epic Astro Story",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.5591592Z"
+  },
+  {
+    "npTitleId": "CUSA23812_00",
+    "npTitleIdshort": "CUSA23812",
+    "name": "World Cruise Story",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.5730439Z"
+  },
+  {
+    "npTitleId": "CUSA23813_00",
+    "npTitleIdshort": "CUSA23813",
+    "name": "The Pyraplex",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:44.5876139Z"
+  },
+  {
+    "npTitleId": "CUSA23814_00",
+    "npTitleIdshort": "CUSA23814",
+    "name": "The Pyraplex",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.0210812Z"
+  },
+  {
+    "npTitleId": "CUSA23860_00",
+    "npTitleIdshort": "CUSA23860",
+    "name": "Oh! Edo Towns",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.0331983Z"
+  },
+  {
+    "npTitleId": "CUSA23862_00",
+    "npTitleIdshort": "CUSA23862",
+    "name": "Oh! Edo Towns",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.0440314Z"
+  },
+  {
+    "npTitleId": "CUSA23863_00",
+    "npTitleIdshort": "CUSA23863",
+    "name": "Oh! Edo Towns",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.0644696Z"
+  },
+  {
+    "npTitleId": "CUSA23867_00",
+    "npTitleIdshort": "CUSA23867",
+    "name": "Pocket Clothier",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.0797777Z"
+  },
+  {
+    "npTitleId": "CUSA23868_00",
+    "npTitleIdshort": "CUSA23868",
+    "name": "Pocket Clothier",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.0918419Z"
+  },
+  {
+    "npTitleId": "CUSA23869_00",
+    "npTitleIdshort": "CUSA23869",
+    "name": "Pocket Clothier",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.1069659Z"
+  },
+  {
+    "npTitleId": "CUSA24448_00",
+    "npTitleIdshort": "CUSA24448",
+    "name": "M.A.C.E. Space Shooter",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.1222469Z"
+  },
+  {
+    "npTitleId": "CUSA24475_00",
+    "npTitleIdshort": "CUSA24475",
+    "name": "The Pathless",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.13574Z"
+  },
+  {
+    "npTitleId": "CUSA24476_00",
+    "npTitleIdshort": "CUSA24476",
+    "name": "The Pathless",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.1520265Z"
+  },
+  {
+    "npTitleId": "CUSA24485_00",
+    "npTitleIdshort": "CUSA24485",
+    "name": "RainCity",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.1723487Z"
+  },
+  {
+    "npTitleId": "CUSA24902_00",
+    "npTitleIdshort": "CUSA24902",
+    "name": "The Pathless",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.1855668Z"
+  },
+  {
+    "npTitleId": "CUSA25930_00",
+    "npTitleIdshort": "CUSA25930",
+    "name": "Landflix Odyssey",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-11T19:59:48.1958457Z"
   }
 ]
