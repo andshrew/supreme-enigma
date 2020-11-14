@@ -153215,8 +153215,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:25.7519369Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:35:54.6812377Z"
   },
   {
     "npTitleId": "CUSA18473_00",
@@ -155162,8 +155162,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:30.6446745Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:01.0972803Z"
   },
   {
     "npTitleId": "CUSA18756_00",
@@ -170102,5 +170102,104 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-12T16:16:08.813068Z"
+  },
+  {
+    "npTitleId": "CUSA24836_00",
+    "npTitleIdshort": "CUSA24836",
+    "name": "CAN ANDROIDS PRAY: BLUE",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0007758Z"
+  },
+  {
+    "npTitleId": "CUSA25799_00",
+    "npTitleIdshort": "CUSA25799",
+    "name": "Spirit Arena",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0100523Z"
+  },
+  {
+    "npTitleId": "CUSA25800_00",
+    "npTitleIdshort": "CUSA25800",
+    "name": "Spirit Arena",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0187538Z"
+  },
+  {
+    "npTitleId": "CUSA26044_00",
+    "npTitleIdshort": "CUSA26044",
+    "name": "Rigid Force Redux Soundtrack",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 0,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0267258Z"
+  },
+  {
+    "npTitleId": "CUSA26045_00",
+    "npTitleIdshort": "CUSA26045",
+    "name": "Rigid Force Redux Soundtrack",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 0,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0352839Z"
+  },
+  {
+    "npTitleId": "CUSA24690_00",
+    "npTitleIdshort": "CUSA24690",
+    "name": "Rigid Force Redux",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0433346Z"
+  },
+  {
+    "npTitleId": "CUSA25931_00",
+    "npTitleIdshort": "CUSA25931",
+    "name": "Landflix Odyssey",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0657905Z"
+  },
+  {
+    "npTitleId": "CUSA18558_00",
+    "npTitleIdshort": "CUSA18558",
+    "name": "Summer in Mara",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0838621Z"
+  },
+  {
+    "npTitleId": "CUSA24625_00",
+    "npTitleIdshort": "CUSA24625",
+    "name": "Call of Duty®: Black Ops Cold War",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-14T17:36:32.0970409Z"
   }
 ]
