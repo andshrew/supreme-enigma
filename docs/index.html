@@ -37,12 +37,14 @@
                 <th>PS VR</th>
                 <th>PS4 Pro</th>
                 <th>PS5 BC</th>
+                <th>Last Change</th>
             </tr>
         </thead>
     </table>
 
     <script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.22/r-2.2.6/datatables.min.js"></script>
-
+    <script type="text/javascript" src="moment.js"></script>
+    
     <script>
         $(document).ready( function () {
            
@@ -62,7 +64,10 @@
                 { data: 'region'},
                 { data: 'psVr' },
                 { data: 'neoEnable' },
-                { data: 'ps5bc' }
+                { data: 'ps5bc' },
+                { data: 'date',
+                  render: function(data, type, row){
+                    return moment(data).format("DD/MM/YYYY"); }}
                 ],
                 initComplete: function () {
                     this.api().columns([2, 3, 4, 5, 6]).every( function () {
