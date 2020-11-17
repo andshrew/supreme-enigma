@@ -170201,5 +170201,115 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-14T17:36:32.0970409Z"
+  },
+  {
+    "npTitleId": "CUSA20569_00",
+    "npTitleIdshort": "CUSA20569",
+    "name": "Eldrador Creatures",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.5360223Z"
+  },
+  {
+    "npTitleId": "CUSA20617_00",
+    "npTitleIdshort": "CUSA20617",
+    "name": "Eldrador Creatures",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.5452394Z"
+  },
+  {
+    "npTitleId": "CUSA24672_00",
+    "npTitleIdshort": "CUSA24672",
+    "name": "Asdivine Hearts II",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.5566878Z"
+  },
+  {
+    "npTitleId": "CUSA18829_00",
+    "npTitleIdshort": "CUSA18829",
+    "name": "Poker Club",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.5729868Z"
+  },
+  {
+    "npTitleId": "CUSA18959_00",
+    "npTitleIdshort": "CUSA18959",
+    "name": "Poker Club",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.5921331Z"
+  },
+  {
+    "npTitleId": "CUSA25913_00",
+    "npTitleIdshort": "CUSA25913",
+    "name": "Big Dipper",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.6048629Z"
+  },
+  {
+    "npTitleId": "CUSA25539_00",
+    "npTitleIdshort": "CUSA25539",
+    "name": "ルインバース",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.6200429Z"
+  },
+  {
+    "npTitleId": "CUSA23371_00",
+    "npTitleIdshort": "CUSA23371",
+    "name": "GONNER2",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.6280158Z"
+  },
+  {
+    "npTitleId": "CUSA23372_00",
+    "npTitleIdshort": "CUSA23372",
+    "name": "GONNER2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.6555596Z"
+  },
+  {
+    "npTitleId": "CUSA24691_00",
+    "npTitleIdshort": "CUSA24691",
+    "name": "Rigid Force Redux",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-17T17:13:28.669122Z"
   }
 ]
