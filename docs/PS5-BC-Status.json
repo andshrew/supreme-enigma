@@ -170311,5 +170311,93 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-17T17:13:28.669122Z"
+  },
+  {
+    "npTitleId": "CUSA25591_00",
+    "npTitleIdshort": "CUSA25591",
+    "name": "Arcade Archives ZERO TEAM",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.7548048Z"
+  },
+  {
+    "npTitleId": "CUSA25593_00",
+    "npTitleIdshort": "CUSA25593",
+    "name": "Arcade Archives ZERO TEAM",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.7654376Z"
+  },
+  {
+    "npTitleId": "CUSA25372_00",
+    "npTitleIdshort": "CUSA25372",
+    "name": "Tesla Force",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.7747477Z"
+  },
+  {
+    "npTitleId": "CUSA25373_00",
+    "npTitleIdshort": "CUSA25373",
+    "name": "Tesla Force",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.7840885Z"
+  },
+  {
+    "npTitleId": "CUSA20500_00",
+    "npTitleIdshort": "CUSA20500",
+    "name": "BUBBLE BOBBLE 4 FRIENDS The Baron is Back!",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.7933419Z"
+  },
+  {
+    "npTitleId": "CUSA23873_00",
+    "npTitleIdshort": "CUSA23873",
+    "name": "Anime Studio Story",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.8024692Z"
+  },
+  {
+    "npTitleId": "CUSA23874_00",
+    "npTitleIdshort": "CUSA23874",
+    "name": "Anime Studio Story",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.81407Z"
+  },
+  {
+    "npTitleId": "CUSA23875_00",
+    "npTitleIdshort": "CUSA23875",
+    "name": "Anime Studio Story",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-18T22:36:03.8233627Z"
   }
 ]
