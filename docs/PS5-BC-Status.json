@@ -170399,5 +170399,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-18T22:36:03.8233627Z"
+  },
+  {
+    "npTitleId": "CUSA16454_00",
+    "npTitleIdshort": "CUSA16454",
+    "name": "Hitchhiker - A Mystery Game",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-19T08:05:59.9399585Z"
+  },
+  {
+    "npTitleId": "CUSA20310_00",
+    "npTitleIdshort": "CUSA20310",
+    "name": "Goetia",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-19T08:05:59.9592631Z"
+  },
+  {
+    "npTitleId": "CUSA20339_00",
+    "npTitleIdshort": "CUSA20339",
+    "name": "Goetia",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-19T08:05:59.9710137Z"
+  },
+  {
+    "npTitleId": "CUSA24043_00",
+    "npTitleIdshort": "CUSA24043",
+    "name": "Hitchhiker - A Mystery Game",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-19T08:05:59.9850098Z"
+  },
+  {
+    "npTitleId": "CUSA24205_00",
+    "npTitleIdshort": "CUSA24205",
+    "name": "Katamari Damacy Reroll",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-19T08:06:00.005932Z"
+  },
+  {
+    "npTitleId": "CUSA24508_00",
+    "npTitleIdshort": "CUSA24508",
+    "name": "The Art of Secret Ponchos",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-19T08:06:00.0209577Z"
+  },
+  {
+    "npTitleId": "CUSA25728_00",
+    "npTitleIdshort": "CUSA25728",
+    "name": "Shing Official Soundtrack",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 0,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-19T08:06:00.0349266Z"
   }
 ]
