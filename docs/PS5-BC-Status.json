@@ -170476,5 +170476,71 @@
     "neoEnable": 0,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-19T08:06:00.0349266Z"
+  },
+  {
+    "npTitleId": "CUSA25548_00",
+    "npTitleIdshort": "CUSA25548",
+    "name": "My Hidden Things",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-22T22:34:27.3303727Z"
+  },
+  {
+    "npTitleId": "CUSA25549_00",
+    "npTitleIdshort": "CUSA25549",
+    "name": "My Hidden Things",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-22T22:34:27.339375Z"
+  },
+  {
+    "npTitleId": "CUSA24623_00",
+    "npTitleIdshort": "CUSA24623",
+    "name": "Drawngeon: Dungeons of Ink and Paper",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-22T22:34:27.3480699Z"
+  },
+  {
+    "npTitleId": "CUSA24624_00",
+    "npTitleIdshort": "CUSA24624",
+    "name": "Drawngeon: Dungeons of Ink and Paper",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-22T22:34:27.355872Z"
+  },
+  {
+    "npTitleId": "CUSA20413_00",
+    "npTitleIdshort": "CUSA20413",
+    "name": "Ys IX: Monstrum Nox",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-22T22:34:27.3637758Z"
+  },
+  {
+    "npTitleId": "CUSA20414_00",
+    "npTitleIdshort": "CUSA20414",
+    "name": "Ys IX: Monstrum Nox",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-22T22:34:27.3722491Z"
   }
 ]
