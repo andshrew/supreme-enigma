@@ -161465,8 +161465,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:29:37.4710459Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:23.4580921Z"
   },
   {
     "npTitleId": "CUSA20201_00",
@@ -161509,8 +161509,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:29:37.4927709Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:23.502724Z"
   },
   {
     "npTitleId": "CUSA20205_00",
@@ -170542,5 +170542,203 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-22T22:34:27.3722491Z"
+  },
+  {
+    "npTitleId": "CUSA20392_00",
+    "npTitleIdshort": "CUSA20392",
+    "name": "Sparkle 4 Tales",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.1985375Z"
+  },
+  {
+    "npTitleId": "CUSA20407_00",
+    "npTitleIdshort": "CUSA20407",
+    "name": "Sparkle 4 Tales",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2074046Z"
+  },
+  {
+    "npTitleId": "CUSA25868_00",
+    "npTitleIdshort": "CUSA25868",
+    "name": "Seeds of Resilience",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.215457Z"
+  },
+  {
+    "npTitleId": "CUSA24878_00",
+    "npTitleIdshort": "CUSA24878",
+    "name": "Legends of Ethernal",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2254431Z"
+  },
+  {
+    "npTitleId": "CUSA24879_00",
+    "npTitleIdshort": "CUSA24879",
+    "name": "Legends of Ethernal",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2335044Z"
+  },
+  {
+    "npTitleId": "CUSA24987_00",
+    "npTitleIdshort": "CUSA24987",
+    "name": "Helheim Hassle",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2412001Z"
+  },
+  {
+    "npTitleId": "CUSA24988_00",
+    "npTitleIdshort": "CUSA24988",
+    "name": "Helheim Hassle",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2493055Z"
+  },
+  {
+    "npTitleId": "CUSA25134_00",
+    "npTitleIdshort": "CUSA25134",
+    "name": "Towaga Among Shadows",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2575907Z"
+  },
+  {
+    "npTitleId": "CUSA25136_00",
+    "npTitleIdshort": "CUSA25136",
+    "name": "Towaga Among Shadows",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2692624Z"
+  },
+  {
+    "npTitleId": "CUSA25869_00",
+    "npTitleIdshort": "CUSA25869",
+    "name": "Seeds of Resilience",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.2913537Z"
+  },
+  {
+    "npTitleId": "CUSA25584_00",
+    "npTitleIdshort": "CUSA25584",
+    "name": "The Art of Secret Ponchos",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.3003186Z"
+  },
+  {
+    "npTitleId": "CUSA25081_00",
+    "npTitleIdshort": "CUSA25081",
+    "name": "Kawaii Deathu Desu",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.313966Z"
+  },
+  {
+    "npTitleId": "CUSA23396_00",
+    "npTitleIdshort": "CUSA23396",
+    "name": "Mia's Picnic",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.3220327Z"
+  },
+  {
+    "npTitleId": "CUSA24959_00",
+    "npTitleIdshort": "CUSA24959",
+    "name": "Arcade Archives Green Beret",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.3321978Z"
+  },
+  {
+    "npTitleId": "CUSA24960_00",
+    "npTitleIdshort": "CUSA24960",
+    "name": "Arcade Archives Rush'n Attack",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.3482498Z"
+  },
+  {
+    "npTitleId": "CUSA24961_00",
+    "npTitleIdshort": "CUSA24961",
+    "name": "Arcade Archives Green Beret",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.3661538Z"
+  },
+  {
+    "npTitleId": "CUSA26208_00",
+    "npTitleIdshort": "CUSA26208",
+    "name": "Mia's Picnic",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.3921894Z"
+  },
+  {
+    "npTitleId": "CUSA20212_00",
+    "npTitleIdshort": "CUSA20212",
+    "name": "Northgard",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-25T19:03:43.4110763Z"
   }
 ]
