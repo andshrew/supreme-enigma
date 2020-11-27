@@ -170740,5 +170740,148 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-25T19:03:43.4110763Z"
+  },
+  {
+    "npTitleId": "CUSA13995_00",
+    "npTitleIdshort": "CUSA13995",
+    "name": "ガレリアの地下迷宮と魔女ノ旅団",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.2724957Z"
+  },
+  {
+    "npTitleId": "CUSA25592_00",
+    "npTitleIdshort": "CUSA25592",
+    "name": "Arcade Archives ZERO TEAM",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.2852461Z"
+  },
+  {
+    "npTitleId": "CUSA24286_00",
+    "npTitleIdshort": "CUSA24286",
+    "name": "Awakening of Cthulhu",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.2948799Z"
+  },
+  {
+    "npTitleId": "CUSA24719_00",
+    "npTitleIdshort": "CUSA24719",
+    "name": "Awakening of Cthulhu",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.3142582Z"
+  },
+  {
+    "npTitleId": "CUSA19092_00",
+    "npTitleIdshort": "CUSA19092",
+    "name": "Planetary Defense Force",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.3240007Z"
+  },
+  {
+    "npTitleId": "CUSA25353_00",
+    "npTitleIdshort": "CUSA25353",
+    "name": "Planetary Defense Force",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.3332022Z"
+  },
+  {
+    "npTitleId": "CUSA19282_00",
+    "npTitleIdshort": "CUSA19282",
+    "name": "勇者鬥惡龍XI S 尋覓逝去的時光 - Definitive Edition",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.3456672Z"
+  },
+  {
+    "npTitleId": "CUSA25147_00",
+    "npTitleIdshort": "CUSA25147",
+    "name": "TRIPP",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 2,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.3550562Z"
+  },
+  {
+    "npTitleId": "CUSA18180_00",
+    "npTitleIdshort": "CUSA18180",
+    "name": "ドラゴンクエストXI　過ぎ去りし時を求めて S",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.3654277Z"
+  },
+  {
+    "npTitleId": "CUSA18600_00",
+    "npTitleIdshort": "CUSA18600",
+    "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.3766611Z"
+  },
+  {
+    "npTitleId": "CUSA19120_00",
+    "npTitleIdshort": "CUSA19120",
+    "name": "DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.4018483Z"
+  },
+  {
+    "npTitleId": "CUSA19641_00",
+    "npTitleIdshort": "CUSA19641",
+    "name": "Contraptions",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.4251159Z"
+  },
+  {
+    "npTitleId": "CUSA25571_00",
+    "npTitleIdshort": "CUSA25571",
+    "name": "Donut Break Head to Head",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-27T10:39:30.445508Z"
   }
 ]
