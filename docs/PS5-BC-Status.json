@@ -170883,5 +170883,115 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-27T10:39:30.445508Z"
+  },
+  {
+    "npTitleId": "CUSA23922_00",
+    "npTitleIdshort": "CUSA23922",
+    "name": "Katamari Damacy Reroll",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.3089061Z"
+  },
+  {
+    "npTitleId": "CUSA25058_00",
+    "npTitleIdshort": "CUSA25058",
+    "name": "Habroxia 2",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.3208752Z"
+  },
+  {
+    "npTitleId": "CUSA25182_00",
+    "npTitleIdshort": "CUSA25182",
+    "name": "Buster's Quest: Trials of Hamsterdam",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.3292778Z"
+  },
+  {
+    "npTitleId": "CUSA25573_00",
+    "npTitleIdshort": "CUSA25573",
+    "name": "Donut Break Head to Head",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.3384192Z"
+  },
+  {
+    "npTitleId": "CUSA23526_00",
+    "npTitleIdshort": "CUSA23526",
+    "name": "恋する乙女と守護の楯Re:boot The \"SHIELD-9\"",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.3461205Z"
+  },
+  {
+    "npTitleId": "CUSA11932_00",
+    "npTitleIdshort": "CUSA11932",
+    "name": "Twin Mirror",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.3595437Z"
+  },
+  {
+    "npTitleId": "CUSA24788_00",
+    "npTitleIdshort": "CUSA24788",
+    "name": "The Wonderful 101: Remastered Wonder-Size Cadet Demo",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.3990884Z"
+  },
+  {
+    "npTitleId": "CUSA24789_00",
+    "npTitleIdshort": "CUSA24789",
+    "name": "The Wonderful 101: Remastered Wonder-Size Cadet Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.425829Z"
+  },
+  {
+    "npTitleId": "CUSA24790_00",
+    "npTitleIdshort": "CUSA24790",
+    "name": "The Wonderful 101: Remastered Wonder-Size Cadet Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.4402904Z"
+  },
+  {
+    "npTitleId": "CUSA23865_00",
+    "npTitleIdshort": "CUSA23865",
+    "name": "LOST SPHEAR",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-11-30T19:26:46.4582188Z"
   }
 ]
