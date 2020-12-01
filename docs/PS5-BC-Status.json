@@ -170993,5 +170993,93 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-11-30T19:26:46.4582188Z"
+  },
+  {
+    "npTitleId": "CUSA25304_00",
+    "npTitleIdshort": "CUSA25304",
+    "name": "Axis Football 2020",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.2475452Z"
+  },
+  {
+    "npTitleId": "CUSA16257_00",
+    "npTitleIdshort": "CUSA16257",
+    "name": "Immortals Fenyx Rising ™",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.259663Z"
+  },
+  {
+    "npTitleId": "CUSA16345_00",
+    "npTitleIdshort": "CUSA16345",
+    "name": "Immortals Fenyx Rising ™",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.2699589Z"
+  },
+  {
+    "npTitleId": "CUSA16387_00",
+    "npTitleIdshort": "CUSA16387",
+    "name": "Immortals Fenyx Rising ™",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.2796906Z"
+  },
+  {
+    "npTitleId": "CUSA16388_00",
+    "npTitleIdshort": "CUSA16388",
+    "name": "Immortals Fenyx Rising ™",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.2900983Z"
+  },
+  {
+    "npTitleId": "CUSA16403_00",
+    "npTitleIdshort": "CUSA16403",
+    "name": "Immortals Fenyx Rising ™",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.3028636Z"
+  },
+  {
+    "npTitleId": "CUSA23970_00",
+    "npTitleIdshort": "CUSA23970",
+    "name": "Cook, Serve, Delicious! 3?!",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.3127648Z"
+  },
+  {
+    "npTitleId": "CUSA23971_00",
+    "npTitleIdshort": "CUSA23971",
+    "name": "Cook, Serve, Delicious! 3?!",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-01T17:16:08.3290821Z"
   }
 ]
