@@ -170056,8 +170056,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-12T16:16:08.7848125Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:25:59.4976445Z"
   },
   {
     "npTitleId": "CUSA24504_00",
@@ -171081,5 +171081,225 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-01T17:16:08.3290821Z"
+  },
+  {
+    "npTitleId": "CUSA17732_00",
+    "npTitleIdshort": "CUSA17732",
+    "name": "Empire of Sin",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.249497Z"
+  },
+  {
+    "npTitleId": "CUSA17744_00",
+    "npTitleIdshort": "CUSA17744",
+    "name": "Empire of Sin",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.2583731Z"
+  },
+  {
+    "npTitleId": "CUSA25594_00",
+    "npTitleIdshort": "CUSA25594",
+    "name": "Arcade Archives The Fairyland Story",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.2672821Z"
+  },
+  {
+    "npTitleId": "CUSA25595_00",
+    "npTitleIdshort": "CUSA25595",
+    "name": "Arcade Archives The Fairyland Story",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.2823934Z"
+  },
+  {
+    "npTitleId": "CUSA25619_00",
+    "npTitleIdshort": "CUSA25619",
+    "name": "Misk Schools Quest",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.3032517Z"
+  },
+  {
+    "npTitleId": "CUSA25620_00",
+    "npTitleIdshort": "CUSA25620",
+    "name": "Misk Schools Quest",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.3157946Z"
+  },
+  {
+    "npTitleId": "CUSA19476_00",
+    "npTitleIdshort": "CUSA19476",
+    "name": "Ponpu",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.3264222Z"
+  },
+  {
+    "npTitleId": "CUSA18014_00",
+    "npTitleIdshort": "CUSA18014",
+    "name": "Dark Pictures Anthology: Little Hope",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.3406409Z"
+  },
+  {
+    "npTitleId": "CUSA24975_00",
+    "npTitleIdshort": "CUSA24975",
+    "name": "AutoChess",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.3592772Z"
+  },
+  {
+    "npTitleId": "CUSA25501_00",
+    "npTitleIdshort": "CUSA25501",
+    "name": "Arcade Archives The Fairyland Story",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.372768Z"
+  },
+  {
+    "npTitleId": "CUSA25786_00",
+    "npTitleIdshort": "CUSA25786",
+    "name": "ASCENDANCE",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.3900455Z"
+  },
+  {
+    "npTitleId": "CUSA13364_00",
+    "npTitleIdshort": "CUSA13364",
+    "name": "ASCENDANCE",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.4053474Z"
+  },
+  {
+    "npTitleId": "CUSA19171_00",
+    "npTitleIdshort": "CUSA19171",
+    "name": "電車でＧＯ！！ はしろう山手線",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 1,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.4231545Z"
+  },
+  {
+    "npTitleId": "CUSA19373_00",
+    "npTitleIdshort": "CUSA19373",
+    "name": "Ponpu",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.4389307Z"
+  },
+  {
+    "npTitleId": "CUSA25995_00",
+    "npTitleIdshort": "CUSA25995",
+    "name": "Halloween Candy Break Head to Head",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.4564698Z"
+  },
+  {
+    "npTitleId": "CUSA25996_00",
+    "npTitleIdshort": "CUSA25996",
+    "name": "Halloween Candy Break Head to Head",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.4743228Z"
+  },
+  {
+    "npTitleId": "CUSA19458_00",
+    "npTitleIdshort": "CUSA19458",
+    "name": "Remothered: Broken Porcelain",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.4936985Z"
+  },
+  {
+    "npTitleId": "CUSA26294_00",
+    "npTitleIdshort": "CUSA26294",
+    "name": "The Lost Cube",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.5093599Z"
+  },
+  {
+    "npTitleId": "CUSA25138_00",
+    "npTitleIdshort": "CUSA25138",
+    "name": "DARQ Complete Edition",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.5191706Z"
+  },
+  {
+    "npTitleId": "CUSA25139_00",
+    "npTitleIdshort": "CUSA25139",
+    "name": "DARQ Complete Edition",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-03T21:26:00.534648Z"
   }
 ]
