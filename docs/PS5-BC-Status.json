@@ -67976,8 +67976,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:18.1774187Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:21:13.7090428Z"
   },
   {
     "npTitleId": "CUSA08100_00",
@@ -109501,8 +109501,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:28:20.683995Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:22:36.7329079Z"
   },
   {
     "npTitleId": "CUSA12874_00",
@@ -116761,8 +116761,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:28:33.8558527Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:22:51.6236945Z"
   },
   {
     "npTitleId": "CUSA13741_00",
@@ -171301,5 +171301,126 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-03T21:26:00.534648Z"
+  },
+  {
+    "npTitleId": "CUSA25482_00",
+    "npTitleIdshort": "CUSA25482",
+    "name": "Ys IX: Monstrum Nox Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.3900249Z"
+  },
+  {
+    "npTitleId": "CUSA25037_00",
+    "npTitleIdshort": "CUSA25037",
+    "name": "Persian Nights 2: Moonlight Veil",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.400627Z"
+  },
+  {
+    "npTitleId": "CUSA25038_00",
+    "npTitleIdshort": "CUSA25038",
+    "name": "Persian Nights 2: Moonlight Veil",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.4104422Z"
+  },
+  {
+    "npTitleId": "CUSA20541_00",
+    "npTitleIdshort": "CUSA20541",
+    "name": "Nostos",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.4218768Z"
+  },
+  {
+    "npTitleId": "CUSA20573_00",
+    "npTitleIdshort": "CUSA20573",
+    "name": "Nostos",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.4321344Z"
+  },
+  {
+    "npTitleId": "CUSA25666_00",
+    "npTitleIdshort": "CUSA25666",
+    "name": "Rocket Punch",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.4417763Z"
+  },
+  {
+    "npTitleId": "CUSA25667_00",
+    "npTitleIdshort": "CUSA25667",
+    "name": "Rocket Punch",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.4522855Z"
+  },
+  {
+    "npTitleId": "CUSA25059_00",
+    "npTitleIdshort": "CUSA25059",
+    "name": "Habroxia 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.4810845Z"
+  },
+  {
+    "npTitleId": "CUSA23823_00",
+    "npTitleIdshort": "CUSA23823",
+    "name": "MXGP 2020 - The Official Motocross Videogame",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.5009046Z"
+  },
+  {
+    "npTitleId": "CUSA23824_00",
+    "npTitleIdshort": "CUSA23824",
+    "name": "MXGP 2020 - The Official Motocross Videogame",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.5227978Z"
+  },
+  {
+    "npTitleId": "CUSA26293_00",
+    "npTitleIdshort": "CUSA26293",
+    "name": "The Lost Cube",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-06T22:24:43.5387358Z"
   }
 ]
