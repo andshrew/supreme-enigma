@@ -21622,8 +21622,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:10.4054378Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:34:53.6146225Z"
   },
   {
     "npTitleId": "CUSA02561_00",
@@ -21765,8 +21765,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:10.4729903Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:34:53.7515597Z"
   },
   {
     "npTitleId": "CUSA02575_00",
@@ -22040,8 +22040,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:10.6038011Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:34:54.008505Z"
   },
   {
     "npTitleId": "CUSA02608_00",
@@ -24966,8 +24966,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:15.475768Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:35:00.3727483Z"
   },
   {
     "npTitleId": "CUSA02957_00",
@@ -171422,5 +171422,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-06T22:24:43.5387358Z"
+  },
+  {
+    "npTitleId": "CUSA25217_00",
+    "npTitleIdshort": "CUSA25217",
+    "name": "Ghostrunner",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:39:53.2545007Z"
+  },
+  {
+    "npTitleId": "CUSA24657_00",
+    "npTitleIdshort": "CUSA24657",
+    "name": "Empire of Sin",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:39:53.2674012Z"
+  },
+  {
+    "npTitleId": "CUSA25371_00",
+    "npTitleIdshort": "CUSA25371",
+    "name": "Empire of Sin",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:39:53.2773675Z"
+  },
+  {
+    "npTitleId": "CUSA25896_00",
+    "npTitleIdshort": "CUSA25896",
+    "name": "Ultimate Fishing Simulator",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:39:53.287124Z"
+  },
+  {
+    "npTitleId": "CUSA25897_00",
+    "npTitleIdshort": "CUSA25897",
+    "name": "Ultimate Fishing Simulator",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-10T13:39:53.3130203Z"
   }
 ]
