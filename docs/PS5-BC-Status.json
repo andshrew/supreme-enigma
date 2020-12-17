@@ -43248,8 +43248,8 @@
     "category": "gde",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "NOT_COMPATIBLE",
-    "date": "2020-11-01T14:26:44.2278461Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:54:35.2722011Z"
   },
   {
     "npTitleId": "CUSA05224_00",
@@ -45261,8 +45261,8 @@
     "category": "gde",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:26:45.0986964Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:54:37.5206198Z"
   },
   {
     "npTitleId": "CUSA05456_00",
@@ -67019,8 +67019,8 @@
     "category": "gd",
     "psVr": 2,
     "neoEnable": 1,
-    "ps5bc": "NOT_COMPATIBLE",
-    "date": "2020-11-01T14:27:17.729879Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:55:24.065224Z"
   },
   {
     "npTitleId": "CUSA07984_00",
@@ -83387,8 +83387,8 @@
     "category": "gd",
     "psVr": 2,
     "neoEnable": 1,
-    "ps5bc": "NOT_COMPATIBLE",
-    "date": "2020-11-01T14:27:40.3324751Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:55:57.6945376Z"
   },
   {
     "npTitleId": "CUSA09820_00",
@@ -171961,5 +171961,291 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-12T19:59:03.143326Z"
+  },
+  {
+    "npTitleId": "CUSA26355_00",
+    "npTitleIdshort": "CUSA26355",
+    "name": "Evil Inside",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.6815833Z"
+  },
+  {
+    "npTitleId": "CUSA15378_00",
+    "npTitleIdshort": "CUSA15378",
+    "name": "りゅうおうのおしごと！",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.6935737Z"
+  },
+  {
+    "npTitleId": "CUSA17046_00",
+    "npTitleIdshort": "CUSA17046",
+    "name": "幻想牢獄のカレイドスコープ",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.7050151Z"
+  },
+  {
+    "npTitleId": "CUSA18071_00",
+    "npTitleIdshort": "CUSA18071",
+    "name": "Root Film",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.7185058Z"
+  },
+  {
+    "npTitleId": "CUSA18768_00",
+    "npTitleIdshort": "CUSA18768",
+    "name": "Die Young",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.7317405Z"
+  },
+  {
+    "npTitleId": "CUSA23392_00",
+    "npTitleIdshort": "CUSA23392",
+    "name": "Arkham Horror: Mother's Embrace",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.7456804Z"
+  },
+  {
+    "npTitleId": "CUSA23393_00",
+    "npTitleIdshort": "CUSA23393",
+    "name": "Arkham Horror: Mother's Embrace",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.7657297Z"
+  },
+  {
+    "npTitleId": "CUSA23552_00",
+    "npTitleIdshort": "CUSA23552",
+    "name": "Shady Part of Me",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.7891908Z"
+  },
+  {
+    "npTitleId": "CUSA23620_00",
+    "npTitleIdshort": "CUSA23620",
+    "name": "When the Past was Around 過去といた頃",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.8048713Z"
+  },
+  {
+    "npTitleId": "CUSA23621_00",
+    "npTitleIdshort": "CUSA23621",
+    "name": "When the Past was Around",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.8194096Z"
+  },
+  {
+    "npTitleId": "CUSA23622_00",
+    "npTitleIdshort": "CUSA23622",
+    "name": "When the Past was Around",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.8340931Z"
+  },
+  {
+    "npTitleId": "CUSA23623_00",
+    "npTitleIdshort": "CUSA23623",
+    "name": "When the Past was Around",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.8482345Z"
+  },
+  {
+    "npTitleId": "CUSA24498_00",
+    "npTitleIdshort": "CUSA24498",
+    "name": "Jump King",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.8691969Z"
+  },
+  {
+    "npTitleId": "CUSA24499_00",
+    "npTitleIdshort": "CUSA24499",
+    "name": "みんなの詰将棋 入門編",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.8823511Z"
+  },
+  {
+    "npTitleId": "CUSA24857_00",
+    "npTitleIdshort": "CUSA24857",
+    "name": "AutoChess",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.907822Z"
+  },
+  {
+    "npTitleId": "CUSA25431_00",
+    "npTitleIdshort": "CUSA25431",
+    "name": "Pluto TV",
+    "region": "EP",
+    "category": "gde",
+    "psVr": 0,
+    "neoEnable": 0,
+    "ps5bc": "N/A",
+    "date": "2020-12-17T18:59:17.9309528Z"
+  },
+  {
+    "npTitleId": "CUSA25644_00",
+    "npTitleIdshort": "CUSA25644",
+    "name": "When the Past was Around 過去といた頃 体験版",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.9568806Z"
+  },
+  {
+    "npTitleId": "CUSA25645_00",
+    "npTitleIdshort": "CUSA25645",
+    "name": "When the Past was Around Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.9750518Z"
+  },
+  {
+    "npTitleId": "CUSA25646_00",
+    "npTitleIdshort": "CUSA25646",
+    "name": "When the Past was Around Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.9872699Z"
+  },
+  {
+    "npTitleId": "CUSA25650_00",
+    "npTitleIdshort": "CUSA25650",
+    "name": "When the Past was Around Demo",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:17.9993921Z"
+  },
+  {
+    "npTitleId": "CUSA25708_00",
+    "npTitleIdshort": "CUSA25708",
+    "name": "Linn: Path of Orchards",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:18.0189499Z"
+  },
+  {
+    "npTitleId": "CUSA25709_00",
+    "npTitleIdshort": "CUSA25709",
+    "name": "Linn: Path of Orchards",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:18.0319402Z"
+  },
+  {
+    "npTitleId": "CUSA25981_00",
+    "npTitleIdshort": "CUSA25981",
+    "name": "Arcade Archives MARKHAM",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:18.0489131Z"
+  },
+  {
+    "npTitleId": "CUSA25982_00",
+    "npTitleIdshort": "CUSA25982",
+    "name": "Arcade Archives MARKHAM",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:18.0681669Z"
+  },
+  {
+    "npTitleId": "CUSA25983_00",
+    "npTitleIdshort": "CUSA25983",
+    "name": "Arcade Archives MARKHAM",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-17T18:59:18.0826883Z"
+  },
+  {
+    "npTitleId": "CUSA26253_00",
+    "npTitleIdshort": "CUSA26253",
+    "name": "TELEFOOT",
+    "region": "EP",
+    "category": "gde",
+    "psVr": 0,
+    "neoEnable": 0,
+    "ps5bc": "N/A",
+    "date": "2020-12-17T18:59:18.0996299Z"
   }
 ]
