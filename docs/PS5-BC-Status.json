@@ -172247,5 +172247,126 @@
     "neoEnable": 0,
     "ps5bc": "N/A",
     "date": "2020-12-17T18:59:18.0996299Z"
+  },
+  {
+    "npTitleId": "CUSA26448_00",
+    "npTitleIdshort": "CUSA26448",
+    "name": "Christmas Break",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.4529477Z"
+  },
+  {
+    "npTitleId": "CUSA20106_00",
+    "npTitleIdshort": "CUSA20106",
+    "name": "HiQ Ace Unlimited",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.4665002Z"
+  },
+  {
+    "npTitleId": "CUSA20111_00",
+    "npTitleIdshort": "CUSA20111",
+    "name": "HiQ Ace Unlimited",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.4770674Z"
+  },
+  {
+    "npTitleId": "CUSA20549_00",
+    "npTitleIdshort": "CUSA20549",
+    "name": "Bite the Bullet",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.4872403Z"
+  },
+  {
+    "npTitleId": "CUSA20550_00",
+    "npTitleIdshort": "CUSA20550",
+    "name": "Bite the Bullet",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.4991436Z"
+  },
+  {
+    "npTitleId": "CUSA25364_00",
+    "npTitleIdshort": "CUSA25364",
+    "name": "Aborigenus",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.5090532Z"
+  },
+  {
+    "npTitleId": "CUSA26282_00",
+    "npTitleIdshort": "CUSA26282",
+    "name": "Oberon",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.5217682Z"
+  },
+  {
+    "npTitleId": "CUSA25077_00",
+    "npTitleIdshort": "CUSA25077",
+    "name": "Aborigenus",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.5321771Z"
+  },
+  {
+    "npTitleId": "CUSA26356_00",
+    "npTitleIdshort": "CUSA26356",
+    "name": "Evil Inside",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.5450037Z"
+  },
+  {
+    "npTitleId": "CUSA25464_00",
+    "npTitleIdshort": "CUSA25464",
+    "name": "PBA Pro Bowling 2021",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.5572998Z"
+  },
+  {
+    "npTitleId": "CUSA25463_00",
+    "npTitleIdshort": "CUSA25463",
+    "name": "PBA Pro Bowling 2021",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-21T17:10:17.5727787Z"
   }
 ]
