@@ -67,7 +67,7 @@
                 { data: 'ps5bc' },
                 { data: 'date',
                   render: function(data, type, row){
-                    return moment(data).format("DD/MM/YYYY"); }}
+                    return type === 'sort' ? data : moment(data).format('DD/MM/YYYY'); }}
                 ],
                 initComplete: function () {
                     this.api().columns([2, 3, 4, 5, 6]).every( function () {
