@@ -113571,8 +113571,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:28:27.0641058Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:56:16.7935129Z"
   },
   {
     "npTitleId": "CUSA13379_00",
@@ -113648,8 +113648,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:28:27.1057174Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:56:16.8706733Z"
   },
   {
     "npTitleId": "CUSA13390_00",
@@ -113681,8 +113681,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:28:27.1226575Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:56:16.9054771Z"
   },
   {
     "npTitleId": "CUSA13394_00",
@@ -172368,5 +172368,93 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-21T17:10:17.5727787Z"
+  },
+  {
+    "npTitleId": "CUSA15755_00",
+    "npTitleIdshort": "CUSA15755",
+    "name": "Noble Armada: Lost Worlds",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.6153187Z"
+  },
+  {
+    "npTitleId": "CUSA25103_00",
+    "npTitleIdshort": "CUSA25103",
+    "name": "Doodle Devil: 3volution",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.6281488Z"
+  },
+  {
+    "npTitleId": "CUSA20317_00",
+    "npTitleIdshort": "CUSA20317",
+    "name": "CRSED",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.6411596Z"
+  },
+  {
+    "npTitleId": "CUSA24142_00",
+    "npTitleIdshort": "CUSA24142",
+    "name": "16-Bit Soccer",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.6626569Z"
+  },
+  {
+    "npTitleId": "CUSA24858_00",
+    "npTitleIdshort": "CUSA24858",
+    "name": "Arcade Archives GRADIUS III",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.6751482Z"
+  },
+  {
+    "npTitleId": "CUSA24859_00",
+    "npTitleIdshort": "CUSA24859",
+    "name": "Arcade Archives GRADIUS III",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.6909707Z"
+  },
+  {
+    "npTitleId": "CUSA24860_00",
+    "npTitleIdshort": "CUSA24860",
+    "name": "Arcade Archives GRADIUS III",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.7087731Z"
+  },
+  {
+    "npTitleId": "CUSA26186_00",
+    "npTitleIdshort": "CUSA26186",
+    "name": "16-Bit Soccer",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-23T16:58:13.7225888Z"
   }
 ]
