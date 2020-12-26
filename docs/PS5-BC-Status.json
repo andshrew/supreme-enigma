@@ -172467,5 +172467,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-23T23:40:41.0494789Z"
+  },
+  {
+    "npTitleId": "CUSA25380_00",
+    "npTitleIdshort": "CUSA25380",
+    "name": "Super Sports Blast",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-26T19:18:27.9808682Z"
+  },
+  {
+    "npTitleId": "CUSA25381_00",
+    "npTitleIdshort": "CUSA25381",
+    "name": "Super Sports Blast",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-26T19:18:27.994729Z"
   }
 ]
