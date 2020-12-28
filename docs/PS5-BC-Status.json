@@ -172489,5 +172489,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-26T19:18:27.994729Z"
+  },
+  {
+    "npTitleId": "CUSA24027_00",
+    "npTitleIdshort": "CUSA24027",
+    "name": "VVV 戰機少女",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-28T11:02:29.4640871Z"
   }
 ]
