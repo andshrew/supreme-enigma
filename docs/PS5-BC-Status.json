@@ -172500,5 +172500,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-28T11:02:29.4640871Z"
+  },
+  {
+    "npTitleId": "CUSA24034_00",
+    "npTitleIdshort": "CUSA24034",
+    "name": "DeathComeTrue",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-31T12:24:06.5490509Z"
+  },
+  {
+    "npTitleId": "CUSA24035_00",
+    "npTitleIdshort": "CUSA24035",
+    "name": "DeathComeTrue",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-31T12:24:06.5630746Z"
+  },
+  {
+    "npTitleId": "CUSA24036_00",
+    "npTitleIdshort": "CUSA24036",
+    "name": "DeathComeTrue",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-31T12:24:06.5733768Z"
+  },
+  {
+    "npTitleId": "CUSA24037_00",
+    "npTitleIdshort": "CUSA24037",
+    "name": "DeathComeTrue",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-31T12:24:06.5861176Z"
+  },
+  {
+    "npTitleId": "CUSA24907_00",
+    "npTitleIdshort": "CUSA24907",
+    "name": "Crash Bandicoot™ 4: It's About Time - Demo",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-31T12:24:06.5963397Z"
+  },
+  {
+    "npTitleId": "CUSA25064_00",
+    "npTitleIdshort": "CUSA25064",
+    "name": "DeathComeTrue 体験版",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-31T12:24:06.6085341Z"
+  },
+  {
+    "npTitleId": "CUSA25066_00",
+    "npTitleIdshort": "CUSA25066",
+    "name": "DeathComeTrue Demo",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2020-12-31T12:24:06.6187514Z"
   }
 ]
