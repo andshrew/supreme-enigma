@@ -130984,8 +130984,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:28:51.681881Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:35:30.1594546Z"
   },
   {
     "npTitleId": "CUSA15494_00",
@@ -131490,8 +131490,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:28:55.6322711Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:35:34.3176338Z"
   },
   {
     "npTitleId": "CUSA15559_00",
@@ -143920,8 +143920,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:29:13.7325117Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:35:59.3889436Z"
   },
   {
     "npTitleId": "CUSA17157_00",
@@ -172577,5 +172577,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2020-12-31T12:24:06.6187514Z"
+  },
+  {
+    "npTitleId": "CUSA25131_00",
+    "npTitleIdshort": "CUSA25131",
+    "name": "砂の国の宮廷鍛冶屋",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:37:01.3327745Z"
+  },
+  {
+    "npTitleId": "CUSA25718_00",
+    "npTitleIdshort": "CUSA25718",
+    "name": "Blacksmith of the Sand Kingdom",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:37:01.3481175Z"
+  },
+  {
+    "npTitleId": "CUSA25720_00",
+    "npTitleIdshort": "CUSA25720",
+    "name": "Blacksmith of the Sand Kingdom",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:37:01.3772927Z"
+  },
+  {
+    "npTitleId": "CUSA25756_00",
+    "npTitleIdshort": "CUSA25756",
+    "name": "Arcade Archives Rod Land",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:37:01.4006755Z"
+  },
+  {
+    "npTitleId": "CUSA25984_00",
+    "npTitleIdshort": "CUSA25984",
+    "name": "Arcade Archives Rod Land",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:37:01.4197798Z"
+  },
+  {
+    "npTitleId": "CUSA25985_00",
+    "npTitleIdshort": "CUSA25985",
+    "name": "Arcade Archives Rod Land",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-06T10:37:01.433716Z"
   }
 ]
