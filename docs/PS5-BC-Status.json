@@ -172643,5 +172643,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-01-06T10:37:01.433716Z"
+  },
+  {
+    "npTitleId": "CUSA20294_00",
+    "npTitleIdshort": "CUSA20294",
+    "name": "Neptunia Virtual Stars",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-07T15:09:38.4354679Z"
+  },
+  {
+    "npTitleId": "CUSA20649_00",
+    "npTitleIdshort": "CUSA20649",
+    "name": "JankBrain",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-07T15:09:38.450499Z"
   }
 ]
