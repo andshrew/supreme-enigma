@@ -57240,8 +57240,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:02.3047736Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:49:53.6575563Z"
   },
   {
     "npTitleId": "CUSA06862_00",
@@ -57977,8 +57977,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:06.3501987Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:49:58.548882Z"
   },
   {
     "npTitleId": "CUSA06938_00",
@@ -172665,5 +172665,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-01-07T15:09:38.450499Z"
+  },
+  {
+    "npTitleId": "CUSA20170_00",
+    "npTitleIdshort": "CUSA20170",
+    "name": "DARIUSBURST ANOTHER CHRONICLE EX+",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:54:07.9741255Z"
+  },
+  {
+    "npTitleId": "CUSA20287_00",
+    "npTitleIdshort": "CUSA20287",
+    "name": "The Pedestrian",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:54:07.9869846Z"
+  },
+  {
+    "npTitleId": "CUSA25456_00",
+    "npTitleIdshort": "CUSA25456",
+    "name": "Bullet Roulette",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 2,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:54:08.0016147Z"
+  },
+  {
+    "npTitleId": "CUSA25457_00",
+    "npTitleIdshort": "CUSA25457",
+    "name": "Bullet Roulette",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 2,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:54:08.0183564Z"
+  },
+  {
+    "npTitleId": "CUSA26605_00",
+    "npTitleIdshort": "CUSA26605",
+    "name": "The Pedestrian",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:54:08.0354615Z"
+  },
+  {
+    "npTitleId": "CUSA17586_00",
+    "npTitleIdshort": "CUSA17586",
+    "name": "SMASHING THE BATTLE GHOST SOUL",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-08T14:54:08.0526586Z"
   }
 ]
