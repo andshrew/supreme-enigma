@@ -172731,5 +172731,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-01-08T14:54:08.0526586Z"
+  },
+  {
+    "npTitleId": "CUSA16988_00",
+    "npTitleIdshort": "CUSA16988",
+    "name": "Asterix & Obelix XXL3",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-12T19:42:01.8116225Z"
+  },
+  {
+    "npTitleId": "CUSA18270_00",
+    "npTitleIdshort": "CUSA18270",
+    "name": "PokerStarsVR",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 2,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-12T19:42:01.8258786Z"
+  },
+  {
+    "npTitleId": "CUSA20078_00",
+    "npTitleIdshort": "CUSA20078",
+    "name": "Scott Pilgrim vs. the World: The Game",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-12T19:42:01.8404537Z"
+  },
+  {
+    "npTitleId": "CUSA20085_00",
+    "npTitleIdshort": "CUSA20085",
+    "name": "Scott Pilgrim vs. the World: The Game",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-12T19:42:01.8537327Z"
+  },
+  {
+    "npTitleId": "CUSA25782_00",
+    "npTitleIdshort": "CUSA25782",
+    "name": "Aery - Little Bird Adventure",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-12T19:42:01.8657775Z"
+  },
+  {
+    "npTitleId": "CUSA25783_00",
+    "npTitleIdshort": "CUSA25783",
+    "name": "Aery - Little Bird Adventure",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-12T19:42:01.8796016Z"
   }
 ]
