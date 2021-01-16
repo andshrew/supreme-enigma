@@ -4165,8 +4165,8 @@
     "category": "gde",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "NOT_COMPATIBLE",
-    "date": "2020-11-01T14:25:47.7278815Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:02:25.8107196Z"
   },
   {
     "npTitleId": "CUSA00449_00",
@@ -145867,8 +145867,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:29:14.6936037Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:07:27.0377129Z"
   },
   {
     "npTitleId": "CUSA17390_00",
@@ -153710,8 +153710,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:29:25.9890044Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:07:44.2815102Z"
   },
   {
     "npTitleId": "CUSA18552_00",
@@ -154557,8 +154557,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:29:30.3562033Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:07:48.9384654Z"
   },
   {
     "npTitleId": "CUSA18663_00",
@@ -172797,5 +172797,148 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-01-12T19:42:01.8796016Z"
+  },
+  {
+    "npTitleId": "CUSA17905_00",
+    "npTitleIdshort": "CUSA17905",
+    "name": "Windfolk",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.3381639Z"
+  },
+  {
+    "npTitleId": "CUSA24217_00",
+    "npTitleIdshort": "CUSA24217",
+    "name": "Cyber Shadow",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.3514605Z"
+  },
+  {
+    "npTitleId": "CUSA24608_00",
+    "npTitleIdshort": "CUSA24608",
+    "name": "Windfolk",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.3687433Z"
+  },
+  {
+    "npTitleId": "CUSA25312_00",
+    "npTitleIdshort": "CUSA25312",
+    "name": "Little Nightmares II DEMO",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.3894381Z"
+  },
+  {
+    "npTitleId": "CUSA25576_00",
+    "npTitleIdshort": "CUSA25576",
+    "name": "リトルナイトメア2 体験版",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.4050381Z"
+  },
+  {
+    "npTitleId": "CUSA23502_00",
+    "npTitleIdshort": "CUSA23502",
+    "name": "Neptunia Virtual Stars",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.4222293Z"
+  },
+  {
+    "npTitleId": "CUSA26147_00",
+    "npTitleIdshort": "CUSA26147",
+    "name": "Arcade Archives HALLEY'S COMET",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.4558659Z"
+  },
+  {
+    "npTitleId": "CUSA25955_00",
+    "npTitleIdshort": "CUSA25955",
+    "name": "Radio Commander",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.4829766Z"
+  },
+  {
+    "npTitleId": "CUSA25956_00",
+    "npTitleIdshort": "CUSA25956",
+    "name": "Radio Commander",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.5014213Z"
+  },
+  {
+    "npTitleId": "CUSA16880_00",
+    "npTitleIdshort": "CUSA16880",
+    "name": "マイティー スイッチ フォース！コレクション",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.5182224Z"
+  },
+  {
+    "npTitleId": "CUSA20213_00",
+    "npTitleIdshort": "CUSA20213",
+    "name": "Evoland Legendary Edition",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.5306456Z"
+  },
+  {
+    "npTitleId": "CUSA25790_00",
+    "npTitleIdshort": "CUSA25790",
+    "name": "Aground",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.5566089Z"
+  },
+  {
+    "npTitleId": "CUSA25322_00",
+    "npTitleIdshort": "CUSA25322",
+    "name": "マーセナリーズブレイズ",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-16T15:08:25.5764705Z"
   }
 ]
