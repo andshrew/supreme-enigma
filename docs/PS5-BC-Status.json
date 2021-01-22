@@ -20632,8 +20632,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:09.977312Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:20:41.5506137Z"
   },
   {
     "npTitleId": "CUSA02438_00",
@@ -20709,8 +20709,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:10.0105893Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:20:41.6355254Z"
   },
   {
     "npTitleId": "CUSA02446_00",
@@ -21270,8 +21270,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:10.2483235Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:20:42.2982929Z"
   },
   {
     "npTitleId": "CUSA02510_00",
@@ -23503,8 +23503,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:26:14.8585661Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:20:48.4688807Z"
   },
   {
     "npTitleId": "CUSA02788_00",
@@ -93551,8 +93551,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:55.9002341Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:23:23.1293785Z"
   },
   {
     "npTitleId": "CUSA11005_00",
@@ -95542,8 +95542,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:27:56.808437Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:23:25.65567Z"
   },
   {
     "npTitleId": "CUSA11251_00",
@@ -172940,5 +172940,346 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-01-16T15:08:25.5764705Z"
+  },
+  {
+    "npTitleId": "CUSA24380_00",
+    "npTitleIdshort": "CUSA24380",
+    "name": "DARIUS EXTRA Ver. (MEGA DRIVE)",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.3819209Z"
+  },
+  {
+    "npTitleId": "CUSA25168_00",
+    "npTitleIdshort": "CUSA25168",
+    "name": "想い出にかわる君～メモリーズオフ～",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.3985715Z"
+  },
+  {
+    "npTitleId": "CUSA26093_00",
+    "npTitleIdshort": "CUSA26093",
+    "name": "Immortals Fenyx Rising ™ - Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.414315Z"
+  },
+  {
+    "npTitleId": "CUSA26094_00",
+    "npTitleIdshort": "CUSA26094",
+    "name": "Immortals Fenyx Rising ™ - Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.4380588Z"
+  },
+  {
+    "npTitleId": "CUSA26247_00",
+    "npTitleIdshort": "CUSA26247",
+    "name": "Immortals Fenyx Rising ™ - Demo",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.4613107Z"
+  },
+  {
+    "npTitleId": "CUSA26273_00",
+    "npTitleIdshort": "CUSA26273",
+    "name": "Immortals Fenyx Rising ™ - Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.485076Z"
+  },
+  {
+    "npTitleId": "CUSA26274_00",
+    "npTitleIdshort": "CUSA26274",
+    "name": "Immortals Fenyx Rising ™ - Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.5073659Z"
+  },
+  {
+    "npTitleId": "CUSA25552_00",
+    "npTitleIdshort": "CUSA25552",
+    "name": "Fallen Legion Revenants Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.5318501Z"
+  },
+  {
+    "npTitleId": "CUSA25553_00",
+    "npTitleIdshort": "CUSA25553",
+    "name": "Fallen Legion Revenants Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.554099Z"
+  },
+  {
+    "npTitleId": "CUSA26663_00",
+    "npTitleIdshort": "CUSA26663",
+    "name": "Papa’s Quiz",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.5723305Z"
+  },
+  {
+    "npTitleId": "CUSA23204_00",
+    "npTitleIdshort": "CUSA23204",
+    "name": "Death Tales",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.6302344Z"
+  },
+  {
+    "npTitleId": "CUSA26298_00",
+    "npTitleIdshort": "CUSA26298",
+    "name": "Rodent Warriors",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.6604758Z"
+  },
+  {
+    "npTitleId": "CUSA26299_00",
+    "npTitleIdshort": "CUSA26299",
+    "name": "Rodent Warriors",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.6810498Z"
+  },
+  {
+    "npTitleId": "CUSA26509_00",
+    "npTitleIdshort": "CUSA26509",
+    "name": "FUSER™ Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.7093059Z"
+  },
+  {
+    "npTitleId": "CUSA25680_00",
+    "npTitleIdshort": "CUSA25680",
+    "name": "JankBrain",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.7297191Z"
+  },
+  {
+    "npTitleId": "CUSA26510_00",
+    "npTitleIdshort": "CUSA26510",
+    "name": "FUSER™ Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.7517184Z"
+  },
+  {
+    "npTitleId": "CUSA24984_00",
+    "npTitleIdshort": "CUSA24984",
+    "name": "Alchemist Adventure",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.7681541Z"
+  },
+  {
+    "npTitleId": "CUSA26265_00",
+    "npTitleIdshort": "CUSA26265",
+    "name": "Arcade Archives BLOCK HOLE",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.7821429Z"
+  },
+  {
+    "npTitleId": "CUSA26266_00",
+    "npTitleIdshort": "CUSA26266",
+    "name": "Arcade Archives BLOCK HOLE",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.8040928Z"
+  },
+  {
+    "npTitleId": "CUSA26267_00",
+    "npTitleIdshort": "CUSA26267",
+    "name": "Arcade Archives BLOCK HOLE",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.8200944Z"
+  },
+  {
+    "npTitleId": "CUSA16413_00",
+    "npTitleIdshort": "CUSA16413",
+    "name": "サムライジャック：時空の戦い",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.8433328Z"
+  },
+  {
+    "npTitleId": "CUSA26166_00",
+    "npTitleIdshort": "CUSA26166",
+    "name": "魔界戦記ディスガイア６（体験版）",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.8637304Z"
+  },
+  {
+    "npTitleId": "CUSA23258_00",
+    "npTitleIdshort": "CUSA23258",
+    "name": "Bladed Fury",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.8927969Z"
+  },
+  {
+    "npTitleId": "CUSA24669_00",
+    "npTitleIdshort": "CUSA24669",
+    "name": "Bladed Fury",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.9216074Z"
+  },
+  {
+    "npTitleId": "CUSA25307_00",
+    "npTitleIdshort": "CUSA25307",
+    "name": "Iris.Fall",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.959899Z"
+  },
+  {
+    "npTitleId": "CUSA25789_00",
+    "npTitleIdshort": "CUSA25789",
+    "name": "Aground",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.9739149Z"
+  },
+  {
+    "npTitleId": "CUSA26449_00",
+    "npTitleIdshort": "CUSA26449",
+    "name": "Space Break",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:21.9926107Z"
+  },
+  {
+    "npTitleId": "CUSA26581_00",
+    "npTitleIdshort": "CUSA26581",
+    "name": "Space Break",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:22.0054982Z"
+  },
+  {
+    "npTitleId": "CUSA26427_00",
+    "npTitleIdshort": "CUSA26427",
+    "name": "TRIPP",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 2,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:22.025051Z"
+  },
+  {
+    "npTitleId": "CUSA23203_00",
+    "npTitleIdshort": "CUSA23203",
+    "name": "Death Tales",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:22.0381337Z"
+  },
+  {
+    "npTitleId": "CUSA24675_00",
+    "npTitleIdshort": "CUSA24675",
+    "name": "Frane: Dragons' Odyssey",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-22T17:26:22.0562065Z"
   }
 ]
