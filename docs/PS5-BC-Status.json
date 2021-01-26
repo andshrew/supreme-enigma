@@ -162345,8 +162345,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:41.6026671Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:12.0275188Z"
   },
   {
     "npTitleId": "CUSA20398_00",
@@ -162378,8 +162378,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:41.6213365Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:12.077583Z"
   },
   {
     "npTitleId": "CUSA20402_00",
@@ -173281,5 +173281,236 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-01-22T17:26:22.0562065Z"
+  },
+  {
+    "npTitleId": "CUSA18201_00",
+    "npTitleIdshort": "CUSA18201",
+    "name": "HITMAN 3",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 1,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.3954569Z"
+  },
+  {
+    "npTitleId": "CUSA18210_00",
+    "npTitleIdshort": "CUSA18210",
+    "name": "HITMAN 3",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 1,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.4080779Z"
+  },
+  {
+    "npTitleId": "CUSA24785_00",
+    "npTitleIdshort": "CUSA24785",
+    "name": "HITMAN 3",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 1,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.4222009Z"
+  },
+  {
+    "npTitleId": "CUSA24786_00",
+    "npTitleIdshort": "CUSA24786",
+    "name": "HITMAN 3",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 1,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.4367635Z"
+  },
+  {
+    "npTitleId": "CUSA25860_00",
+    "npTitleIdshort": "CUSA25860",
+    "name": "Arrog",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.4550569Z"
+  },
+  {
+    "npTitleId": "CUSA25865_00",
+    "npTitleIdshort": "CUSA25865",
+    "name": "Arrog",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.4705831Z"
+  },
+  {
+    "npTitleId": "CUSA26288_00",
+    "npTitleIdshort": "CUSA26288",
+    "name": "Ghostrunner Demo",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.4908395Z"
+  },
+  {
+    "npTitleId": "CUSA26795_00",
+    "npTitleIdshort": "CUSA26795",
+    "name": "Space Break Head to Head",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.5028209Z"
+  },
+  {
+    "npTitleId": "CUSA26802_00",
+    "npTitleIdshort": "CUSA26802",
+    "name": "Space Break Head to Head",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.5187984Z"
+  },
+  {
+    "npTitleId": "CUSA18467_00",
+    "npTitleIdshort": "CUSA18467",
+    "name": "Chronos",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.5313035Z"
+  },
+  {
+    "npTitleId": "CUSA26730_00",
+    "npTitleIdshort": "CUSA26730",
+    "name": "Lizard Lady vs the Cats",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.5693811Z"
+  },
+  {
+    "npTitleId": "CUSA26731_00",
+    "npTitleIdshort": "CUSA26731",
+    "name": "Lizard Lady vs the Cats",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.5956968Z"
+  },
+  {
+    "npTitleId": "CUSA26820_00",
+    "npTitleIdshort": "CUSA26820",
+    "name": "Tanks vs Tanks",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.6153279Z"
+  },
+  {
+    "npTitleId": "CUSA25674_00",
+    "npTitleIdshort": "CUSA25674",
+    "name": "Sword of the Necromancer",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.6364527Z"
+  },
+  {
+    "npTitleId": "CUSA16974_00",
+    "npTitleIdshort": "CUSA16974",
+    "name": "黄金夢想曲†ＣＲＯＳＳ",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.6489378Z"
+  },
+  {
+    "npTitleId": "CUSA20633_00",
+    "npTitleIdshort": "CUSA20633",
+    "name": "Elemental Knights R",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.6700353Z"
+  },
+  {
+    "npTitleId": "CUSA24216_00",
+    "npTitleIdshort": "CUSA24216",
+    "name": "Cyber Shadow",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.6917775Z"
+  },
+  {
+    "npTitleId": "CUSA24983_00",
+    "npTitleIdshort": "CUSA24983",
+    "name": "Alchemist Adventure",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.7229707Z"
+  },
+  {
+    "npTitleId": "CUSA25640_00",
+    "npTitleIdshort": "CUSA25640",
+    "name": "Elemental Knights R",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.7363753Z"
+  },
+  {
+    "npTitleId": "CUSA25641_00",
+    "npTitleIdshort": "CUSA25641",
+    "name": "Elemental Knights R",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.7544Z"
+  },
+  {
+    "npTitleId": "CUSA25877_00",
+    "npTitleIdshort": "CUSA25877",
+    "name": "FLATLAND: PROLOGUE",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-26T16:05:32.769594Z"
   }
 ]
