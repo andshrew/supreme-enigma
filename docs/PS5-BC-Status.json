@@ -173798,5 +173798,115 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-01-29T11:19:17.2548578Z"
+  },
+  {
+    "npTitleId": "CUSA20379_00",
+    "npTitleIdshort": "CUSA20379",
+    "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.8022687Z"
+  },
+  {
+    "npTitleId": "CUSA20420_00",
+    "npTitleIdshort": "CUSA20420",
+    "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.8112117Z"
+  },
+  {
+    "npTitleId": "CUSA26203_00",
+    "npTitleIdshort": "CUSA26203",
+    "name": "Another Dawn",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.8189347Z"
+  },
+  {
+    "npTitleId": "CUSA18743_00",
+    "npTitleIdshort": "CUSA18743",
+    "name": "Re:ZERO -Starting Life in Another World- The Prophecy of the Throne",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.8375337Z"
+  },
+  {
+    "npTitleId": "CUSA23384_00",
+    "npTitleIdshort": "CUSA23384",
+    "name": "Haven",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.8531495Z"
+  },
+  {
+    "npTitleId": "CUSA23385_00",
+    "npTitleIdshort": "CUSA23385",
+    "name": "Haven",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.8683596Z"
+  },
+  {
+    "npTitleId": "CUSA23386_00",
+    "npTitleIdshort": "CUSA23386",
+    "name": "Haven",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.8864693Z"
+  },
+  {
+    "npTitleId": "CUSA25237_00",
+    "npTitleIdshort": "CUSA25237",
+    "name": "Rusty Spout Rescue Adventure",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.9006989Z"
+  },
+  {
+    "npTitleId": "CUSA25215_00",
+    "npTitleIdshort": "CUSA25215",
+    "name": "Turok 2: Seeds of Evil",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.9083018Z"
+  },
+  {
+    "npTitleId": "CUSA25216_00",
+    "npTitleIdshort": "CUSA25216",
+    "name": "Turok 2: Seeds of Evil",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-01-30T10:28:52.9246411Z"
   }
 ]
