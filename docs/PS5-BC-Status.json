@@ -174579,5 +174579,126 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-02-12T17:58:47.819608Z"
+  },
+  {
+    "npTitleId": "CUSA19034_00",
+    "npTitleIdshort": "CUSA19034",
+    "name": "Heavy Metal Machines",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.1973397Z"
+  },
+  {
+    "npTitleId": "CUSA19173_00",
+    "npTitleIdshort": "CUSA19173",
+    "name": "Heavy Metal Machines",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.2116633Z"
+  },
+  {
+    "npTitleId": "CUSA26500_00",
+    "npTitleIdshort": "CUSA26500",
+    "name": "Skateboarding - Breakthrough Gaming Arcade",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.2226955Z"
+  },
+  {
+    "npTitleId": "CUSA26625_00",
+    "npTitleIdshort": "CUSA26625",
+    "name": "Stardew Valley",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.2334686Z"
+  },
+  {
+    "npTitleId": "CUSA20643_00",
+    "npTitleIdshort": "CUSA20643",
+    "name": "Shoot 1UP DX",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.2445574Z"
+  },
+  {
+    "npTitleId": "CUSA26281_00",
+    "npTitleIdshort": "CUSA26281",
+    "name": "Shoot 1UP DX",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.257793Z"
+  },
+  {
+    "npTitleId": "CUSA23468_00",
+    "npTitleIdshort": "CUSA23468",
+    "name": "Fallen Legion Revenants",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.2690319Z"
+  },
+  {
+    "npTitleId": "CUSA23469_00",
+    "npTitleIdshort": "CUSA23469",
+    "name": "Fallen Legion Revenants",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.2804503Z"
+  },
+  {
+    "npTitleId": "CUSA23672_00",
+    "npTitleIdshort": "CUSA23672",
+    "name": "SPACE INVADERS FOREVER",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.2915823Z"
+  },
+  {
+    "npTitleId": "CUSA25712_00",
+    "npTitleIdshort": "CUSA25712",
+    "name": "Fallen Legion Revenants Digital Official Soundtrack Sampler",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.3027075Z"
+  },
+  {
+    "npTitleId": "CUSA25713_00",
+    "npTitleIdshort": "CUSA25713",
+    "name": "Fallen Legion Revenants Digital Official Soundtrack Sampler",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-16T17:58:30.3160468Z"
   }
 ]
