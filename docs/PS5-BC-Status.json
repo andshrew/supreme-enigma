@@ -1525,8 +1525,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:42.9872975Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T09:59:17.0278961Z"
   },
   {
     "npTitleId": "CUSA00160_00",
@@ -2405,8 +2405,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:43.347847Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T09:59:17.9506034Z"
   },
   {
     "npTitleId": "CUSA00255_00",
@@ -3428,8 +3428,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:43.7657271Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T09:59:19.0462583Z"
   },
   {
     "npTitleId": "CUSA00367_00",
@@ -3725,8 +3725,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "BOOTABLE",
-    "date": "2020-11-01T14:25:43.8869777Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T09:59:19.3609151Z"
   },
   {
     "npTitleId": "CUSA00398_00",
@@ -144624,8 +144624,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:14.0774355Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:04:00.7749459Z"
   },
   {
     "npTitleId": "CUSA17242_00",
@@ -145031,8 +145031,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:14.2783329Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:04:01.1534852Z"
   },
   {
     "npTitleId": "CUSA17297_00",
@@ -174964,5 +174964,93 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-02-21T12:28:04.7726814Z"
+  },
+  {
+    "npTitleId": "CUSA25597_00",
+    "npTitleIdshort": "CUSA25597",
+    "name": "Boxed In",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 1,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.3894576Z"
+  },
+  {
+    "npTitleId": "CUSA17501_00",
+    "npTitleIdshort": "CUSA17501",
+    "name": "Kaze and the Wild Masks",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.4013052Z"
+  },
+  {
+    "npTitleId": "CUSA17979_00",
+    "npTitleIdshort": "CUSA17979",
+    "name": "Kaze and the Wild Masks",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.4107028Z"
+  },
+  {
+    "npTitleId": "CUSA25596_00",
+    "npTitleIdshort": "CUSA25596",
+    "name": "スターレネゲード",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.427161Z"
+  },
+  {
+    "npTitleId": "CUSA25547_00",
+    "npTitleIdshort": "CUSA25547",
+    "name": "Mail Mole",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.4419049Z"
+  },
+  {
+    "npTitleId": "CUSA26003_00",
+    "npTitleIdshort": "CUSA26003",
+    "name": "Spooky Chase",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.4609072Z"
+  },
+  {
+    "npTitleId": "CUSA25158_00",
+    "npTitleIdshort": "CUSA25158",
+    "name": "金色ラブリッチェ-GOLDEN TIME-",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.4755032Z"
+  },
+  {
+    "npTitleId": "CUSA20206_00",
+    "npTitleIdshort": "CUSA20206",
+    "name": "Skate City",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-02-24T10:05:05.4898478Z"
   }
 ]
