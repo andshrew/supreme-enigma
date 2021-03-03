@@ -161179,8 +161179,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2020-11-01T14:29:37.3300826Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:04.9805339Z"
   },
   {
     "npTitleId": "CUSA20154_00",
@@ -175305,5 +175305,115 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-02-28T17:45:02.3062808Z"
+  },
+  {
+    "npTitleId": "CUSA27239_00",
+    "npTitleIdshort": "CUSA27239",
+    "name": "Saint Patrick's Day Break",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.913061Z"
+  },
+  {
+    "npTitleId": "CUSA27240_00",
+    "npTitleIdshort": "CUSA27240",
+    "name": "Saint Patrick's Day Break",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9230422Z"
+  },
+  {
+    "npTitleId": "CUSA26413_00",
+    "npTitleIdshort": "CUSA26413",
+    "name": "MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON Starter Edition",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9317258Z"
+  },
+  {
+    "npTitleId": "CUSA26414_00",
+    "npTitleIdshort": "CUSA26414",
+    "name": "MOBILE SUIT GUNDAM EXTREME VS. 極限爆發 入門版",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9428197Z"
+  },
+  {
+    "npTitleId": "CUSA20545_00",
+    "npTitleIdshort": "CUSA20545",
+    "name": "Alvo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 2,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9520973Z"
+  },
+  {
+    "npTitleId": "CUSA25610_00",
+    "npTitleIdshort": "CUSA25610",
+    "name": "Ruinverse",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9612341Z"
+  },
+  {
+    "npTitleId": "CUSA25611_00",
+    "npTitleIdshort": "CUSA25611",
+    "name": "Ruinverse",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9703913Z"
+  },
+  {
+    "npTitleId": "CUSA26196_00",
+    "npTitleIdshort": "CUSA26196",
+    "name": "Arcade Archives LEGEND OF MAKAI",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9816919Z"
+  },
+  {
+    "npTitleId": "CUSA26197_00",
+    "npTitleIdshort": "CUSA26197",
+    "name": "Arcade Archives LEGEND OF MAKAI",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:34.9909236Z"
+  },
+  {
+    "npTitleId": "CUSA26198_00",
+    "npTitleIdshort": "CUSA26198",
+    "name": "Arcade Archives LEGEND OF MAKAI",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-03T14:45:35.0000216Z"
   }
 ]
