@@ -142743,8 +142743,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "NOT_COMPATIBLE",
-    "date": "2020-11-01T14:29:09.2578814Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:48:37.2184337Z"
   },
   {
     "npTitleId": "CUSA17002_00",
@@ -142941,8 +142941,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "NOT_COMPATIBLE",
-    "date": "2020-11-01T14:29:13.2775171Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:48:41.0784349Z"
   },
   {
     "npTitleId": "CUSA17033_00",
@@ -175415,5 +175415,291 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-03-03T14:45:35.0000216Z"
+  },
+  {
+    "npTitleId": "CUSA26172_00",
+    "npTitleIdshort": "CUSA26172",
+    "name": "Monster Blast",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.4383797Z"
+  },
+  {
+    "npTitleId": "CUSA27529_00",
+    "npTitleIdshort": "CUSA27529",
+    "name": "Monster Blast",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.4492591Z"
+  },
+  {
+    "npTitleId": "CUSA23362_00",
+    "npTitleIdshort": "CUSA23362",
+    "name": "Potion Party",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.4615001Z"
+  },
+  {
+    "npTitleId": "CUSA23363_00",
+    "npTitleIdshort": "CUSA23363",
+    "name": "Potion Party",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.4719628Z"
+  },
+  {
+    "npTitleId": "CUSA27290_00",
+    "npTitleIdshort": "CUSA27290",
+    "name": "Into A Dream",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.4825369Z"
+  },
+  {
+    "npTitleId": "CUSA27291_00",
+    "npTitleIdshort": "CUSA27291",
+    "name": "Into A Dream",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.4948788Z"
+  },
+  {
+    "npTitleId": "CUSA19072_00",
+    "npTitleIdshort": "CUSA19072",
+    "name": "NieR Replicant ver.1.22474487139...",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5051684Z"
+  },
+  {
+    "npTitleId": "CUSA20346_00",
+    "npTitleIdshort": "CUSA20346",
+    "name": "Alvo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 2,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5157219Z"
+  },
+  {
+    "npTitleId": "CUSA24060_00",
+    "npTitleIdshort": "CUSA24060",
+    "name": "Kill It With Fire",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5279412Z"
+  },
+  {
+    "npTitleId": "CUSA24061_00",
+    "npTitleIdshort": "CUSA24061",
+    "name": "Kill It With Fire",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5377342Z"
+  },
+  {
+    "npTitleId": "CUSA25354_00",
+    "npTitleIdshort": "CUSA25354",
+    "name": "Glaive: Brick Breaker",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5482767Z"
+  },
+  {
+    "npTitleId": "CUSA26965_00",
+    "npTitleIdshort": "CUSA26965",
+    "name": "Glaive: Brick Breaker",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5603959Z"
+  },
+  {
+    "npTitleId": "CUSA18808_00",
+    "npTitleIdshort": "CUSA18808",
+    "name": "Harvest Moon: One World",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5701876Z"
+  },
+  {
+    "npTitleId": "CUSA25572_00",
+    "npTitleIdshort": "CUSA25572",
+    "name": "Big Rumble Boxing: Creed Champions",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5803508Z"
+  },
+  {
+    "npTitleId": "CUSA25617_00",
+    "npTitleIdshort": "CUSA25617",
+    "name": "Big Rumble Boxing: Creed Champions",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.5920011Z"
+  },
+  {
+    "npTitleId": "CUSA25967_00",
+    "npTitleIdshort": "CUSA25967",
+    "name": "アスディバインクロス",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6049216Z"
+  },
+  {
+    "npTitleId": "CUSA26381_00",
+    "npTitleIdshort": "CUSA26381",
+    "name": "Journey of the Broken Circle",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6155718Z"
+  },
+  {
+    "npTitleId": "CUSA26382_00",
+    "npTitleIdshort": "CUSA26382",
+    "name": "Journey of the Broken Circle",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6254292Z"
+  },
+  {
+    "npTitleId": "CUSA16742_00",
+    "npTitleIdshort": "CUSA16742",
+    "name": "It Takes Two",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6396599Z"
+  },
+  {
+    "npTitleId": "CUSA16746_00",
+    "npTitleIdshort": "CUSA16746",
+    "name": "It Takes Two",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6515238Z"
+  },
+  {
+    "npTitleId": "CUSA25392_00",
+    "npTitleIdshort": "CUSA25392",
+    "name": "Dungeons & Bombs",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6741476Z"
+  },
+  {
+    "npTitleId": "CUSA25393_00",
+    "npTitleIdshort": "CUSA25393",
+    "name": "Dungeons & Bombs",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6860457Z"
+  },
+  {
+    "npTitleId": "CUSA25803_00",
+    "npTitleIdshort": "CUSA25803",
+    "name": "Exodemon",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.6955216Z"
+  },
+  {
+    "npTitleId": "CUSA25804_00",
+    "npTitleIdshort": "CUSA25804",
+    "name": "Exodemon",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.7049686Z"
+  },
+  {
+    "npTitleId": "CUSA26566_00",
+    "npTitleIdshort": "CUSA26566",
+    "name": "Castle of no Escape 2",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.7164481Z"
+  },
+  {
+    "npTitleId": "CUSA26567_00",
+    "npTitleIdshort": "CUSA26567",
+    "name": "Castle of no Escape 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-06T14:49:49.7260808Z"
   }
 ]
