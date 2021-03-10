@@ -175701,5 +175701,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-03-06T14:49:49.7260808Z"
+  },
+  {
+    "npTitleId": "CUSA20289_00",
+    "npTitleIdshort": "CUSA20289",
+    "name": "Taishogun The Rise of Emperor",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-10T10:04:56.4846339Z"
+  },
+  {
+    "npTitleId": "CUSA26257_00",
+    "npTitleIdshort": "CUSA26257",
+    "name": "リジットフォース・リダックス",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-10T10:04:56.497808Z"
+  },
+  {
+    "npTitleId": "CUSA25875_00",
+    "npTitleIdshort": "CUSA25875",
+    "name": "Chess Knights - Viking Lands",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-10T10:04:56.5122505Z"
+  },
+  {
+    "npTitleId": "CUSA27080_00",
+    "npTitleIdshort": "CUSA27080",
+    "name": "ことばのパズル もじぴったんアンコール 体験版",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-10T10:04:56.5229406Z"
   }
 ]
