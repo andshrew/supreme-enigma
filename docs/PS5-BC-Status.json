@@ -175745,5 +175745,126 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-03-10T10:04:56.5229406Z"
+  },
+  {
+    "npTitleId": "CUSA23211_00",
+    "npTitleIdshort": "CUSA23211",
+    "name": "Star Renegades",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.0860597Z"
+  },
+  {
+    "npTitleId": "CUSA23212_00",
+    "npTitleIdshort": "CUSA23212",
+    "name": "Star Renegades",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.0985445Z"
+  },
+  {
+    "npTitleId": "CUSA26810_00",
+    "npTitleIdshort": "CUSA26810",
+    "name": "Arcade Archives THUNDER DRAGON",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1079733Z"
+  },
+  {
+    "npTitleId": "CUSA26811_00",
+    "npTitleIdshort": "CUSA26811",
+    "name": "Arcade Archives THUNDER DRAGON",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1171345Z"
+  },
+  {
+    "npTitleId": "CUSA26812_00",
+    "npTitleIdshort": "CUSA26812",
+    "name": "Arcade Archives THUNDER DRAGON",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1282358Z"
+  },
+  {
+    "npTitleId": "CUSA27408_00",
+    "npTitleIdshort": "CUSA27408",
+    "name": "Newtonian Inversion",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1373999Z"
+  },
+  {
+    "npTitleId": "CUSA27409_00",
+    "npTitleIdshort": "CUSA27409",
+    "name": "Newtonian Inversion",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1465604Z"
+  },
+  {
+    "npTitleId": "CUSA27524_00",
+    "npTitleIdshort": "CUSA27524",
+    "name": "Saint Patrick's Day Break Head to Head",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1578612Z"
+  },
+  {
+    "npTitleId": "CUSA27525_00",
+    "npTitleIdshort": "CUSA27525",
+    "name": "Saint Patrick's Day Break Head to Head",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1675823Z"
+  },
+  {
+    "npTitleId": "CUSA26985_00",
+    "npTitleIdshort": "CUSA26985",
+    "name": "WhatTheDub",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1768563Z"
+  },
+  {
+    "npTitleId": "CUSA26987_00",
+    "npTitleIdshort": "CUSA26987",
+    "name": "WhatTheDub",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-11T12:03:35.1884032Z"
   }
 ]
