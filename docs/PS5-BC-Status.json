@@ -47494,8 +47494,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 0,
-    "ps5bc": "NOT_COMPATIBLE",
-    "date": "2020-11-01T14:26:49.7088574Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-13T23:39:06.5600448Z"
   },
   {
     "npTitleId": "CUSA05729_00",
@@ -175866,5 +175866,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-03-11T12:03:35.1884032Z"
+  },
+  {
+    "npTitleId": "CUSA27141_00",
+    "npTitleIdshort": "CUSA27141",
+    "name": "Shred! 2 - ft Sam Pilgrim",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-13T23:43:40.3698755Z"
+  },
+  {
+    "npTitleId": "CUSA15409_00",
+    "npTitleIdshort": "CUSA15409",
+    "name": "Shred! 2 - ft Sam Pilgrim",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-13T23:43:40.3826127Z"
+  },
+  {
+    "npTitleId": "CUSA27176_00",
+    "npTitleIdshort": "CUSA27176",
+    "name": "UnderMine",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-13T23:43:40.3956291Z"
+  },
+  {
+    "npTitleId": "CUSA27255_00",
+    "npTitleIdshort": "CUSA27255",
+    "name": "UnderMine",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-13T23:43:40.4066324Z"
   }
 ]
