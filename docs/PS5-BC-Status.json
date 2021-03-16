@@ -175910,5 +175910,148 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2021-03-13T23:43:40.4066324Z"
+  },
+  {
+    "npTitleId": "CUSA26068_00",
+    "npTitleIdshort": "CUSA26068",
+    "name": "Ground Zero Texas - Nuclear Edition",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.1509676Z"
+  },
+  {
+    "npTitleId": "CUSA18253_00",
+    "npTitleIdshort": "CUSA18253",
+    "name": "Ground Zero Texas - Nuclear Edition",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.165521Z"
+  },
+  {
+    "npTitleId": "CUSA26686_00",
+    "npTitleIdshort": "CUSA26686",
+    "name": "Road Fury",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.1842181Z"
+  },
+  {
+    "npTitleId": "CUSA26688_00",
+    "npTitleIdshort": "CUSA26688",
+    "name": "Road Fury",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.1988636Z"
+  },
+  {
+    "npTitleId": "CUSA18521_00",
+    "npTitleIdshort": "CUSA18521",
+    "name": "Prince of Persia®: The Sands of Time Remake",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.213224Z"
+  },
+  {
+    "npTitleId": "CUSA18525_00",
+    "npTitleIdshort": "CUSA18525",
+    "name": "Prince of Persia®: The Sands of Time Remake",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.2294148Z"
+  },
+  {
+    "npTitleId": "CUSA18532_00",
+    "npTitleIdshort": "CUSA18532",
+    "name": "Prince of Persia®: The Sands of Time Remake",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.2439435Z"
+  },
+  {
+    "npTitleId": "CUSA19147_00",
+    "npTitleIdshort": "CUSA19147",
+    "name": "R.B.I. Baseball 21",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.2603234Z"
+  },
+  {
+    "npTitleId": "CUSA26971_00",
+    "npTitleIdshort": "CUSA26971",
+    "name": "R.B.I. Baseball 21",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.2747106Z"
+  },
+  {
+    "npTitleId": "CUSA24145_00",
+    "npTitleIdshort": "CUSA24145",
+    "name": "Stubbs the Zombie",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.2898738Z"
+  },
+  {
+    "npTitleId": "CUSA24146_00",
+    "npTitleIdshort": "CUSA24146",
+    "name": "Stubbs the Zombie",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.3065349Z"
+  },
+  {
+    "npTitleId": "CUSA26422_00",
+    "npTitleIdshort": "CUSA26422",
+    "name": "Can't Drive This",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.3208201Z"
+  },
+  {
+    "npTitleId": "CUSA26423_00",
+    "npTitleIdshort": "CUSA26423",
+    "name": "Can't Drive This",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2021-03-16T22:07:12.3380344Z"
   }
 ]
