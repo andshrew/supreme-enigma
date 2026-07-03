@@ -425801,11 +425801,11 @@
   {
     "npTitleId": "CUSA53979_00",
     "npTitleIdshort": "CUSA53979",
-    "name": "Deathbulge",
+    "name": "Deathbulge: Battle of the Bands",
     "region": "UB",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-02T02:07:14.7621003Z"
   },
@@ -425830,5 +425830,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-02T02:07:14.7847262Z"
+  },
+  {
+    "npTitleId": "CUSA58540_00",
+    "npTitleIdshort": "CUSA58540",
+    "name": "In Fair Spirits",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-03T02:07:04.3119084Z"
+  },
+  {
+    "npTitleId": "CUSA58731_00",
+    "npTitleIdshort": "CUSA58731",
+    "name": "9 Years of Shadows",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-03T02:07:04.3187192Z"
+  },
+  {
+    "npTitleId": "CUSA58732_00",
+    "npTitleIdshort": "CUSA58732",
+    "name": "9 Years of Shadows",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-03T02:07:04.3214132Z"
+  },
+  {
+    "npTitleId": "CUSA59394_00",
+    "npTitleIdshort": "CUSA59394",
+    "name": "Splash of Color",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-03T02:07:04.3260607Z"
   }
 ]
