@@ -425874,5 +425874,38 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-03T02:07:04.3260607Z"
+  },
+  {
+    "npTitleId": "CUSA59205_00",
+    "npTitleIdshort": "CUSA59205",
+    "name": "Legend Of Fireball",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-04T02:07:24.4844557Z"
+  },
+  {
+    "npTitleId": "CUSA59384_00",
+    "npTitleIdshort": "CUSA59384",
+    "name": "Sakura Succubus 9",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-04T02:07:24.5060403Z"
+  },
+  {
+    "npTitleId": "CUSA59727_00",
+    "npTitleIdshort": "CUSA59727",
+    "name": "Xtreme Traffic Racing",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-04T02:07:24.5068603Z"
   }
 ]
