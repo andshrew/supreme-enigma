@@ -425907,5 +425907,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-04T02:07:24.5068603Z"
+  },
+  {
+    "npTitleId": "CUSA58477_00",
+    "npTitleIdshort": "CUSA58477",
+    "name": "Call of Duty® Black Ops 6",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-06T02:07:06.238164Z"
+  },
+  {
+    "npTitleId": "CUSA58478_00",
+    "npTitleIdshort": "CUSA58478",
+    "name": "Call of Duty® Black Ops 6",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-06T02:07:06.2469819Z"
+  },
+  {
+    "npTitleId": "CUSA58479_00",
+    "npTitleIdshort": "CUSA58479",
+    "name": "Call of Duty® Black Ops 6",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-06T02:07:06.2479597Z"
+  },
+  {
+    "npTitleId": "CUSA58480_00",
+    "npTitleIdshort": "CUSA58480",
+    "name": "Call of Duty® Black Ops 6",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-06T02:07:06.2485452Z"
+  },
+  {
+    "npTitleId": "CUSA58481_00",
+    "npTitleIdshort": "CUSA58481",
+    "name": "Call of Duty® Black Ops 6",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-06T02:07:06.2494043Z"
+  },
+  {
+    "npTitleId": "CUSA59793_00",
+    "npTitleIdshort": "CUSA59793",
+    "name": "Eden Coil",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "N/A",
+    "date": "2026-07-06T02:07:06.2501508Z"
   }
 ]
