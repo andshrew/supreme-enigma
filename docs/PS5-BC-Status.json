@@ -425973,5 +425973,16 @@
     "neoEnable": 1,
     "ps5bc": "N/A",
     "date": "2026-07-06T02:07:06.2501508Z"
+  },
+  {
+    "npTitleId": "CUSA59794_00",
+    "npTitleIdshort": "CUSA59794",
+    "name": "Radiation Caterpillar",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-07T02:06:59.2200348Z"
   }
 ]
