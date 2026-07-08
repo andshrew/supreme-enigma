@@ -425836,9 +425836,9 @@
     "npTitleIdshort": "CUSA58540",
     "name": "In Fair Spirits",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-03T02:07:04.3119084Z"
   },
@@ -425984,5 +425984,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-07T02:06:59.2200348Z"
+  },
+  {
+    "npTitleId": "CUSA57547_00",
+    "npTitleIdshort": "CUSA57547",
+    "name": "Call of Duty®: Black Ops",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-08T02:06:57.8999796Z"
+  },
+  {
+    "npTitleId": "CUSA57548_00",
+    "npTitleIdshort": "CUSA57548",
+    "name": "Call of Duty®: Black Ops II",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-08T02:06:57.9328664Z"
+  },
+  {
+    "npTitleId": "CUSA58530_00",
+    "npTitleIdshort": "CUSA58530",
+    "name": "Call of Duty®: Black Ops",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-08T02:06:57.9339995Z"
+  },
+  {
+    "npTitleId": "CUSA59244_00",
+    "npTitleIdshort": "CUSA59244",
+    "name": "Call of Duty®: Black Ops",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-08T02:06:57.9352446Z"
+  },
+  {
+    "npTitleId": "CUSA59279_00",
+    "npTitleIdshort": "CUSA59279",
+    "name": "Call of Duty®: Black Ops II",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-08T02:06:57.9367575Z"
+  },
+  {
+    "npTitleId": "CUSA59391_00",
+    "npTitleIdshort": "CUSA59391",
+    "name": "Taishogun The Rise of Emperor",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-08T02:06:57.9379444Z"
   }
 ]
