@@ -426050,5 +426050,38 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-08T02:06:57.9379444Z"
+  },
+  {
+    "npTitleId": "CUSA59014_00",
+    "npTitleIdshort": "CUSA59014",
+    "name": "Arcade Archives HYPER CRASH",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-09T02:07:14.099161Z"
+  },
+  {
+    "npTitleId": "CUSA59696_00",
+    "npTitleIdshort": "CUSA59696",
+    "name": "Fashion Princess - Dress Up for Girls",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-09T02:07:15.5080463Z"
+  },
+  {
+    "npTitleId": "CUSA59697_00",
+    "npTitleIdshort": "CUSA59697",
+    "name": "Slime Jump",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-09T02:07:15.5093631Z"
   }
 ]
