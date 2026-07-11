@@ -426138,5 +426138,16 @@
     "neoEnable": 1,
     "ps5bc": "N/A",
     "date": "2026-07-10T02:07:10.2260032Z"
+  },
+  {
+    "npTitleId": "CUSA59425_00",
+    "npTitleIdshort": "CUSA59425",
+    "name": "Foot Clinic",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-11T02:06:57.547204Z"
   }
 ]
