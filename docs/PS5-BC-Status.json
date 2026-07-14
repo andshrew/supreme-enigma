@@ -426149,5 +426149,27 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-11T02:06:57.547204Z"
+  },
+  {
+    "npTitleId": "CUSA59086_00",
+    "npTitleIdshort": "CUSA59086",
+    "name": "Gennady",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-14T02:07:10.023677Z"
+  },
+  {
+    "npTitleId": "CUSA59768_00",
+    "npTitleIdshort": "CUSA59768",
+    "name": "Obby Sprunki Towers",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-14T02:07:10.0345262Z"
   }
 ]
