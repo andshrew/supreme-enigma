@@ -426089,9 +426089,9 @@
     "npTitleIdshort": "CUSA58295",
     "name": "Quest Arrest",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-10T02:07:10.2067557Z"
   },
@@ -426171,5 +426171,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-14T02:07:10.0345262Z"
+  },
+  {
+    "npTitleId": "CUSA49194_00",
+    "npTitleIdshort": "CUSA49194",
+    "name": "洞窟ぼうけん団",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-16T02:07:17.0969018Z"
+  },
+  {
+    "npTitleId": "CUSA56889_00",
+    "npTitleIdshort": "CUSA56889",
+    "name": "Arcade Archives SYVALION",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-16T02:07:17.1265705Z"
+  },
+  {
+    "npTitleId": "CUSA58562_00",
+    "npTitleIdshort": "CUSA58562",
+    "name": "Streetdog BMX",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-16T02:07:17.1287118Z"
+  },
+  {
+    "npTitleId": "CUSA58650_00",
+    "npTitleIdshort": "CUSA58650",
+    "name": "Biomechanical Toy (QUByte Classics)",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-16T02:07:17.12959Z"
+  },
+  {
+    "npTitleId": "CUSA59367_00",
+    "npTitleIdshort": "CUSA59367",
+    "name": "Blast'N Bounty",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-16T02:07:17.1304306Z"
+  },
+  {
+    "npTitleId": "CUSA59370_00",
+    "npTitleIdshort": "CUSA59370",
+    "name": "Cozy Grove: Camp Spirit",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "N/A",
+    "date": "2026-07-16T02:07:17.1311953Z"
+  },
+  {
+    "npTitleId": "CUSA59502_00",
+    "npTitleIdshort": "CUSA59502",
+    "name": "Cozy Grove: Camp Spirit",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-16T02:07:17.131934Z"
   }
 ]
