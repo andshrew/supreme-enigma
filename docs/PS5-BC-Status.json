@@ -426199,9 +426199,9 @@
     "npTitleIdshort": "CUSA58562",
     "name": "Streetdog BMX",
     "region": "UB",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-16T02:07:17.1287118Z"
   },
@@ -426248,5 +426248,38 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-16T02:07:17.131934Z"
+  },
+  {
+    "npTitleId": "CUSA58376_00",
+    "npTitleIdshort": "CUSA58376",
+    "name": "Ultra Pixel Survive 2",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-17T02:06:52.7680004Z"
+  },
+  {
+    "npTitleId": "CUSA59256_00",
+    "npTitleIdshort": "CUSA59256",
+    "name": "Farlands",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-17T02:06:52.7778493Z"
+  },
+  {
+    "npTitleId": "CUSA59257_00",
+    "npTitleIdshort": "CUSA59257",
+    "name": "Farlands",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-17T02:06:52.7920192Z"
   }
 ]
