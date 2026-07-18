@@ -425891,9 +425891,9 @@
     "npTitleIdshort": "CUSA59384",
     "name": "Sakura Succubus 9",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-04T02:07:24.5060403Z"
   },
@@ -426281,5 +426281,115 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-17T02:06:52.7920192Z"
+  },
+  {
+    "npTitleId": "CUSA51850_00",
+    "npTitleIdshort": "CUSA51850",
+    "name": "Kynseed",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2807271Z"
+  },
+  {
+    "npTitleId": "CUSA55938_00",
+    "npTitleIdshort": "CUSA55938",
+    "name": "PSI-OPS The Mindgate Conspiracy",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2932526Z"
+  },
+  {
+    "npTitleId": "CUSA57131_00",
+    "npTitleIdshort": "CUSA57131",
+    "name": "Shard Squad",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.294147Z"
+  },
+  {
+    "npTitleId": "CUSA59245_00",
+    "npTitleIdshort": "CUSA59245",
+    "name": "Traffic Rush Ultimate Drive",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2949421Z"
+  },
+  {
+    "npTitleId": "CUSA59246_00",
+    "npTitleIdshort": "CUSA59246",
+    "name": "Traffic Rush Ultimate Drive",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2956115Z"
+  },
+  {
+    "npTitleId": "CUSA59247_00",
+    "npTitleIdshort": "CUSA59247",
+    "name": "Traffic Rush Ultimate Drive",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2962747Z"
+  },
+  {
+    "npTitleId": "CUSA59248_00",
+    "npTitleIdshort": "CUSA59248",
+    "name": "Traffic Rush Ultimate Drive",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2969195Z"
+  },
+  {
+    "npTitleId": "CUSA59758_00",
+    "npTitleIdshort": "CUSA59758",
+    "name": "Cave Looters",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2975298Z"
+  },
+  {
+    "npTitleId": "CUSA59777_00",
+    "npTitleIdshort": "CUSA59777",
+    "name": "Brawl Snakes",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2982353Z"
+  },
+  {
+    "npTitleId": "CUSA59815_00",
+    "npTitleIdshort": "CUSA59815",
+    "name": "Drones  Attack",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-18T02:07:04.2999577Z"
   }
 ]
