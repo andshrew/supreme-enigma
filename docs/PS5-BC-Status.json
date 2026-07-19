@@ -426375,9 +426375,9 @@
     "npTitleIdshort": "CUSA59777",
     "name": "Brawl Snakes",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-18T02:07:04.2982353Z"
   },
@@ -426391,5 +426391,104 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-18T02:07:04.2999577Z"
+  },
+  {
+    "npTitleId": "CUSA59529_00",
+    "npTitleIdshort": "CUSA59529",
+    "name": "Word Search Trails",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5468318Z"
+  },
+  {
+    "npTitleId": "CUSA59530_00",
+    "npTitleIdshort": "CUSA59530",
+    "name": "Word Search Trails",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.557411Z"
+  },
+  {
+    "npTitleId": "CUSA59531_00",
+    "npTitleIdshort": "CUSA59531",
+    "name": "Word Search Trails",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5604116Z"
+  },
+  {
+    "npTitleId": "CUSA59532_00",
+    "npTitleIdshort": "CUSA59532",
+    "name": "Word Search Trails",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5612349Z"
+  },
+  {
+    "npTitleId": "CUSA59673_00",
+    "npTitleIdshort": "CUSA59673",
+    "name": "Buffet Boss",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5621102Z"
+  },
+  {
+    "npTitleId": "CUSA59800_00",
+    "npTitleIdshort": "CUSA59800",
+    "name": "Trash Raccoon",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5644017Z"
+  },
+  {
+    "npTitleId": "CUSA59801_00",
+    "npTitleIdshort": "CUSA59801",
+    "name": "Trash Raccoon",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5651484Z"
+  },
+  {
+    "npTitleId": "CUSA59802_00",
+    "npTitleIdshort": "CUSA59802",
+    "name": "Trash Raccoon",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5659518Z"
+  },
+  {
+    "npTitleId": "CUSA59803_00",
+    "npTitleIdshort": "CUSA59803",
+    "name": "Trash Raccoon",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-19T02:07:21.5665323Z"
   }
 ]
