@@ -426474,9 +426474,9 @@
     "npTitleIdshort": "CUSA59802",
     "name": "Trash Raccoon",
     "region": "JP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-19T02:07:21.5659518Z"
   },
