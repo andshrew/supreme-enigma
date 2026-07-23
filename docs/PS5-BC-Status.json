@@ -426490,5 +426490,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-19T02:07:21.5665323Z"
+  },
+  {
+    "npTitleId": "CUSA57532_00",
+    "npTitleIdshort": "CUSA57532",
+    "name": "Wake Up, Lia!",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-23T02:07:01.3482695Z"
+  },
+  {
+    "npTitleId": "CUSA58629_00",
+    "npTitleIdshort": "CUSA58629",
+    "name": "Gurei",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-23T02:07:01.3651195Z"
+  },
+  {
+    "npTitleId": "CUSA58899_00",
+    "npTitleIdshort": "CUSA58899",
+    "name": "Arcade Archives ARMADILLO RACING",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-23T02:07:01.3661431Z"
+  },
+  {
+    "npTitleId": "CUSA59858_00",
+    "npTitleIdshort": "CUSA59858",
+    "name": "Wrap House Simulator Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-23T02:07:01.3668172Z"
+  },
+  {
+    "npTitleId": "CUSA59859_00",
+    "npTitleIdshort": "CUSA59859",
+    "name": "Wrap House Simulator Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-23T02:07:01.3675461Z"
   }
 ]
