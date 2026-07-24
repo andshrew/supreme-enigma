@@ -426545,5 +426545,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-23T02:07:01.3675461Z"
+  },
+  {
+    "npTitleId": "CUSA57220_00",
+    "npTitleIdshort": "CUSA57220",
+    "name": "EA SPORTS FC™ 27 Standard Edition PS4 & PS5",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-24T02:06:54.400964Z"
+  },
+  {
+    "npTitleId": "CUSA59430_00",
+    "npTitleIdshort": "CUSA59430",
+    "name": "FlipCat",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-24T02:06:54.9397464Z"
   }
 ]
