@@ -426567,5 +426567,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-24T02:06:54.9397464Z"
+  },
+  {
+    "npTitleId": "CUSA49944_00",
+    "npTitleIdshort": "CUSA49944",
+    "name": "Yet Another Zombie Survivors",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-26T02:07:00.6900109Z"
   }
 ]
