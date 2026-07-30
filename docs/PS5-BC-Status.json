@@ -426578,5 +426578,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-26T02:07:00.6900109Z"
+  },
+  {
+    "npTitleId": "CUSA58297_00",
+    "npTitleIdshort": "CUSA58297",
+    "name": "Mechaconda",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-30T02:06:55.5041061Z"
+  },
+  {
+    "npTitleId": "CUSA58749_00",
+    "npTitleIdshort": "CUSA58749",
+    "name": "アレサ ARETHA the SUPER FAMICOM",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-30T02:06:55.5120057Z"
+  },
+  {
+    "npTitleId": "CUSA58844_00",
+    "npTitleIdshort": "CUSA58844",
+    "name": "アレサII ～アリエルの不思議な旅～",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-30T02:06:55.5139387Z"
+  },
+  {
+    "npTitleId": "CUSA58845_00",
+    "npTitleIdshort": "CUSA58845",
+    "name": "リジョイス ～アレサ王国の彼方～",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-30T02:06:55.5145362Z"
+  },
+  {
+    "npTitleId": "CUSA59022_00",
+    "npTitleIdshort": "CUSA59022",
+    "name": "Mate'Morphosis",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-30T02:06:55.5152484Z"
+  },
+  {
+    "npTitleId": "CUSA59795_00",
+    "npTitleIdshort": "CUSA59795",
+    "name": "Threshold Warden",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-30T02:06:55.5159121Z"
   }
 ]
