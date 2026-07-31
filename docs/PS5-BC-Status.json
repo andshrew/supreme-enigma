@@ -426644,5 +426644,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-30T02:06:55.5159121Z"
+  },
+  {
+    "npTitleId": "CUSA55790_00",
+    "npTitleIdshort": "CUSA55790",
+    "name": "Arcade Archives TX-1",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-31T02:07:03.2367576Z"
+  },
+  {
+    "npTitleId": "CUSA59067_00",
+    "npTitleIdshort": "CUSA59067",
+    "name": "Turnip Mountain",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-31T02:07:03.3245419Z"
+  },
+  {
+    "npTitleId": "CUSA59068_00",
+    "npTitleIdshort": "CUSA59068",
+    "name": "Turnip Mountain",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-31T02:07:03.3270781Z"
+  },
+  {
+    "npTitleId": "CUSA59123_00",
+    "npTitleIdshort": "CUSA59123",
+    "name": "Bee With Gun",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-31T02:07:03.3277767Z"
+  },
+  {
+    "npTitleId": "CUSA59424_00",
+    "npTitleIdshort": "CUSA59424",
+    "name": "Dating Stories 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-07-31T02:07:03.3284452Z"
   }
 ]
