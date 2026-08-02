@@ -426721,5 +426721,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-01T02:06:55.3802905Z"
+  },
+  {
+    "npTitleId": "CUSA57132_00",
+    "npTitleIdshort": "CUSA57132",
+    "name": "Ghetto Zombies: Graffiti Squad",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-02T02:07:03.2923819Z"
   }
 ]
