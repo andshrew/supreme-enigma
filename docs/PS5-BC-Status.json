@@ -426732,5 +426732,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-02T02:07:03.2923819Z"
+  },
+  {
+    "npTitleId": "CUSA49604_00",
+    "npTitleIdshort": "CUSA49604",
+    "name": "Super Bunny Man",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-06T02:07:24.5255467Z"
+  },
+  {
+    "npTitleId": "CUSA57955_00",
+    "npTitleIdshort": "CUSA57955",
+    "name": "Arcade Archives COMBAT SCHOOL",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-06T02:07:24.5554831Z"
+  },
+  {
+    "npTitleId": "CUSA59155_00",
+    "npTitleIdshort": "CUSA59155",
+    "name": "Deep Sea Delivery & Co.",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-06T02:07:24.5562177Z"
+  },
+  {
+    "npTitleId": "CUSA59718_00",
+    "npTitleIdshort": "CUSA59718",
+    "name": "Pets Survivors",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-06T02:07:24.5585972Z"
   }
 ]
