@@ -426776,5 +426776,38 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-06T02:07:24.5585972Z"
+  },
+  {
+    "npTitleId": "CUSA59073_00",
+    "npTitleIdshort": "CUSA59073",
+    "name": "Project Neon",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-07T02:06:56.7181707Z"
+  },
+  {
+    "npTitleId": "CUSA59262_00",
+    "npTitleIdshort": "CUSA59262",
+    "name": "アスディバインノット",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-07T02:06:56.7833806Z"
+  },
+  {
+    "npTitleId": "CUSA59796_00",
+    "npTitleIdshort": "CUSA59796",
+    "name": "Zombuffoonery",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-07T02:06:56.7861521Z"
   }
 ]
