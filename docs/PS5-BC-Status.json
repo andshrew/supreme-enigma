@@ -426760,9 +426760,9 @@
     "npTitleIdshort": "CUSA59155",
     "name": "Deep Sea Delivery & Co.",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-06T02:07:24.5562177Z"
   },
@@ -426809,5 +426809,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-07T02:06:56.7861521Z"
+  },
+  {
+    "npTitleId": "CUSA49322_00",
+    "npTitleIdshort": "CUSA49322",
+    "name": "John Fox",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-08T02:06:57.525441Z"
   }
 ]
