@@ -426254,9 +426254,9 @@
     "npTitleIdshort": "CUSA58376",
     "name": "Ultra Pixel Survive 2",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-17T02:06:52.7680004Z"
   },
@@ -426683,9 +426683,9 @@
     "npTitleIdshort": "CUSA59123",
     "name": "Bee With Gun",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-31T02:07:03.3277767Z"
   },
@@ -426820,5 +426820,49 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-08T02:06:57.525441Z"
+  },
+  {
+    "npTitleId": "CUSA59937_00",
+    "npTitleIdshort": "CUSA59937",
+    "name": "Isle of Reveries",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-11T02:07:00.6064112Z"
+  },
+  {
+    "npTitleId": "CUSA59939_00",
+    "npTitleIdshort": "CUSA59939",
+    "name": "Radon Blast 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-11T02:07:00.6166473Z"
+  },
+  {
+    "npTitleId": "CUSA59940_00",
+    "npTitleIdshort": "CUSA59940",
+    "name": "Radon Blast",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-11T02:07:00.617622Z"
+  },
+  {
+    "npTitleId": "CUSA59962_00",
+    "npTitleIdshort": "CUSA59962",
+    "name": "Bubble Shooter FX",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-11T02:07:00.6184136Z"
   }
 ]
