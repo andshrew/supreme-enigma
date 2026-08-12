@@ -426815,9 +426815,9 @@
     "npTitleIdshort": "CUSA49322",
     "name": "John Fox",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-08T02:06:57.525441Z"
   },
