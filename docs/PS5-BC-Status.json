@@ -426864,5 +426864,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-11T02:07:00.6184136Z"
+  },
+  {
+    "npTitleId": "CUSA58251_00",
+    "npTitleIdshort": "CUSA58251",
+    "name": "Plungeez",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-13T02:07:00.1134901Z"
+  },
+  {
+    "npTitleId": "CUSA58847_00",
+    "npTitleIdshort": "CUSA58847",
+    "name": "Akatori",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-13T02:07:00.1662864Z"
+  },
+  {
+    "npTitleId": "CUSA58965_00",
+    "npTitleIdshort": "CUSA58965",
+    "name": "Arcade Archives V'BALL",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-13T02:07:00.1684185Z"
+  },
+  {
+    "npTitleId": "CUSA59111_00",
+    "npTitleIdshort": "CUSA59111",
+    "name": "TSUKIHIME A piece of blue glass moon",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-13T02:07:00.1690259Z"
+  },
+  {
+    "npTitleId": "CUSA59112_00",
+    "npTitleIdshort": "CUSA59112",
+    "name": "TSUKIHIME Material Ⅰ -material of blue glass moon-",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-13T02:07:00.1696202Z"
   }
 ]
