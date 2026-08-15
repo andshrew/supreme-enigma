@@ -426919,5 +426919,38 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-13T02:07:00.1696202Z"
+  },
+  {
+    "npTitleId": "CUSA58515_00",
+    "npTitleIdshort": "CUSA58515",
+    "name": "Tower Dominion",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-15T02:07:08.4927984Z"
+  },
+  {
+    "npTitleId": "CUSA58900_00",
+    "npTitleIdshort": "CUSA58900",
+    "name": "Murders on the Yangtze River",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-15T02:07:08.5133768Z"
+  },
+  {
+    "npTitleId": "CUSA59941_00",
+    "npTitleIdshort": "CUSA59941",
+    "name": "Quiz Challenge Multiplayer",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-15T02:07:08.5157502Z"
   }
 ]
