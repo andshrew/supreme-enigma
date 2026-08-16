@@ -426952,5 +426952,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-15T02:07:08.5157502Z"
+  },
+  {
+    "npTitleId": "CUSA58609_00",
+    "npTitleIdshort": "CUSA58609",
+    "name": "TCG Card Shop Simulator",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-16T02:07:03.3696714Z"
   }
 ]
