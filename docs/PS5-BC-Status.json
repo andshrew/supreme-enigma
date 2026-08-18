@@ -426963,5 +426963,49 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-16T02:07:03.3696714Z"
+  },
+  {
+    "npTitleId": "CUSA59567_00",
+    "npTitleIdshort": "CUSA59567",
+    "name": "Onimusha Dawn of Dreams",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-18T02:07:04.3133489Z"
+  },
+  {
+    "npTitleId": "CUSA59740_00",
+    "npTitleIdshort": "CUSA59740",
+    "name": "Ashigaru The Last Shogun",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-18T02:07:04.3371255Z"
+  },
+  {
+    "npTitleId": "CUSA59869_00",
+    "npTitleIdshort": "CUSA59869",
+    "name": "Black Flower Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-18T02:07:04.3381091Z"
+  },
+  {
+    "npTitleId": "CUSA59873_00",
+    "npTitleIdshort": "CUSA59873",
+    "name": "Black Flower",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-18T02:07:04.3386994Z"
   }
 ]
