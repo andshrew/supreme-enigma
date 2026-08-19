@@ -427007,5 +427007,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-18T02:07:04.3386994Z"
+  },
+  {
+    "npTitleId": "CUSA58282_00",
+    "npTitleIdshort": "CUSA58282",
+    "name": "Whirlight",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-19T02:07:07.8498246Z"
   }
 ]
