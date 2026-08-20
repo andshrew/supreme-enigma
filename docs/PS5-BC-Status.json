@@ -427018,5 +427018,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-19T02:07:07.8498246Z"
+  },
+  {
+    "npTitleId": "CUSA41375_00",
+    "npTitleIdshort": "CUSA41375",
+    "name": "Disney's Atlantis: The Lost Empire",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-20T02:07:22.9139759Z"
+  },
+  {
+    "npTitleId": "CUSA58413_00",
+    "npTitleIdshort": "CUSA58413",
+    "name": "Super Woden Rally Edge",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-20T02:07:22.9356576Z"
+  },
+  {
+    "npTitleId": "CUSA58748_00",
+    "npTitleIdshort": "CUSA58748",
+    "name": "STEINS;GATE RE:BOOT",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-20T02:07:22.9373249Z"
+  },
+  {
+    "npTitleId": "CUSA59753_00",
+    "npTitleIdshort": "CUSA59753",
+    "name": "Dark Reflection",
+    "region": "JB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-20T02:07:22.9381835Z"
+  },
+  {
+    "npTitleId": "CUSA59772_00",
+    "npTitleIdshort": "CUSA59772",
+    "name": "STEINS;GATE RE:BOOT DIGITAL CONTENT",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-20T02:07:22.9408941Z"
   }
 ]
