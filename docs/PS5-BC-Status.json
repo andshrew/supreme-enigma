@@ -427073,5 +427073,104 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-20T02:07:22.9408941Z"
+  },
+  {
+    "npTitleId": "CUSA58811_00",
+    "npTitleIdshort": "CUSA58811",
+    "name": "Mexican Ninja",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0134697Z"
+  },
+  {
+    "npTitleId": "CUSA58814_00",
+    "npTitleIdshort": "CUSA58814",
+    "name": "Mexican Ninja",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0221617Z"
+  },
+  {
+    "npTitleId": "CUSA58815_00",
+    "npTitleIdshort": "CUSA58815",
+    "name": "Mexican Ninja",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0228468Z"
+  },
+  {
+    "npTitleId": "CUSA58816_00",
+    "npTitleIdshort": "CUSA58816",
+    "name": "Mexican Ninja",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0236527Z"
+  },
+  {
+    "npTitleId": "CUSA59093_00",
+    "npTitleIdshort": "CUSA59093",
+    "name": "Arcade Archives CYBER CYCLES",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0242806Z"
+  },
+  {
+    "npTitleId": "CUSA59751_00",
+    "npTitleIdshort": "CUSA59751",
+    "name": "Dark Reflection",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0249475Z"
+  },
+  {
+    "npTitleId": "CUSA59752_00",
+    "npTitleIdshort": "CUSA59752",
+    "name": "Dark Reflection",
+    "region": "EB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0267616Z"
+  },
+  {
+    "npTitleId": "CUSA59754_00",
+    "npTitleIdshort": "CUSA59754",
+    "name": "Dark Reflection",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0276652Z"
+  },
+  {
+    "npTitleId": "CUSA59985_00",
+    "npTitleIdshort": "CUSA59985",
+    "name": "Swamp Defense 2",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-21T02:07:14.0285021Z"
   }
 ]
