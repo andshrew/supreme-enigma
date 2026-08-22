@@ -426549,11 +426549,11 @@
   {
     "npTitleId": "CUSA57220_00",
     "npTitleIdshort": "CUSA57220",
-    "name": "EA SPORTS FC™ 27 Standard Edition PS4 & PS5",
+    "name": "EA SPORTS FC 27",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-24T02:06:54.400964Z"
   },
@@ -427172,5 +427172,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-21T02:07:14.0285021Z"
+  },
+  {
+    "npTitleId": "CUSA53226_00",
+    "npTitleIdshort": "CUSA53226",
+    "name": "Mega City Force",
+    "region": "HP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-22T02:07:03.9784289Z"
+  },
+  {
+    "npTitleId": "CUSA57133_00",
+    "npTitleIdshort": "CUSA57133",
+    "name": "AuRevoir",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-22T02:07:03.9931276Z"
+  },
+  {
+    "npTitleId": "CUSA58452_00",
+    "npTitleIdshort": "CUSA58452",
+    "name": "With Eyes of Ice",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-22T02:07:03.995171Z"
+  },
+  {
+    "npTitleId": "CUSA59968_00",
+    "npTitleIdshort": "CUSA59968",
+    "name": "4096 Space Traders Era",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-22T02:07:03.9960052Z"
+  },
+  {
+    "npTitleId": "CUSA59984_00",
+    "npTitleIdshort": "CUSA59984",
+    "name": "Wishing Well Simulator",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-22T02:07:03.9967085Z"
   }
 ]
