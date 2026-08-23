@@ -427227,5 +427227,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-22T02:07:03.9967085Z"
+  },
+  {
+    "npTitleId": "CUSA59933_00",
+    "npTitleIdshort": "CUSA59933",
+    "name": "Tank Odyssey",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-23T02:07:11.6001302Z"
+  },
+  {
+    "npTitleId": "CUSA59934_00",
+    "npTitleIdshort": "CUSA59934",
+    "name": "Tank Odyssey",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-23T02:07:11.6083853Z"
   }
 ]
