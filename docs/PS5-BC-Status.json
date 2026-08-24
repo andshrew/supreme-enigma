@@ -412779,9 +412779,9 @@
     "npTitleIdshort": "CUSA57591",
     "name": "Sword of Fortress the Onomuzim",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-01-28T02:06:37.0064309Z"
   },
@@ -418840,9 +418840,9 @@
     "npTitleIdshort": "CUSA58073",
     "name": "Samael Legacy of Ophiuchus",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-04-01T02:06:32.1887429Z"
   },
@@ -424549,9 +424549,9 @@
     "npTitleIdshort": "CUSA58778",
     "name": "Shadow the Ronin",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-06-03T02:07:09.9551714Z"
   },
@@ -426045,9 +426045,9 @@
     "npTitleIdshort": "CUSA59391",
     "name": "Taishogun The Rise of Emperor",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-07-08T02:06:57.9379444Z"
   },
@@ -427249,5 +427249,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-23T02:07:11.6083853Z"
+  },
+  {
+    "npTitleId": "CUSA59978_00",
+    "npTitleIdshort": "CUSA59978",
+    "name": "Grizzy and the Lemmings - Crazy Party",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-24T02:07:12.6770835Z"
   }
 ]
