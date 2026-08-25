@@ -427200,9 +427200,9 @@
     "npTitleIdshort": "CUSA58452",
     "name": "With Eyes of Ice",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-22T02:07:03.995171Z"
   },
@@ -427260,5 +427260,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-24T02:07:12.6770835Z"
+  },
+  {
+    "npTitleId": "CUSA59791_00",
+    "npTitleIdshort": "CUSA59791",
+    "name": "Jonah Lomu Rugby Challenge 4",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-25T02:07:22.4334803Z"
   }
 ]
