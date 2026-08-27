@@ -427271,5 +427271,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-25T02:07:22.4334803Z"
+  },
+  {
+    "npTitleId": "CUSA58164_00",
+    "npTitleIdshort": "CUSA58164",
+    "name": "Lizards Must Die 2",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-27T02:07:11.0117355Z"
+  },
+  {
+    "npTitleId": "CUSA58750_00",
+    "npTitleIdshort": "CUSA58750",
+    "name": "超新時空ゲイム ネプテューヌ∞ サウンド・ビジュアルブック",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-27T02:07:11.0295285Z"
+  },
+  {
+    "npTitleId": "CUSA58757_00",
+    "npTitleIdshort": "CUSA58757",
+    "name": "Graveyard Keeper 2",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-27T02:07:11.0318132Z"
+  },
+  {
+    "npTitleId": "CUSA59049_00",
+    "npTitleIdshort": "CUSA59049",
+    "name": "Arcade Archives SATAN OF SATURN",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-27T02:07:11.032478Z"
+  },
+  {
+    "npTitleId": "CUSA59463_00",
+    "npTitleIdshort": "CUSA59463",
+    "name": "KUUKIYOMI 4: Consider It",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-27T02:07:11.0333665Z"
   }
 ]
