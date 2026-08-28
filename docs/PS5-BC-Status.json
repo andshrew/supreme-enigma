@@ -427326,5 +427326,60 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-27T02:07:11.0333665Z"
+  },
+  {
+    "npTitleId": "CUSA58075_00",
+    "npTitleIdshort": "CUSA58075",
+    "name": "1x1 Street Football - mini soccer PvP",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-28T02:07:27.4742541Z"
+  },
+  {
+    "npTitleId": "CUSA59909_00",
+    "npTitleIdshort": "CUSA59909",
+    "name": "Bunny Minesweeper",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "N/A",
+    "date": "2026-08-28T02:07:27.4994334Z"
+  },
+  {
+    "npTitleId": "CUSA59911_00",
+    "npTitleIdshort": "CUSA59911",
+    "name": "Bunny Minesweeper",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-28T02:07:27.500207Z"
+  },
+  {
+    "npTitleId": "CUSA59912_00",
+    "npTitleIdshort": "CUSA59912",
+    "name": "Bunny Minesweeper",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-28T02:07:27.50119Z"
+  },
+  {
+    "npTitleId": "CUSA59913_00",
+    "npTitleIdshort": "CUSA59913",
+    "name": "Bunny Minesweeper",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-28T02:07:27.5021134Z"
   }
 ]
