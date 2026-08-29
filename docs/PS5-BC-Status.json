@@ -427381,5 +427381,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-28T02:07:27.5021134Z"
+  },
+  {
+    "npTitleId": "CUSA57543_00",
+    "npTitleIdshort": "CUSA57543",
+    "name": "We Are Eva",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-29T02:07:14.1068974Z"
+  },
+  {
+    "npTitleId": "CUSA59381_00",
+    "npTitleIdshort": "CUSA59381",
+    "name": "1964 Operation Velvet Twins",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-08-29T02:07:14.1315271Z"
   }
 ]
