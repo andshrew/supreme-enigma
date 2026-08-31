@@ -426791,11 +426791,11 @@
   {
     "npTitleId": "CUSA59262_00",
     "npTitleIdshort": "CUSA59262",
-    "name": "アスディバインノット",
+    "name": "Asdivine Knot",
     "region": "JP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-07T02:06:56.7833806Z"
   },
