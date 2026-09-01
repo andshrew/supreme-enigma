@@ -427425,5 +427425,27 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-30T02:06:56.0267291Z"
+  },
+  {
+    "npTitleId": "CUSA43201_00",
+    "npTitleIdshort": "CUSA43201",
+    "name": "Folk Hero",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-01T02:07:11.1926996Z"
+  },
+  {
+    "npTitleId": "CUSA59217_00",
+    "npTitleIdshort": "CUSA59217",
+    "name": "Lady Death : Demonicron",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-01T02:07:11.211203Z"
   }
 ]
