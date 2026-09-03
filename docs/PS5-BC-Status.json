@@ -427398,9 +427398,9 @@
     "npTitleIdshort": "CUSA59381",
     "name": "1964 Operation Velvet Twins",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-29T02:07:14.1315271Z"
   },
@@ -427447,5 +427447,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-01T02:07:11.211203Z"
+  },
+  {
+    "npTitleId": "CUSA55615_00",
+    "npTitleIdshort": "CUSA55615",
+    "name": "創神のアルスマグナ",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-03T02:07:26.9021345Z"
+  },
+  {
+    "npTitleId": "CUSA55616_00",
+    "npTitleIdshort": "CUSA55616",
+    "name": "創神之阿爾斯馬格納",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-03T02:07:26.9225471Z"
+  },
+  {
+    "npTitleId": "CUSA58086_00",
+    "npTitleIdshort": "CUSA58086",
+    "name": "Angeline Era",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-03T02:07:26.9233514Z"
+  },
+  {
+    "npTitleId": "CUSA58457_00",
+    "npTitleIdshort": "CUSA58457",
+    "name": "The Alchemist of Ars Magna",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-03T02:07:26.9254126Z"
+  },
+  {
+    "npTitleId": "CUSA58458_00",
+    "npTitleIdshort": "CUSA58458",
+    "name": "The Alchemist of Ars Magna",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-03T02:07:26.9288139Z"
+  },
+  {
+    "npTitleId": "CUSA59613_00",
+    "npTitleIdshort": "CUSA59613",
+    "name": "Arcade Archives ARKANOID REVENGE OF DOH",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-03T02:07:26.9295633Z"
+  },
+  {
+    "npTitleId": "CUSA59647_00",
+    "npTitleIdshort": "CUSA59647",
+    "name": "The NOexistenceN of you AND me",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-03T02:07:26.9302387Z"
   }
 ]
