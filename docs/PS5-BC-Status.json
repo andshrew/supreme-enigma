@@ -427299,9 +427299,9 @@
     "npTitleIdshort": "CUSA58757",
     "name": "Graveyard Keeper 2",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-27T02:07:11.0318132Z"
   },
@@ -427475,9 +427475,9 @@
     "npTitleIdshort": "CUSA58086",
     "name": "Angeline Era",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-03T02:07:26.9233514Z"
   },
@@ -427524,5 +427524,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-03T02:07:26.9302387Z"
+  },
+  {
+    "npTitleId": "CUSA58042_00",
+    "npTitleIdshort": "CUSA58042",
+    "name": "Anvil Saga",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-04T02:08:18.6924701Z"
+  },
+  {
+    "npTitleId": "CUSA58296_00",
+    "npTitleIdshort": "CUSA58296",
+    "name": "Tales of Formentera",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-04T02:08:18.6991983Z"
+  },
+  {
+    "npTitleId": "CUSA58701_00",
+    "npTitleIdshort": "CUSA58701",
+    "name": "ShoeItAll",
+    "region": "EB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-04T02:08:18.6999668Z"
+  },
+  {
+    "npTitleId": "CUSA59233_00",
+    "npTitleIdshort": "CUSA59233",
+    "name": "Fate/EXTRA Record PS4 & PS5",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-04T02:08:18.7006503Z"
+  },
+  {
+    "npTitleId": "CUSA59830_00",
+    "npTitleIdshort": "CUSA59830",
+    "name": "Graveyard Keeper 2 Demo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-04T02:08:18.7013223Z"
   }
 ]
