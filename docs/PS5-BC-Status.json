@@ -427579,5 +427579,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-04T02:08:18.7013223Z"
+  },
+  {
+    "npTitleId": "CUSA47460_00",
+    "npTitleIdshort": "CUSA47460",
+    "name": "The Zebra-Man!",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-05T02:07:03.8558895Z"
+  },
+  {
+    "npTitleId": "CUSA58592_00",
+    "npTitleIdshort": "CUSA58592",
+    "name": "Fortress Merge",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-05T02:07:03.8776286Z"
+  },
+  {
+    "npTitleId": "CUSA59676_00",
+    "npTitleIdshort": "CUSA59676",
+    "name": "Order Automatica",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-05T02:07:03.8798236Z"
+  },
+  {
+    "npTitleId": "CUSA59927_00",
+    "npTitleIdshort": "CUSA59927",
+    "name": "Sugar Rush Rescue",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-05T02:07:03.8805808Z"
   }
 ]
