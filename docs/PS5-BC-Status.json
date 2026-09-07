@@ -427623,5 +427623,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-05T02:07:03.8805808Z"
+  },
+  {
+    "npTitleId": "CUSA47459_00",
+    "npTitleIdshort": "CUSA47459",
+    "name": "The Zebra-Man!",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-07T02:07:15.5301647Z"
   }
 ]
