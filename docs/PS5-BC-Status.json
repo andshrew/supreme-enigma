@@ -427634,5 +427634,38 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-07T02:07:15.5301647Z"
+  },
+  {
+    "npTitleId": "CUSA58153_00",
+    "npTitleIdshort": "CUSA58153",
+    "name": "Toro 2",
+    "region": "HP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-09T02:07:07.0302071Z"
+  },
+  {
+    "npTitleId": "CUSA59928_00",
+    "npTitleIdshort": "CUSA59928",
+    "name": "Picture Puzzle Girls",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-09T02:07:07.0401252Z"
+  },
+  {
+    "npTitleId": "CUSA59929_00",
+    "npTitleIdshort": "CUSA59929",
+    "name": "Picture Puzzle Girls",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-09T02:07:07.0426779Z"
   }
 ]
