@@ -427640,9 +427640,9 @@
     "npTitleIdshort": "CUSA58153",
     "name": "Toro 2",
     "region": "HP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-09T02:07:07.0302071Z"
   },
@@ -427667,5 +427667,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-09T02:07:07.0426779Z"
+  },
+  {
+    "npTitleId": "CUSA50050_00",
+    "npTitleIdshort": "CUSA50050",
+    "name": "Dimensional Animals",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-10T02:07:02.6048722Z"
+  },
+  {
+    "npTitleId": "CUSA56248_00",
+    "npTitleIdshort": "CUSA56248",
+    "name": "BIRDCAGE",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-10T02:07:02.634911Z"
+  },
+  {
+    "npTitleId": "CUSA56722_00",
+    "npTitleIdshort": "CUSA56722",
+    "name": "Bluey's Happy Snaps Deluxe Edition",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "N/A",
+    "date": "2026-09-10T02:07:02.6359899Z"
+  },
+  {
+    "npTitleId": "CUSA57395_00",
+    "npTitleIdshort": "CUSA57395",
+    "name": "不確定世界の探偵紳士～悪行双麻の事件ファイル～",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-10T02:07:02.6389245Z"
+  },
+  {
+    "npTitleId": "CUSA59446_00",
+    "npTitleIdshort": "CUSA59446",
+    "name": "Arcade Archives KARNOV",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-10T02:07:02.6400083Z"
   }
 ]
