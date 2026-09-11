@@ -427722,5 +427722,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-10T02:07:02.6400083Z"
+  },
+  {
+    "npTitleId": "CUSA58399_00",
+    "npTitleIdshort": "CUSA58399",
+    "name": "Farming Life : Agriculture Simulator",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-11T02:07:20.0925536Z"
+  },
+  {
+    "npTitleId": "CUSA59124_00",
+    "npTitleIdshort": "CUSA59124",
+    "name": "Dino Odyssey",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-11T02:07:20.3448122Z"
   }
 ]
