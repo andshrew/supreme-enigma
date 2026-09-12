@@ -427744,5 +427744,16 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-11T02:07:20.3448122Z"
+  },
+  {
+    "npTitleId": "CUSA60031_00",
+    "npTitleIdshort": "CUSA60031",
+    "name": "Stock Cars Racing",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-12T02:07:10.9551391Z"
   }
 ]
