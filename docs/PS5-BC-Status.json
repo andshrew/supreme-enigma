@@ -426956,7 +426956,7 @@
   {
     "npTitleId": "CUSA58609_00",
     "npTitleIdshort": "CUSA58609",
-    "name": "TCG Card Shop Simulator",
+    "name": "Card Shop Simulator",
     "region": "UB",
     "category": null,
     "psVr": null,
@@ -427755,5 +427755,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-12T02:07:10.9551391Z"
+  },
+  {
+    "npTitleId": "CUSA48832_00",
+    "npTitleIdshort": "CUSA48832",
+    "name": "Shujinkou Demo",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-16T02:07:15.1920014Z"
+  },
+  {
+    "npTitleId": "CUSA57776_00",
+    "npTitleIdshort": "CUSA57776",
+    "name": "CaptainDimension",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-16T02:07:15.1995031Z"
+  },
+  {
+    "npTitleId": "CUSA59650_00",
+    "npTitleIdshort": "CUSA59650",
+    "name": "ロックマンX　コマンドミッション",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-16T02:07:15.201266Z"
+  },
+  {
+    "npTitleId": "CUSA60040_00",
+    "npTitleIdshort": "CUSA60040",
+    "name": "Marble FX",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-16T02:07:15.201972Z"
   }
 ]
