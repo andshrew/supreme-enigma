@@ -427781,11 +427781,11 @@
   {
     "npTitleId": "CUSA59650_00",
     "npTitleIdshort": "CUSA59650",
-    "name": "ロックマンX　コマンドミッション",
+    "name": "Mega Man X Command Mission",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-16T02:07:15.201266Z"
   },
@@ -427799,5 +427799,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-16T02:07:15.201972Z"
+  },
+  {
+    "npTitleId": "CUSA59744_00",
+    "npTitleIdshort": "CUSA59744",
+    "name": "Hidden Dogs",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-17T02:07:09.077699Z"
+  },
+  {
+    "npTitleId": "CUSA59770_00",
+    "npTitleIdshort": "CUSA59770",
+    "name": "Arcade Archives Mr.Do!'s Castle",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "N/A",
+    "date": "2026-09-17T02:07:09.0887843Z"
   }
 ]
