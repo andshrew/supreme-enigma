@@ -427821,5 +427821,38 @@
     "neoEnable": 1,
     "ps5bc": "N/A",
     "date": "2026-09-17T02:07:09.0887843Z"
+  },
+  {
+    "npTitleId": "CUSA47031_00",
+    "npTitleIdshort": "CUSA47031",
+    "name": "Roman Sands RE:Build",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-18T02:06:56.4361447Z"
+  },
+  {
+    "npTitleId": "CUSA55604_00",
+    "npTitleIdshort": "CUSA55604",
+    "name": "The Grinch 2: Saving Christmas",
+    "region": "HP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-18T02:06:56.4619336Z"
+  },
+  {
+    "npTitleId": "CUSA59747_00",
+    "npTitleIdshort": "CUSA59747",
+    "name": "DucksInDisguise",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-18T02:06:56.4629058Z"
   }
 ]
