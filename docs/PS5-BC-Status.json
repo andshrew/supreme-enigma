@@ -412218,9 +412218,9 @@
     "npTitleIdshort": "CUSA56369",
     "name": "Look Mum No Computer",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-01-23T02:06:30.918698Z"
   },
@@ -427819,8 +427819,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2026-09-17T02:07:09.0887843Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-19T02:07:09.4945833Z"
   },
   {
     "npTitleId": "CUSA47031_00",
@@ -427838,9 +427838,9 @@
     "npTitleIdshort": "CUSA55604",
     "name": "The Grinch 2: Saving Christmas",
     "region": "HP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-18T02:06:56.4619336Z"
   },
