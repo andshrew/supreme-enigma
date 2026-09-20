@@ -427849,9 +427849,9 @@
     "npTitleIdshort": "CUSA59747",
     "name": "DucksInDisguise",
     "region": "HB",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-18T02:06:56.4629058Z"
   }
