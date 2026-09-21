@@ -427854,5 +427854,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-18T02:06:56.4629058Z"
+  },
+  {
+    "npTitleId": "CUSA59694_00",
+    "npTitleIdshort": "CUSA59694",
+    "name": "Sandwalkers",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "N/A",
+    "date": "2026-09-21T02:06:58.2848191Z"
   }
 ]
