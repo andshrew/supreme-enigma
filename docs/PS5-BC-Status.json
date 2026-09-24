@@ -427876,5 +427876,38 @@
     "neoEnable": 1,
     "ps5bc": "N/A",
     "date": "2026-09-23T02:07:15.994432Z"
+  },
+  {
+    "npTitleId": "CUSA58165_00",
+    "npTitleIdshort": "CUSA58165",
+    "name": "Bibi & Tina - Ready, Set, Ride!",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-24T02:07:06.8331899Z"
+  },
+  {
+    "npTitleId": "CUSA58999_00",
+    "npTitleIdshort": "CUSA58999",
+    "name": "I Hear Them",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-24T02:07:06.906213Z"
+  },
+  {
+    "npTitleId": "CUSA59000_00",
+    "npTitleIdshort": "CUSA59000",
+    "name": "I Hear Them",
+    "region": "HP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-24T02:07:06.9083641Z"
   }
 ]
