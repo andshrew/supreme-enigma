@@ -427909,5 +427909,93 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-24T02:07:06.9083641Z"
+  },
+  {
+    "npTitleId": "CUSA56931_00",
+    "npTitleIdshort": "CUSA56931",
+    "name": "Toy Story: Retro Roundup!",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.400006Z"
+  },
+  {
+    "npTitleId": "CUSA58001_00",
+    "npTitleIdshort": "CUSA58001",
+    "name": "SiN Reloaded",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.4070411Z"
+  },
+  {
+    "npTitleId": "CUSA58449_00",
+    "npTitleIdshort": "CUSA58449",
+    "name": "Angle Of Attack",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.4087632Z"
+  },
+  {
+    "npTitleId": "CUSA58997_00",
+    "npTitleIdshort": "CUSA58997",
+    "name": "I Hear Them",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.4093753Z"
+  },
+  {
+    "npTitleId": "CUSA58998_00",
+    "npTitleIdshort": "CUSA58998",
+    "name": "I Hear Them",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.4099767Z"
+  },
+  {
+    "npTitleId": "CUSA59447_00",
+    "npTitleIdshort": "CUSA59447",
+    "name": "Five Elements Chess",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.4106153Z"
+  },
+  {
+    "npTitleId": "CUSA59542_00",
+    "npTitleIdshort": "CUSA59542",
+    "name": "Farming Camp",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.4114384Z"
+  },
+  {
+    "npTitleId": "CUSA59852_00",
+    "npTitleIdshort": "CUSA59852",
+    "name": "Heroes of Magic & Cards",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-25T02:07:05.4120864Z"
   }
 ]
