@@ -427997,5 +427997,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-25T02:07:05.4120864Z"
+  },
+  {
+    "npTitleId": "CUSA60064_00",
+    "npTitleIdshort": "CUSA60064",
+    "name": "Cargo Rail Tycoon",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-26T02:07:13.7763102Z"
   }
 ]
