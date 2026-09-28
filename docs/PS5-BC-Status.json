@@ -427937,9 +427937,9 @@
     "npTitleIdshort": "CUSA58449",
     "name": "Angle Of Attack",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-25T02:07:05.4087632Z"
   },
