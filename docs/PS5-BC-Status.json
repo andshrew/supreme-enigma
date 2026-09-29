@@ -428019,5 +428019,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-27T02:07:08.463157Z"
+  },
+  {
+    "npTitleId": "CUSA59371_00",
+    "npTitleIdshort": "CUSA59371",
+    "name": "Blades & Battles",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-29T02:07:15.8664022Z"
   }
 ]
