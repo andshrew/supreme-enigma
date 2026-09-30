@@ -428030,5 +428030,38 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-29T02:07:15.8664022Z"
+  },
+  {
+    "npTitleId": "CUSA57011_00",
+    "npTitleIdshort": "CUSA57011",
+    "name": "King's Blade",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-30T02:07:19.4889864Z"
+  },
+  {
+    "npTitleId": "CUSA57012_00",
+    "npTitleIdshort": "CUSA57012",
+    "name": "King's Blade",
+    "region": "HP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "N/A",
+    "date": "2026-09-30T02:07:19.506961Z"
+  },
+  {
+    "npTitleId": "CUSA59855_00",
+    "npTitleIdshort": "CUSA59855",
+    "name": "Turbo Boost Racing",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-09-30T02:07:19.5080305Z"
   }
 ]
