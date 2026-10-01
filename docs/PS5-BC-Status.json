@@ -427541,9 +427541,9 @@
     "npTitleIdshort": "CUSA58296",
     "name": "Tales of Formentera",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-04T02:08:18.6991983Z"
   },
@@ -427739,9 +427739,9 @@
     "npTitleIdshort": "CUSA59124",
     "name": "Dino Odyssey",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-11T02:07:20.3448122Z"
   },
@@ -428063,5 +428063,71 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-30T02:07:19.5080305Z"
+  },
+  {
+    "npTitleId": "CUSA53589_00",
+    "npTitleIdshort": "CUSA53589",
+    "name": "FATAL FURY: City of the Wolves - Demo Version -",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-01T02:06:47.852052Z"
+  },
+  {
+    "npTitleId": "CUSA54796_00",
+    "npTitleIdshort": "CUSA54796",
+    "name": "ANTONBLAST",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-01T02:06:47.8701545Z"
+  },
+  {
+    "npTitleId": "CUSA57009_00",
+    "npTitleIdshort": "CUSA57009",
+    "name": "King's Blade",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-01T02:06:47.8709567Z"
+  },
+  {
+    "npTitleId": "CUSA57010_00",
+    "npTitleIdshort": "CUSA57010",
+    "name": "King's Blade",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "N/A",
+    "date": "2026-10-01T02:06:47.8762739Z"
+  },
+  {
+    "npTitleId": "CUSA58642_00",
+    "npTitleIdshort": "CUSA58642",
+    "name": "飛空艇クエスト島",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-01T02:06:47.8769468Z"
+  },
+  {
+    "npTitleId": "CUSA59837_00",
+    "npTitleIdshort": "CUSA59837",
+    "name": "Arcade Archives BALLOON BOMBER",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-01T02:06:47.8775621Z"
   }
 ]
