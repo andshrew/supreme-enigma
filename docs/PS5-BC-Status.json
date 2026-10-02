@@ -428129,5 +428129,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-01T02:06:47.8775621Z"
+  },
+  {
+    "npTitleId": "CUSA48260_00",
+    "npTitleIdshort": "CUSA48260",
+    "name": "Gothic II Complete Classic",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-02T02:07:19.1881257Z"
+  },
+  {
+    "npTitleId": "CUSA59457_00",
+    "npTitleIdshort": "CUSA59457",
+    "name": "Mister Scary - Where Are You?",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-02T02:07:20.939221Z"
+  },
+  {
+    "npTitleId": "CUSA59657_00",
+    "npTitleIdshort": "CUSA59657",
+    "name": "Heartworm",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-02T02:07:20.9439764Z"
+  },
+  {
+    "npTitleId": "CUSA59805_00",
+    "npTitleIdshort": "CUSA59805",
+    "name": "Blocky Powers",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-02T02:07:20.9447927Z"
+  },
+  {
+    "npTitleId": "CUSA60014_00",
+    "npTitleIdshort": "CUSA60014",
+    "name": "Choice of Life - Floors",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-02T02:07:20.9457536Z"
+  },
+  {
+    "npTitleId": "CUSA60097_00",
+    "npTitleIdshort": "CUSA60097",
+    "name": "HAMVENTURE",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-02T02:07:20.9465962Z"
+  },
+  {
+    "npTitleId": "CUSA60098_00",
+    "npTitleIdshort": "CUSA60098",
+    "name": "HAMVENTURE",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-02T02:07:20.9475017Z"
   }
 ]
