@@ -427874,8 +427874,8 @@
     "category": "gd",
     "psVr": 0,
     "neoEnable": 1,
-    "ps5bc": "N/A",
-    "date": "2026-09-23T02:07:15.994432Z"
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-03T02:07:06.0944594Z"
   },
   {
     "npTitleId": "CUSA58165_00",
@@ -428206,5 +428206,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-02T02:07:20.9475017Z"
+  },
+  {
+    "npTitleId": "CUSA60082_00",
+    "npTitleIdshort": "CUSA60082",
+    "name": "Top Down Rally Racing",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-03T02:07:13.2891729Z"
+  },
+  {
+    "npTitleId": "CUSA60099_00",
+    "npTitleIdshort": "CUSA60099",
+    "name": "Easy Fishing Simulator",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-03T02:07:13.2929417Z"
   }
 ]
