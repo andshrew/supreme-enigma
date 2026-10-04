@@ -428228,5 +428228,16 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-03T02:07:13.2929417Z"
+  },
+  {
+    "npTitleId": "CUSA60034_00",
+    "npTitleIdshort": "CUSA60034",
+    "name": "Rhythm Roll Demo",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "N/A",
+    "date": "2026-10-04T02:07:26.6722742Z"
   }
 ]
