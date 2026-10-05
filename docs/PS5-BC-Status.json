@@ -428239,5 +428239,16 @@
     "neoEnable": null,
     "ps5bc": "N/A",
     "date": "2026-10-04T02:07:26.6722742Z"
+  },
+  {
+    "npTitleId": "CUSA60072_00",
+    "npTitleIdshort": "CUSA60072",
+    "name": "Hippo Hop",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-05T02:07:17.1443395Z"
   }
 ]
