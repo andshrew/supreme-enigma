@@ -426958,9 +426958,9 @@
     "npTitleIdshort": "CUSA58609",
     "name": "Card Shop Simulator",
     "region": "UB",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-16T02:07:03.3696714Z"
   },
@@ -428058,9 +428058,9 @@
     "npTitleIdshort": "CUSA59855",
     "name": "Turbo Boost Racing",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-09-30T02:07:19.5080305Z"
   },
@@ -428250,5 +428250,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-05T02:07:17.1443395Z"
+  },
+  {
+    "npTitleId": "CUSA60073_00",
+    "npTitleIdshort": "CUSA60073",
+    "name": "Hippo Hop",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-06T02:07:16.8536095Z"
+  },
+  {
+    "npTitleId": "CUSA60142_00",
+    "npTitleIdshort": "CUSA60142",
+    "name": "Chicken Terror",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-06T02:07:16.8651874Z"
   }
 ]
