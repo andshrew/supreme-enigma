@@ -428272,5 +428272,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-06T02:07:16.8651874Z"
+  },
+  {
+    "npTitleId": "CUSA57306_00",
+    "npTitleIdshort": "CUSA57306",
+    "name": "Pocket Mirror ~ GoldenerTraum",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-07T02:07:40.8349623Z"
+  },
+  {
+    "npTitleId": "CUSA58728_00",
+    "npTitleIdshort": "CUSA58728",
+    "name": "Highway Blossoms",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-07T02:07:40.8793012Z"
+  },
+  {
+    "npTitleId": "CUSA60035_00",
+    "npTitleIdshort": "CUSA60035",
+    "name": "Wand & Order: Tidy up the magic shop!",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-07T02:07:40.8833461Z"
+  },
+  {
+    "npTitleId": "CUSA60114_00",
+    "npTitleIdshort": "CUSA60114",
+    "name": "Omni Growth",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-07T02:07:40.8849456Z"
   }
 ]
