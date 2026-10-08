@@ -428316,5 +428316,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-07T02:07:40.8849456Z"
+  },
+  {
+    "npTitleId": "CUSA57328_00",
+    "npTitleIdshort": "CUSA57328",
+    "name": "スピカアドベンチャー",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-08T02:06:52.0936457Z"
+  },
+  {
+    "npTitleId": "CUSA58006_00",
+    "npTitleIdshort": "CUSA58006",
+    "name": "Shockwave Triggers",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-08T02:06:52.1013537Z"
+  },
+  {
+    "npTitleId": "CUSA58652_00",
+    "npTitleIdshort": "CUSA58652",
+    "name": "Thunder Hoop Collection (QUByte Classics)",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-08T02:06:52.1033304Z"
+  },
+  {
+    "npTitleId": "CUSA58727_00",
+    "npTitleIdshort": "CUSA58727",
+    "name": "Highway Blossoms",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-08T02:06:52.1039659Z"
+  },
+  {
+    "npTitleId": "CUSA58733_00",
+    "npTitleIdshort": "CUSA58733",
+    "name": "Kemono Heroes",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-08T02:06:52.104646Z"
+  },
+  {
+    "npTitleId": "CUSA58734_00",
+    "npTitleIdshort": "CUSA58734",
+    "name": "Kemono Heroes",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-08T02:06:52.1052764Z"
   }
 ]
