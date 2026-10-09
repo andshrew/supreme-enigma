@@ -428322,9 +428322,9 @@
     "npTitleIdshort": "CUSA57328",
     "name": "スピカアドベンチャー",
     "region": "JP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-08T02:06:52.0936457Z"
   },
@@ -428382,5 +428382,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-08T02:06:52.1052764Z"
+  },
+  {
+    "npTitleId": "CUSA56713_00",
+    "npTitleIdshort": "CUSA56713",
+    "name": "myPOPGOES",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-09T02:06:56.548365Z"
+  },
+  {
+    "npTitleId": "CUSA58267_00",
+    "npTitleIdshort": "CUSA58267",
+    "name": "Sesame Street: Friends & Fun",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-09T02:06:56.5671716Z"
+  },
+  {
+    "npTitleId": "CUSA59792_00",
+    "npTitleIdshort": "CUSA59792",
+    "name": "Arcade Archives FIGHTING GOLF",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-09T02:06:56.5693721Z"
+  },
+  {
+    "npTitleId": "CUSA59926_00",
+    "npTitleIdshort": "CUSA59926",
+    "name": "Cozy Meowmory",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-09T02:06:56.5702429Z"
+  },
+  {
+    "npTitleId": "CUSA60113_00",
+    "npTitleIdshort": "CUSA60113",
+    "name": "Shardwatch Dominion",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-09T02:06:56.5708951Z"
   }
 ]
