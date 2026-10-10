@@ -425086,11 +425086,11 @@
   {
     "npTitleId": "CUSA53980_00",
     "npTitleIdshort": "CUSA53980",
-    "name": "テイルズ オブ エターニア リマスター PS4 & PS5",
+    "name": "Tales of Eternia Remastered",
     "region": "JP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-06-11T02:07:14.8884897Z"
   },
@@ -428437,5 +428437,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-09T02:06:56.5708951Z"
+  },
+  {
+    "npTitleId": "CUSA55114_00",
+    "npTitleIdshort": "CUSA55114",
+    "name": "House 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-10T02:06:58.6943734Z"
+  },
+  {
+    "npTitleId": "CUSA57248_00",
+    "npTitleIdshort": "CUSA57248",
+    "name": "Digital Artbook & Soundtrack",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-10T02:06:58.7227075Z"
+  },
+  {
+    "npTitleId": "CUSA58541_00",
+    "npTitleIdshort": "CUSA58541",
+    "name": "My Lovey-Dovey Demon",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-10T02:06:58.7234978Z"
+  },
+  {
+    "npTitleId": "CUSA59887_00",
+    "npTitleIdshort": "CUSA59887",
+    "name": "Rhythm Roll",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-10T02:06:58.7261358Z"
+  },
+  {
+    "npTitleId": "CUSA60022_00",
+    "npTitleIdshort": "CUSA60022",
+    "name": "Seahorse Soap Patrol",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-10T02:06:58.7269793Z"
+  },
+  {
+    "npTitleId": "CUSA60130_00",
+    "npTitleIdshort": "CUSA60130",
+    "name": "Frankenstein: Awakening of Horror",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-10T02:06:58.7276732Z"
+  },
+  {
+    "npTitleId": "CUSA60131_00",
+    "npTitleIdshort": "CUSA60131",
+    "name": "Devil & Angel Sky Battle",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-10T02:06:58.7285088Z"
   }
 ]
