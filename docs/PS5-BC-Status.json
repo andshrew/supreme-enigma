@@ -428223,9 +428223,9 @@
     "npTitleIdshort": "CUSA60099",
     "name": "Easy Fishing Simulator",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-03T02:07:13.2929417Z"
   },
