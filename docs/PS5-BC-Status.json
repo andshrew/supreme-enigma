@@ -428514,5 +428514,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-10T02:06:58.7285088Z"
+  },
+  {
+    "npTitleId": "CUSA52604_00",
+    "npTitleIdshort": "CUSA52604",
+    "name": "LIGHT:Black Cat & Amnesia Girl",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-12T02:07:43.6656187Z"
+  },
+  {
+    "npTitleId": "CUSA52606_00",
+    "npTitleIdshort": "CUSA52606",
+    "name": "LIGHT:Black Cat & Amnesia Girl",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-12T02:07:43.690283Z"
+  },
+  {
+    "npTitleId": "CUSA52607_00",
+    "npTitleIdshort": "CUSA52607",
+    "name": "LIGHT:Black Cat & Amnesia Girl",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-12T02:07:43.691283Z"
+  },
+  {
+    "npTitleId": "CUSA60060_00",
+    "npTitleIdshort": "CUSA60060",
+    "name": "Innocent Memory",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-12T02:07:43.6921324Z"
   }
 ]
