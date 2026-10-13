@@ -428558,5 +428558,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-12T02:07:43.6921324Z"
+  },
+  {
+    "npTitleId": "CUSA46623_00",
+    "npTitleIdshort": "CUSA46623",
+    "name": "Do Not Feed The Monkeys 2099",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-13T02:07:10.8271546Z"
+  },
+  {
+    "npTitleId": "CUSA52605_00",
+    "npTitleIdshort": "CUSA52605",
+    "name": "LIGHT:Black Cat & Amnesia Girl",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-13T02:07:10.8438858Z"
+  },
+  {
+    "npTitleId": "CUSA59698_00",
+    "npTitleIdshort": "CUSA59698",
+    "name": "Full Metal Sergeant 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-13T02:07:10.8448263Z"
+  },
+  {
+    "npTitleId": "CUSA60058_00",
+    "npTitleIdshort": "CUSA60058",
+    "name": "Innocent Memory",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-13T02:07:10.8454601Z"
+  },
+  {
+    "npTitleId": "CUSA60059_00",
+    "npTitleIdshort": "CUSA60059",
+    "name": "Innocent Memory",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-13T02:07:10.8462684Z"
+  },
+  {
+    "npTitleId": "CUSA60062_00",
+    "npTitleIdshort": "CUSA60062",
+    "name": "Innocent Memory",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-13T02:07:10.8469962Z"
+  },
+  {
+    "npTitleId": "CUSA60111_00",
+    "npTitleIdshort": "CUSA60111",
+    "name": "Ex-Master, Zombie",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-13T02:07:10.8476366Z"
   }
 ]
