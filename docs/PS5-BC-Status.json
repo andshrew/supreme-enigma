@@ -428635,5 +428635,38 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-13T02:07:10.8476366Z"
+  },
+  {
+    "npTitleId": "CUSA59778_00",
+    "npTitleIdshort": "CUSA59778",
+    "name": "Jimbaori The Onin War",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-14T02:06:52.5165991Z"
+  },
+  {
+    "npTitleId": "CUSA59790_00",
+    "npTitleIdshort": "CUSA59790",
+    "name": "Space Rock Breaker",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-14T02:06:52.534444Z"
+  },
+  {
+    "npTitleId": "CUSA60036_00",
+    "npTitleIdshort": "CUSA60036",
+    "name": "Cotton Reboot High Tension!",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-14T02:06:52.5369723Z"
   }
 ]
