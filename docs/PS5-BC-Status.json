@@ -427693,11 +427693,11 @@
   {
     "npTitleId": "CUSA56722_00",
     "npTitleIdshort": "CUSA56722",
-    "name": "Bluey's Happy Snaps Deluxe Edition",
+    "name": "Bluey's Happy Snaps",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "N/A",
     "date": "2026-09-10T02:07:02.6359899Z"
   },
@@ -428668,5 +428668,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-14T02:06:52.5369723Z"
+  },
+  {
+    "npTitleId": "CUSA59865_00",
+    "npTitleIdshort": "CUSA59865",
+    "name": "Arcade Archives THUNDERCADE",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-15T02:06:47.9906417Z"
+  },
+  {
+    "npTitleId": "CUSA60071_00",
+    "npTitleIdshort": "CUSA60071",
+    "name": "Car Simulator : Driving School",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-15T02:06:48.0037935Z"
   }
 ]
