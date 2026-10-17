@@ -428800,5 +428800,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-16T02:07:04.8862012Z"
+  },
+  {
+    "npTitleId": "CUSA30314_00",
+    "npTitleIdshort": "CUSA30314",
+    "name": "Fallen City Brawl",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-17T02:07:10.4415866Z"
+  },
+  {
+    "npTitleId": "CUSA59475_00",
+    "npTitleIdshort": "CUSA59475",
+    "name": "Gennady",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-17T02:07:10.4502411Z"
+  },
+  {
+    "npTitleId": "CUSA59546_00",
+    "npTitleIdshort": "CUSA59546",
+    "name": "EcchiMemories",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-17T02:07:10.4508913Z"
+  },
+  {
+    "npTitleId": "CUSA60028_00",
+    "npTitleIdshort": "CUSA60028",
+    "name": "Crocs World 5",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-17T02:07:10.4527626Z"
   }
 ]
