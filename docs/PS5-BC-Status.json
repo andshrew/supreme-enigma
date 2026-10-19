@@ -428844,5 +428844,38 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-17T02:07:10.4527626Z"
+  },
+  {
+    "npTitleId": "CUSA50870_00",
+    "npTitleIdshort": "CUSA50870",
+    "name": "Dahlia View",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 0,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-19T02:07:19.7937698Z"
+  },
+  {
+    "npTitleId": "CUSA50871_00",
+    "npTitleIdshort": "CUSA50871",
+    "name": "Dahlia View",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 0,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-19T02:07:19.8200421Z"
+  },
+  {
+    "npTitleId": "CUSA60136_00",
+    "npTitleIdshort": "CUSA60136",
+    "name": "The Abjuration Stand",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-19T02:07:19.8207177Z"
   }
 ]
