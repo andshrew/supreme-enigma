@@ -428465,9 +428465,9 @@
     "npTitleIdshort": "CUSA58541",
     "name": "My Lovey-Dovey Demon",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-10T02:06:58.7234978Z"
   },
