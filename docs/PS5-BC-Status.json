@@ -230441,11 +230441,11 @@
   {
     "npTitleId": "CUSA25788_00",
     "npTitleIdshort": "CUSA25788",
-    "name": "Conway: Disappearance at Dahlia View",
+    "name": "Dahlia View",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2022-07-21T11:34:21.6762468Z"
   },
@@ -428641,9 +428641,9 @@
     "npTitleIdshort": "CUSA59778",
     "name": "Jimbaori The Onin War",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-14T02:06:52.5165991Z"
   },
@@ -428910,5 +428910,82 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-20T02:07:06.5093328Z"
+  },
+  {
+    "npTitleId": "CUSA58644_00",
+    "npTitleIdshort": "CUSA58644",
+    "name": "Hail to the Rainbow",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-22T02:07:10.3858697Z"
+  },
+  {
+    "npTitleId": "CUSA58645_00",
+    "npTitleIdshort": "CUSA58645",
+    "name": "Hail to the Rainbow",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-22T02:07:10.4041453Z"
+  },
+  {
+    "npTitleId": "CUSA58646_00",
+    "npTitleIdshort": "CUSA58646",
+    "name": "Hail to the Rainbow",
+    "region": "JP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-22T02:07:10.4049294Z"
+  },
+  {
+    "npTitleId": "CUSA58647_00",
+    "npTitleIdshort": "CUSA58647",
+    "name": "Hail to the Rainbow",
+    "region": "HP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-22T02:07:10.4058097Z"
+  },
+  {
+    "npTitleId": "CUSA59477_00",
+    "npTitleIdshort": "CUSA59477",
+    "name": "Arcade Archives ACE DRIVER VICTORY LAP",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-22T02:07:10.406471Z"
+  },
+  {
+    "npTitleId": "CUSA59662_00",
+    "npTitleIdshort": "CUSA59662",
+    "name": "Outbreak: Dead City",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-22T02:07:10.416562Z"
+  },
+  {
+    "npTitleId": "CUSA60162_00",
+    "npTitleIdshort": "CUSA60162",
+    "name": "Lordcraft",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-22T02:07:10.4176985Z"
   }
 ]
