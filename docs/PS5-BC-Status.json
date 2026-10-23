@@ -428987,5 +428987,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-22T02:07:10.4176985Z"
+  },
+  {
+    "npTitleId": "CUSA49737_00",
+    "npTitleIdshort": "CUSA49737",
+    "name": "Entwined: Strings of Deception",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-23T02:07:06.9751235Z"
+  },
+  {
+    "npTitleId": "CUSA58428_00",
+    "npTitleIdshort": "CUSA58428",
+    "name": "Vixen 357",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-23T02:07:06.9948462Z"
+  },
+  {
+    "npTitleId": "CUSA59738_00",
+    "npTitleIdshort": "CUSA59738",
+    "name": "HorrorVale: Deadluxe Edition",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-23T02:07:06.9958498Z"
+  },
+  {
+    "npTitleId": "CUSA60203_00",
+    "npTitleIdshort": "CUSA60203",
+    "name": "Gravity Switch",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-23T02:07:06.9982738Z"
   }
 ]
