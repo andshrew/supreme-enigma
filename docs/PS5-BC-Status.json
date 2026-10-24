@@ -429004,9 +429004,9 @@
     "npTitleIdshort": "CUSA58428",
     "name": "Vixen 357",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-23T02:07:06.9948462Z"
   },
@@ -429031,5 +429031,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-23T02:07:06.9982738Z"
+  },
+  {
+    "npTitleId": "CUSA59761_00",
+    "npTitleIdshort": "CUSA59761",
+    "name": "Look Outside",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-24T02:06:56.089118Z"
+  },
+  {
+    "npTitleId": "CUSA60163_00",
+    "npTitleIdshort": "CUSA60163",
+    "name": "Neon GT Racing",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-24T02:06:56.096508Z"
   }
 ]
