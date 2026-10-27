@@ -429053,5 +429053,38 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-24T02:06:56.096508Z"
+  },
+  {
+    "npTitleId": "CUSA59210_00",
+    "npTitleIdshort": "CUSA59210",
+    "name": "Dog Man: Bark in Action",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-27T02:07:04.4301193Z"
+  },
+  {
+    "npTitleId": "CUSA59807_00",
+    "npTitleIdshort": "CUSA59807",
+    "name": "Phantom Floor",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-27T02:07:04.4457584Z"
+  },
+  {
+    "npTitleId": "CUSA60093_00",
+    "npTitleIdshort": "CUSA60093",
+    "name": "Hidden Objects",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-27T02:07:04.4483277Z"
   }
 ]
