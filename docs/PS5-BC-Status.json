@@ -429059,9 +429059,9 @@
     "npTitleIdshort": "CUSA59210",
     "name": "Dog Man: Bark in Action",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-27T02:07:04.4301193Z"
   },
@@ -429086,5 +429086,38 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-27T02:07:04.4483277Z"
+  },
+  {
+    "npTitleId": "CUSA59728_00",
+    "npTitleIdshort": "CUSA59728",
+    "name": "Mombo Combo Legacy",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-28T02:07:22.6022762Z"
+  },
+  {
+    "npTitleId": "CUSA60046_00",
+    "npTitleIdshort": "CUSA60046",
+    "name": "Whispers Within",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-28T02:07:22.6259058Z"
+  },
+  {
+    "npTitleId": "CUSA60047_00",
+    "npTitleIdshort": "CUSA60047",
+    "name": "Whispers Within",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-28T02:07:22.6267542Z"
   }
 ]
