@@ -429119,5 +429119,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-28T02:07:22.6267542Z"
+  },
+  {
+    "npTitleId": "CUSA55838_00",
+    "npTitleIdshort": "CUSA55838",
+    "name": "Sulfur",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-29T02:06:47.3519348Z"
+  },
+  {
+    "npTitleId": "CUSA59453_00",
+    "npTitleIdshort": "CUSA59453",
+    "name": "Arcade Archives PREHISTORIC ISLE",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-29T02:06:50.3346062Z"
+  },
+  {
+    "npTitleId": "CUSA59648_00",
+    "npTitleIdshort": "CUSA59648",
+    "name": "Hatsune Miku Connecting Puzzle Tamagotori Deluxe",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-29T02:06:50.3374919Z"
+  },
+  {
+    "npTitleId": "CUSA59898_00",
+    "npTitleIdshort": "CUSA59898",
+    "name": "ハッピーウィークエンド 体験版",
+    "region": "JB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-29T02:06:50.3382427Z"
+  },
+  {
+    "npTitleId": "CUSA60056_00",
+    "npTitleIdshort": "CUSA60056",
+    "name": "Deadly Stakes",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-29T02:06:50.3394465Z"
   }
 ]
