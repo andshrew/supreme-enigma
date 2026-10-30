@@ -429158,9 +429158,9 @@
     "npTitleIdshort": "CUSA59898",
     "name": "ハッピーウィークエンド 体験版",
     "region": "JB",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-29T02:06:50.3382427Z"
   },
@@ -429174,5 +429174,93 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-29T02:06:50.3394465Z"
+  },
+  {
+    "npTitleId": "CUSA57726_00",
+    "npTitleIdshort": "CUSA57726",
+    "name": "Mouthwashing",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.635102Z"
+  },
+  {
+    "npTitleId": "CUSA57729_00",
+    "npTitleIdshort": "CUSA57729",
+    "name": "Mouthwashing",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.6429222Z"
+  },
+  {
+    "npTitleId": "CUSA58653_00",
+    "npTitleIdshort": "CUSA58653",
+    "name": "BEYOND THE EVIL",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.6439036Z"
+  },
+  {
+    "npTitleId": "CUSA58962_00",
+    "npTitleIdshort": "CUSA58962",
+    "name": "The Zibbo Show",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.6446381Z"
+  },
+  {
+    "npTitleId": "CUSA58969_00",
+    "npTitleIdshort": "CUSA58969",
+    "name": "Croc 2 Kingdom of Gobbos",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.6465711Z"
+  },
+  {
+    "npTitleId": "CUSA59382_00",
+    "npTitleIdshort": "CUSA59382",
+    "name": "The Night Of The Exorcism",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.6472798Z"
+  },
+  {
+    "npTitleId": "CUSA59544_00",
+    "npTitleIdshort": "CUSA59544",
+    "name": "Unicorn Academy: Island of Magic",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.6481833Z"
+  },
+  {
+    "npTitleId": "CUSA59899_00",
+    "npTitleIdshort": "CUSA59899",
+    "name": "Asylum",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.649167Z"
   }
 ]
