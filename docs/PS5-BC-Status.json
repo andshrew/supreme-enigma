@@ -429224,9 +429224,9 @@
     "npTitleIdshort": "CUSA58969",
     "name": "Croc 2 Kingdom of Gobbos",
     "region": "UB",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-30T02:07:12.6465711Z"
   },
@@ -429257,10 +429257,54 @@
     "npTitleIdshort": "CUSA59899",
     "name": "Asylum",
     "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-30T02:07:12.649167Z"
+  },
+  {
+    "npTitleId": "CUSA48730_00",
+    "npTitleIdshort": "CUSA48730",
+    "name": "DPS IDLE",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-31T02:07:04.4969695Z"
+  },
+  {
+    "npTitleId": "CUSA53617_00",
+    "npTitleIdshort": "CUSA53617",
+    "name": "The Cat in the Hat: Rainy Day Mayhem",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-31T02:07:04.5022392Z"
+  },
+  {
+    "npTitleId": "CUSA59467_00",
+    "npTitleIdshort": "CUSA59467",
+    "name": "Nubby's Number Factory",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-31T02:07:04.5028605Z"
+  },
+  {
+    "npTitleId": "CUSA60269_00",
+    "npTitleIdshort": "CUSA60269",
+    "name": "Kitties Solitaire",
+    "region": "UP",
     "category": null,
     "psVr": null,
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
-    "date": "2026-10-30T02:07:12.649167Z"
+    "date": "2026-10-31T02:07:04.503461Z"
   }
 ]
