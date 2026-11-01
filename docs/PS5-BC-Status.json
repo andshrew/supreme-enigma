@@ -429301,10 +429301,21 @@
     "npTitleIdshort": "CUSA60269",
     "name": "Kitties Solitaire",
     "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-10-31T02:07:04.503461Z"
+  },
+  {
+    "npTitleId": "CUSA60221_00",
+    "npTitleIdshort": "CUSA60221",
+    "name": "Wreck the World",
+    "region": "UB",
     "category": null,
     "psVr": null,
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
-    "date": "2026-10-31T02:07:04.503461Z"
+    "date": "2026-11-01T02:07:19.3977716Z"
   }
 ]
