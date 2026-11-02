@@ -429312,10 +429312,21 @@
     "npTitleIdshort": "CUSA60221",
     "name": "Wreck the World",
     "region": "UB",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-01T02:07:19.3977716Z"
+  },
+  {
+    "npTitleId": "CUSA60207_00",
+    "npTitleIdshort": "CUSA60207",
+    "name": "Needle in a Haystack",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-02T02:06:57.3633709Z"
   }
 ]
