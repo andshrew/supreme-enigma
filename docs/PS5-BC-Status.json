@@ -427178,9 +427178,9 @@
     "npTitleIdshort": "CUSA53226",
     "name": "Mega City Force",
     "region": "HP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-08-22T02:07:03.9784289Z"
   },
@@ -429328,5 +429328,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-02T02:06:57.3633709Z"
+  },
+  {
+    "npTitleId": "CUSA53321_00",
+    "npTitleIdshort": "CUSA53321",
+    "name": "a pet shop after dark",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-03T02:07:20.8816815Z"
+  },
+  {
+    "npTitleId": "CUSA59538_00",
+    "npTitleIdshort": "CUSA59538",
+    "name": "Thief: The Dark Project Remastered",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-03T02:07:20.8941909Z"
+  },
+  {
+    "npTitleId": "CUSA59907_00",
+    "npTitleIdshort": "CUSA59907",
+    "name": "Cat President 2: Purrlitical Revolution",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-03T02:07:20.8963514Z"
+  },
+  {
+    "npTitleId": "CUSA60215_00",
+    "npTitleIdshort": "CUSA60215",
+    "name": "Catch To Fish",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-03T02:07:20.8970029Z"
+  },
+  {
+    "npTitleId": "CUSA60224_00",
+    "npTitleIdshort": "CUSA60224",
+    "name": "Beacon Keeper",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-03T02:07:20.8976447Z"
   }
 ]
