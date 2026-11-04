@@ -429383,5 +429383,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-03T02:07:20.8976447Z"
+  },
+  {
+    "npTitleId": "CUSA60084_00",
+    "npTitleIdshort": "CUSA60084",
+    "name": "Skygrid Courier",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-04T02:07:08.877953Z"
+  },
+  {
+    "npTitleId": "CUSA60112_00",
+    "npTitleIdshort": "CUSA60112",
+    "name": "Ritebound",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-04T02:07:08.887169Z"
   }
 ]
