@@ -429235,9 +429235,9 @@
     "npTitleIdshort": "CUSA59382",
     "name": "The Night Of The Exorcism",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-10-30T02:07:12.6472798Z"
   },
@@ -429405,5 +429405,49 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-04T02:07:08.887169Z"
+  },
+  {
+    "npTitleId": "CUSA58503_00",
+    "npTitleIdshort": "CUSA58503",
+    "name": "Hasbro Games™ Junior Collection",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-05T02:07:28.4192946Z"
+  },
+  {
+    "npTitleId": "CUSA59725_00",
+    "npTitleIdshort": "CUSA59725",
+    "name": "Arcade Archives EXZISUS",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-05T02:07:28.448072Z"
+  },
+  {
+    "npTitleId": "CUSA60116_00",
+    "npTitleIdshort": "CUSA60116",
+    "name": "The Canon Keeper PS4",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-05T02:07:28.4490566Z"
+  },
+  {
+    "npTitleId": "CUSA60154_00",
+    "npTitleIdshort": "CUSA60154",
+    "name": "Alex the Rabbit",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-05T02:07:28.4502618Z"
   }
 ]
