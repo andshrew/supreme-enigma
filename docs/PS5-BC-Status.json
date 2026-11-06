@@ -429449,5 +429449,27 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-05T02:07:28.4502618Z"
+  },
+  {
+    "npTitleId": "CUSA59671_00",
+    "npTitleIdshort": "CUSA59671",
+    "name": "Shelterra the Skyworld",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-06T02:07:16.6092485Z"
+  },
+  {
+    "npTitleId": "CUSA59954_00",
+    "npTitleIdshort": "CUSA59954",
+    "name": "Don Bradman Cricket Jr",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-06T02:07:16.6184244Z"
   }
 ]
