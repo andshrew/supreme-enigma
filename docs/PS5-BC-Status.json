@@ -429466,10 +429466,43 @@
     "npTitleIdshort": "CUSA59954",
     "name": "Don Bradman Cricket Jr",
     "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-06T02:07:16.6184244Z"
+  },
+  {
+    "npTitleId": "CUSA58827_00",
+    "npTitleIdshort": "CUSA58827",
+    "name": "Japanese Rural Life Adventure",
+    "region": "JP",
     "category": null,
     "psVr": null,
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
-    "date": "2026-11-06T02:07:16.6184244Z"
+    "date": "2026-11-07T02:07:07.8684348Z"
+  },
+  {
+    "npTitleId": "CUSA60037_00",
+    "npTitleIdshort": "CUSA60037",
+    "name": "Winx Club - Moonlight Quest",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-07T02:07:07.883079Z"
+  },
+  {
+    "npTitleId": "CUSA60230_00",
+    "npTitleIdshort": "CUSA60230",
+    "name": "Echo Flight",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-07T02:07:07.8852292Z"
   }
 ]
