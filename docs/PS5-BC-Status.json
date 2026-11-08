@@ -429504,5 +429504,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-07T02:07:07.8852292Z"
+  },
+  {
+    "npTitleId": "CUSA57767_00",
+    "npTitleIdshort": "CUSA57767",
+    "name": "God of War Sons of Sparta",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-08T02:07:12.4416767Z"
+  },
+  {
+    "npTitleId": "CUSA59943_00",
+    "npTitleIdshort": "CUSA59943",
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-08T02:07:12.4527466Z"
+  },
+  {
+    "npTitleId": "CUSA60160_00",
+    "npTitleIdshort": "CUSA60160",
+    "name": "LarsGadiel",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-08T02:07:12.4538714Z"
+  },
+  {
+    "npTitleId": "CUSA60311_00",
+    "npTitleIdshort": "CUSA60311",
+    "name": "Checkers Master",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-08T02:07:12.4547363Z"
+  },
+  {
+    "npTitleId": "CUSA60356_00",
+    "npTitleIdshort": "CUSA60356",
+    "name": "Chaos Mini Racer",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-08T02:07:12.4558117Z"
   }
 ]
