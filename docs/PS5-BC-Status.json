@@ -429559,5 +429559,60 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-08T02:07:12.4558117Z"
+  },
+  {
+    "npTitleId": "CUSA59942_00",
+    "npTitleIdshort": "CUSA59942",
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-09T02:07:31.7705033Z"
+  },
+  {
+    "npTitleId": "CUSA59944_00",
+    "npTitleIdshort": "CUSA59944",
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-09T02:07:31.7816075Z"
+  },
+  {
+    "npTitleId": "CUSA59945_00",
+    "npTitleIdshort": "CUSA59945",
+    "name": "Napoleon Maiden ~Moon, Night and Dreaming Rondo~",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-09T02:07:31.7823464Z"
+  },
+  {
+    "npTitleId": "CUSA60110_00",
+    "npTitleIdshort": "CUSA60110",
+    "name": "Calculus of Rot",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-09T02:07:31.7831505Z"
+  },
+  {
+    "npTitleId": "CUSA60333_00",
+    "npTitleIdshort": "CUSA60333",
+    "name": "Relaywardens",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-09T02:07:31.7838315Z"
   }
 ]
