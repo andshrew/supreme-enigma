@@ -402626,9 +402626,9 @@
     "npTitleIdshort": "CUSA55182",
     "name": "Becastled",
     "region": "EP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2025-10-24T02:06:36.6145667Z"
   },
@@ -429614,5 +429614,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-09T02:07:31.7838315Z"
+  },
+  {
+    "npTitleId": "CUSA60213_00",
+    "npTitleIdshort": "CUSA60213",
+    "name": "Super Astro Cat",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-10T02:06:57.930144Z"
   }
 ]
