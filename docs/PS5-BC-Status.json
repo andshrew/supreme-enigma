@@ -429625,5 +429625,71 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-10T02:06:57.930144Z"
+  },
+  {
+    "npTitleId": "CUSA59505_00",
+    "npTitleIdshort": "CUSA59505",
+    "name": "TANUKI: Pon's Summer",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-11T02:07:26.1152121Z"
+  },
+  {
+    "npTitleId": "CUSA59506_00",
+    "npTitleIdshort": "CUSA59506",
+    "name": "TANUKI: Pon's Summer",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-11T02:07:26.143553Z"
+  },
+  {
+    "npTitleId": "CUSA60202_00",
+    "npTitleIdshort": "CUSA60202",
+    "name": "Cat Simulator",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-11T02:07:26.144418Z"
+  },
+  {
+    "npTitleId": "CUSA60222_00",
+    "npTitleIdshort": "CUSA60222",
+    "name": "Peak the Hills",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-11T02:07:26.1466555Z"
+  },
+  {
+    "npTitleId": "CUSA60309_00",
+    "npTitleIdshort": "CUSA60309",
+    "name": "GOOD PRESIDENT SIMULATOR",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-11T02:07:26.1474617Z"
+  },
+  {
+    "npTitleId": "CUSA60324_00",
+    "npTitleIdshort": "CUSA60324",
+    "name": "Zomblox",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-11T02:07:26.1482904Z"
   }
 ]
