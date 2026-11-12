@@ -429691,5 +429691,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-11T02:07:26.1482904Z"
+  },
+  {
+    "npTitleId": "CUSA57015_00",
+    "npTitleIdshort": "CUSA57015",
+    "name": "MyRummy® 2",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-12T02:06:50.5862808Z"
+  },
+  {
+    "npTitleId": "CUSA58383_00",
+    "npTitleIdshort": "CUSA58383",
+    "name": "Arcade Archives SHOT RIDER",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-12T02:06:50.62416Z"
+  },
+  {
+    "npTitleId": "CUSA58918_00",
+    "npTitleIdshort": "CUSA58918",
+    "name": "Curse of Resthaven",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-12T02:06:50.6249275Z"
+  },
+  {
+    "npTitleId": "CUSA59917_00",
+    "npTitleIdshort": "CUSA59917",
+    "name": "Hotel Renovator Simulator",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-12T02:06:50.625967Z"
+  },
+  {
+    "npTitleId": "CUSA60135_00",
+    "npTitleIdshort": "CUSA60135",
+    "name": "Feral Road",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-12T02:06:50.626884Z"
+  },
+  {
+    "npTitleId": "CUSA60383_00",
+    "npTitleIdshort": "CUSA60383",
+    "name": "Prizma Puzzle Classic 3",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-12T02:06:50.6275823Z"
   }
 ]
