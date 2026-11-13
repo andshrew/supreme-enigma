@@ -429757,5 +429757,93 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-12T02:06:50.6275823Z"
+  },
+  {
+    "npTitleId": "CUSA57130_00",
+    "npTitleIdshort": "CUSA57130",
+    "name": "Barbie Rewind",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.4481284Z"
+  },
+  {
+    "npTitleId": "CUSA59599_00",
+    "npTitleIdshort": "CUSA59599",
+    "name": "Mr Sticky's Ragdoll Launch",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.4563967Z"
+  },
+  {
+    "npTitleId": "CUSA59982_00",
+    "npTitleIdshort": "CUSA59982",
+    "name": "QTA 67",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.4582962Z"
+  },
+  {
+    "npTitleId": "CUSA60070_00",
+    "npTitleIdshort": "CUSA60070",
+    "name": "Fakin It XL",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.45891Z"
+  },
+  {
+    "npTitleId": "CUSA60157_00",
+    "npTitleIdshort": "CUSA60157",
+    "name": "Escape: Immersion",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.4597439Z"
+  },
+  {
+    "npTitleId": "CUSA60289_00",
+    "npTitleIdshort": "CUSA60289",
+    "name": "Story Time",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.4603302Z"
+  },
+  {
+    "npTitleId": "CUSA60297_00",
+    "npTitleIdshort": "CUSA60297",
+    "name": "Cats with Guns",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.4611964Z"
+  },
+  {
+    "npTitleId": "CUSA60335_00",
+    "npTitleIdshort": "CUSA60335",
+    "name": "Nefiriya and the Sands of Eternity",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-13T02:07:19.4619498Z"
   }
 ]
