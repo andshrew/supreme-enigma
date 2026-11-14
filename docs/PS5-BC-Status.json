@@ -429845,5 +429845,71 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-13T02:07:19.4619498Z"
+  },
+  {
+    "npTitleId": "CUSA58302_00",
+    "npTitleIdshort": "CUSA58302",
+    "name": "Ski Jumping World Cup",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-14T02:07:07.2304321Z"
+  },
+  {
+    "npTitleId": "CUSA59689_00",
+    "npTitleIdshort": "CUSA59689",
+    "name": "Skautfold: Knight's End",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-14T02:07:07.2547671Z"
+  },
+  {
+    "npTitleId": "CUSA60306_00",
+    "npTitleIdshort": "CUSA60306",
+    "name": "ELO 1100 Chess",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-14T02:07:07.2557543Z"
+  },
+  {
+    "npTitleId": "CUSA60353_00",
+    "npTitleIdshort": "CUSA60353",
+    "name": "Sweet Sugar Candy",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-14T02:07:07.2563782Z"
+  },
+  {
+    "npTitleId": "CUSA60370_00",
+    "npTitleIdshort": "CUSA60370",
+    "name": "Lizard Lady vs the Aliens",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-14T02:07:07.2572793Z"
+  },
+  {
+    "npTitleId": "CUSA60399_00",
+    "npTitleIdshort": "CUSA60399",
+    "name": "Real Estate Dice Tycoon",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-14T02:07:07.2580045Z"
   }
 ]
