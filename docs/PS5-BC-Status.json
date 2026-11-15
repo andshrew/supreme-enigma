@@ -429911,5 +429911,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-14T02:07:07.2580045Z"
+  },
+  {
+    "npTitleId": "CUSA58932_00",
+    "npTitleIdshort": "CUSA58932",
+    "name": "Dice Gambit",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-15T02:07:54.6600645Z"
+  },
+  {
+    "npTitleId": "CUSA60239_00",
+    "npTitleIdshort": "CUSA60239",
+    "name": "Snowball Sumo",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-15T02:07:54.6864935Z"
+  },
+  {
+    "npTitleId": "CUSA60240_00",
+    "npTitleIdshort": "CUSA60240",
+    "name": "Snowball Sumo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-15T02:07:54.6873927Z"
+  },
+  {
+    "npTitleId": "CUSA60241_00",
+    "npTitleIdshort": "CUSA60241",
+    "name": "Snowball Sumo",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-15T02:07:54.6883958Z"
+  },
+  {
+    "npTitleId": "CUSA60242_00",
+    "npTitleIdshort": "CUSA60242",
+    "name": "Snowball Sumo",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-15T02:07:54.6894472Z"
+  },
+  {
+    "npTitleId": "CUSA60290_00",
+    "npTitleIdshort": "CUSA60290",
+    "name": "Santas Quest",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-15T02:07:54.6903558Z"
+  },
+  {
+    "npTitleId": "CUSA60314_00",
+    "npTitleIdshort": "CUSA60314",
+    "name": "One Button Arcade",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-15T02:07:54.6913255Z"
   }
 ]
