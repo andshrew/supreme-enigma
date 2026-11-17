@@ -429999,5 +429999,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-16T02:07:02.1185536Z"
+  },
+  {
+    "npTitleId": "CUSA59769_00",
+    "npTitleIdshort": "CUSA59769",
+    "name": "Aetherfall",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-17T02:07:12.5005524Z"
   }
 ]
