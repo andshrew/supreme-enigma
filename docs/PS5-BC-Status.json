@@ -430010,5 +430010,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-17T02:07:12.5005524Z"
+  },
+  {
+    "npTitleId": "CUSA39162_00",
+    "npTitleIdshort": "CUSA39162",
+    "name": "Stroke The Beaver",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-18T02:07:17.4174816Z"
+  },
+  {
+    "npTitleId": "CUSA53133_00",
+    "npTitleIdshort": "CUSA53133",
+    "name": "The LEGACY of KAIN series SOUL REAVER 2",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-18T02:07:17.4393482Z"
+  },
+  {
+    "npTitleId": "CUSA59078_00",
+    "npTitleIdshort": "CUSA59078",
+    "name": "Hockey Beasts",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-18T02:07:17.4400623Z"
+  },
+  {
+    "npTitleId": "CUSA60263_00",
+    "npTitleIdshort": "CUSA60263",
+    "name": "Savoury Cascade",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-18T02:07:17.4406919Z"
+  },
+  {
+    "npTitleId": "CUSA60264_00",
+    "npTitleIdshort": "CUSA60264",
+    "name": "Savoury Cascade",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-18T02:07:17.4413627Z"
+  },
+  {
+    "npTitleId": "CUSA60378_00",
+    "npTitleIdshort": "CUSA60378",
+    "name": "Santa Claus vs Aliens",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-18T02:07:17.4441768Z"
   }
 ]
