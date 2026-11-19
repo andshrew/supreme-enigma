@@ -430076,5 +430076,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-18T02:07:17.4441768Z"
+  },
+  {
+    "npTitleId": "CUSA39161_00",
+    "npTitleIdshort": "CUSA39161",
+    "name": "Stroke The Beaver",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-19T02:07:34.4311444Z"
+  },
+  {
+    "npTitleId": "CUSA59734_00",
+    "npTitleIdshort": "CUSA59734",
+    "name": "Kitsune Zero",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-19T02:07:34.4386556Z"
+  },
+  {
+    "npTitleId": "CUSA59935_00",
+    "npTitleIdshort": "CUSA59935",
+    "name": "Arcade Archives TX-1 V.8",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-19T02:07:34.4393051Z"
+  },
+  {
+    "npTitleId": "CUSA60223_00",
+    "npTitleIdshort": "CUSA60223",
+    "name": "Beacon Keeper",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-19T02:07:34.439881Z"
+  },
+  {
+    "npTitleId": "CUSA60225_00",
+    "npTitleIdshort": "CUSA60225",
+    "name": "Beacon Keeper",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-19T02:07:34.4404637Z"
+  },
+  {
+    "npTitleId": "CUSA60226_00",
+    "npTitleIdshort": "CUSA60226",
+    "name": "Beacon Keeper",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-19T02:07:34.4412151Z"
   }
 ]
