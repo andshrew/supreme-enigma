@@ -430142,5 +430142,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-19T02:07:34.4412151Z"
+  },
+  {
+    "npTitleId": "CUSA57611_00",
+    "npTitleIdshort": "CUSA57611",
+    "name": "Agent Skunk: StinkOps",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-20T02:07:16.3331687Z"
+  },
+  {
+    "npTitleId": "CUSA58511_00",
+    "npTitleIdshort": "CUSA58511",
+    "name": "Buy The Game, I Have A Gun 2: Online Open World",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-20T02:07:16.4539582Z"
+  },
+  {
+    "npTitleId": "CUSA58618_00",
+    "npTitleIdshort": "CUSA58618",
+    "name": "The House of Tesla Definitive Edition",
+    "region": "EP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-20T02:07:16.4549705Z"
+  },
+  {
+    "npTitleId": "CUSA59703_00",
+    "npTitleIdshort": "CUSA59703",
+    "name": "THYSIASTERY",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-20T02:07:16.4603939Z"
+  },
+  {
+    "npTitleId": "CUSA59949_00",
+    "npTitleIdshort": "CUSA59949",
+    "name": "GeoBook",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-20T02:07:16.4611142Z"
+  },
+  {
+    "npTitleId": "CUSA60308_00",
+    "npTitleIdshort": "CUSA60308",
+    "name": "BOARDING DENIED",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-20T02:07:16.462101Z"
   }
 ]
