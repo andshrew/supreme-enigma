@@ -430208,5 +430208,49 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-20T02:07:16.462101Z"
+  },
+  {
+    "npTitleId": "CUSA60194_00",
+    "npTitleIdshort": "CUSA60194",
+    "name": "Tingus Goose",
+    "region": "HB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-21T02:07:23.6819728Z"
+  },
+  {
+    "npTitleId": "CUSA60196_00",
+    "npTitleIdshort": "CUSA60196",
+    "name": "Eyes Of The ElderWood: Demo",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-21T02:07:23.6889154Z"
+  },
+  {
+    "npTitleId": "CUSA60237_00",
+    "npTitleIdshort": "CUSA60237",
+    "name": "Skipper",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-21T02:07:23.6907001Z"
+  },
+  {
+    "npTitleId": "CUSA60351_00",
+    "npTitleIdshort": "CUSA60351",
+    "name": "NOT TO SPEC",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-21T02:07:23.6915537Z"
   }
 ]
