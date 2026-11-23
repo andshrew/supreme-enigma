@@ -430296,5 +430296,16 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-22T02:07:30.770775Z"
+  },
+  {
+    "npTitleId": "CUSA60334_00",
+    "npTitleIdshort": "CUSA60334",
+    "name": "Palisade Provisions",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-23T02:07:13.8144907Z"
   }
 ]
