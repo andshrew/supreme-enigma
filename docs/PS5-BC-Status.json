@@ -430313,9 +430313,9 @@
     "npTitleIdshort": "CUSA54489",
     "name": "Jaden Industries: Cozy Automation Puzzler",
     "region": "HP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-24T02:07:05.6141563Z"
   },
@@ -430362,5 +430362,104 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-24T02:07:05.6289313Z"
+  },
+  {
+    "npTitleId": "CUSA39174_00",
+    "npTitleIdshort": "CUSA39174",
+    "name": "Wall2Wall",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0360355Z"
+  },
+  {
+    "npTitleId": "CUSA60030_00",
+    "npTitleIdshort": "CUSA60030",
+    "name": "Raider Kid and the Ruby Chest",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0451534Z"
+  },
+  {
+    "npTitleId": "CUSA60181_00",
+    "npTitleIdshort": "CUSA60181",
+    "name": "Tidy Up: Electronic Store",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0459847Z"
+  },
+  {
+    "npTitleId": "CUSA60259_00",
+    "npTitleIdshort": "CUSA60259",
+    "name": "Glowjar",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0467486Z"
+  },
+  {
+    "npTitleId": "CUSA60260_00",
+    "npTitleIdshort": "CUSA60260",
+    "name": "Glowjar",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0477355Z"
+  },
+  {
+    "npTitleId": "CUSA60261_00",
+    "npTitleIdshort": "CUSA60261",
+    "name": "Glowjar",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0484948Z"
+  },
+  {
+    "npTitleId": "CUSA60262_00",
+    "npTitleIdshort": "CUSA60262",
+    "name": "Glowjar",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0494075Z"
+  },
+  {
+    "npTitleId": "CUSA60381_00",
+    "npTitleIdshort": "CUSA60381",
+    "name": "Sort Them Cars: Sorting Simulator",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0503963Z"
+  },
+  {
+    "npTitleId": "CUSA60390_00",
+    "npTitleIdshort": "CUSA60390",
+    "name": "Mystery Suspect",
+    "region": "HP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-25T02:07:23.0514329Z"
   }
 ]
