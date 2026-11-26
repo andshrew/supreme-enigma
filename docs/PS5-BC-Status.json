@@ -430461,5 +430461,115 @@
     "neoEnable": null,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-25T02:07:23.0514329Z"
+  },
+  {
+    "npTitleId": "CUSA57764_00",
+    "npTitleIdshort": "CUSA57764",
+    "name": "マルポヨ: まんまるヒヨコの冒険",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1268664Z"
+  },
+  {
+    "npTitleId": "CUSA59533_00",
+    "npTitleIdshort": "CUSA59533",
+    "name": "ハッピーウィークエンド",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1626999Z"
+  },
+  {
+    "npTitleId": "CUSA59908_00",
+    "npTitleIdshort": "CUSA59908",
+    "name": "Arcade Archives DIRT DASH",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1650529Z"
+  },
+  {
+    "npTitleId": "CUSA59958_00",
+    "npTitleIdshort": "CUSA59958",
+    "name": "Batya in the Building: 10 Years Later",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1658326Z"
+  },
+  {
+    "npTitleId": "CUSA59959_00",
+    "npTitleIdshort": "CUSA59959",
+    "name": "Batya in the Building: 10 Years Later",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.166738Z"
+  },
+  {
+    "npTitleId": "CUSA59961_00",
+    "npTitleIdshort": "CUSA59961",
+    "name": "Batya in the Building: 10 Years Later",
+    "region": "HP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1676728Z"
+  },
+  {
+    "npTitleId": "CUSA60155_00",
+    "npTitleIdshort": "CUSA60155",
+    "name": "Quiet Remains Slide Puzzle",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1685975Z"
+  },
+  {
+    "npTitleId": "CUSA60156_00",
+    "npTitleIdshort": "CUSA60156",
+    "name": "Quiet Remains Slide Puzzle",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.169606Z"
+  },
+  {
+    "npTitleId": "CUSA60328_00",
+    "npTitleIdshort": "CUSA60328",
+    "name": "Lethal Love",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1703791Z"
+  },
+  {
+    "npTitleId": "CUSA60349_00",
+    "npTitleIdshort": "CUSA60349",
+    "name": "Breakworld",
+    "region": "UB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-26T02:07:15.1712882Z"
   }
 ]
