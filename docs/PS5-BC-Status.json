@@ -430465,11 +430465,11 @@
   {
     "npTitleId": "CUSA57764_00",
     "npTitleIdshort": "CUSA57764",
-    "name": "マルポヨ: まんまるヒヨコの冒険",
+    "name": "Marupoyo: The Round Chick's Adventure",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-26T02:07:15.1268664Z"
   },
@@ -430571,5 +430571,82 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-26T02:07:15.1712882Z"
+  },
+  {
+    "npTitleId": "CUSA39173_00",
+    "npTitleIdshort": "CUSA39173",
+    "name": "Wall2Wall",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-27T02:07:05.2794904Z"
+  },
+  {
+    "npTitleId": "CUSA57478_00",
+    "npTitleIdshort": "CUSA57478",
+    "name": "めろんぱーかー ～キミがなんでも部の部長さん！～",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-27T02:07:05.2845317Z"
+  },
+  {
+    "npTitleId": "CUSA57922_00",
+    "npTitleIdshort": "CUSA57922",
+    "name": "Taxi Chaos 2",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-27T02:07:05.2856762Z"
+  },
+  {
+    "npTitleId": "CUSA57923_00",
+    "npTitleIdshort": "CUSA57923",
+    "name": "Taxi Chaos 2",
+    "region": "EB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-27T02:07:05.2865105Z"
+  },
+  {
+    "npTitleId": "CUSA60172_00",
+    "npTitleIdshort": "CUSA60172",
+    "name": "Bunker",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-27T02:07:05.2872037Z"
+  },
+  {
+    "npTitleId": "CUSA60173_00",
+    "npTitleIdshort": "CUSA60173",
+    "name": "Bunker",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-27T02:07:05.2878672Z"
+  },
+  {
+    "npTitleId": "CUSA60211_00",
+    "npTitleIdshort": "CUSA60211",
+    "name": "An Eggstremely Hard Game",
+    "region": "JB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-27T02:07:05.2884648Z"
   }
 ]
