@@ -327771,9 +327771,9 @@
     "npTitleIdshort": "CUSA46033",
     "name": "Darkest Dungeon II",
     "region": "UP",
-    "category": null,
-    "psVr": null,
-    "neoEnable": null,
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2024-04-20T02:07:26.7589574Z"
   },
@@ -430648,5 +430648,71 @@
     "neoEnable": 1,
     "ps5bc": "COMPATIBLE",
     "date": "2026-11-27T02:07:05.2884648Z"
+  },
+  {
+    "npTitleId": "CUSA59891_00",
+    "npTitleIdshort": "CUSA59891",
+    "name": "Idle Breaker",
+    "region": "UP",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-28T02:07:01.6874556Z"
+  },
+  {
+    "npTitleId": "CUSA60227_00",
+    "npTitleIdshort": "CUSA60227",
+    "name": "Echo Flight",
+    "region": "UP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-28T02:07:01.6965545Z"
+  },
+  {
+    "npTitleId": "CUSA60228_00",
+    "npTitleIdshort": "CUSA60228",
+    "name": "Echo Flight",
+    "region": "EP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-28T02:07:01.6986593Z"
+  },
+  {
+    "npTitleId": "CUSA60229_00",
+    "npTitleIdshort": "CUSA60229",
+    "name": "Echo Flight",
+    "region": "JP",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-28T02:07:01.6996169Z"
+  },
+  {
+    "npTitleId": "CUSA60307_00",
+    "npTitleIdshort": "CUSA60307",
+    "name": "Smartopus:IQ Quest",
+    "region": "HB",
+    "category": "gd",
+    "psVr": 0,
+    "neoEnable": 1,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-28T02:07:01.7002691Z"
+  },
+  {
+    "npTitleId": "CUSA60397_00",
+    "npTitleIdshort": "CUSA60397",
+    "name": "CLAW BELOW",
+    "region": "UB",
+    "category": null,
+    "psVr": null,
+    "neoEnable": null,
+    "ps5bc": "COMPATIBLE",
+    "date": "2026-11-28T02:07:01.7009412Z"
   }
 ]
